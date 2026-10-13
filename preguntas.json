@@ -1,83 +1,47 @@
 {
-  "convocatorias": [
+  "convocatoria": {
+    "id": "conv_velez_malaga_c2_2025",
+    "titulo": "Auxiliar Administrativo/a - Ayuntamiento de Vélez-Málaga",
+    "oep": ["2023", "2024"],
+    "grupo": "C2",
+    "subescala": "Auxiliar",
+    "boletin": "BOP Málaga nº 222 (20/11/2025)",
+    "fecha_publicacion": "2025-11-20"
+  },
+  "temario": [
     {
-      "convocatoria": "Ayuntamiento de Vélez-Málaga",
-      "temas": [
-        {
-          "tema": "Tema 3: Organización Municipal y Competencias",
-          "normas": [
-            {
-              "id": "LRBRL_7_1985",
-              "titulo": "Ley 7/1985 Reguladora de las Bases del Régimen Local (LBRL)",
-              "preguntas": [
-                {
-                  "id": 1,
-                  "pregunta": "En los municipios de Gran Población, el número de miembros de la Junta de Gobierno Local no podrá exceder de:",
-                  "opciones": [
-                    "Un tercio del número legal de miembros del Pleno",
-                    "La mitad del número legal de miembros del Pleno",
-                    "Un cuarto del número legal de miembros del Pleno",
-                    "No hay límite legal regulado"
-                  ],
-                  "respuesta_correcta": 0,
-                  "explicacion": "Según la LRBRL, la Junta de Gobierno Local no podrá exceder del tercio del número legal de miembros del Pleno."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "tema": "Tema 13: Organización y funcionamiento del Ayuntamiento de Vélez-Málaga",
-          "normas": [
-            {
-              "id": "VELEZ_MALAGA_ORG",
-              "titulo": "Organización y Competencias del Alcalde y Junta de Gobierno",
-              "preguntas": [
-                {
-                  "id": 1,
-                  "pregunta": "En el Ayuntamiento de Vélez-Málaga, ¿quién ostenta las funciones de jefatura superior de personal?",
-                  "opciones": [
-                    "El Pleno",
-                    "El Alcalde",
-                    "El Concejal de Delegación de Personal",
-                    "La Junta de Gobierno Local"
-                  ],
-                  "respuesta_correcta": 1,
-                  "explicacion": "El Alcalde ostenta la jefatura superior de todo el personal al servicio de la corporación municipal."
-                }
-              ]
-            }
-          ]
-        }
+      "id_tema": 1,
+      "bloque": "Materias comunes",
+      "titulo_tema": "La Constitución Española (I)",
+      "epigrafes": [
+        "España como Estado Social y Democrático de Derecho",
+        "Los derechos y deberes fundamentales"
       ]
-    },
+    }
+  ],
+  "preguntas": [
     {
-      "convocatoria": "General State Administration",
-      "temas": [
-        {
-          "tema": "Tema 1: La Constitución Española (I)",
-          "normas": [
-            {
-              "id": "CE_1978",
-              "titulo": "Constitución Española de 1978",
-              "preguntas": [
-                {
-                  "id": 1,
-                  "pregunta": "¿En qué artículo de la C.E. se consagra el principio de igualdad ante la ley?",
-                  "opciones": [
-                    "Artículo 9.3",
-                    "Artículo 14",
-                    "Artículo 23",
-                    "Artículo 10"
-                  ],
-                  "respuesta_correcta": 1,
-                  "explicacion": "El artículo 14 establece que los españoles son iguales ante la ley."
-                }
-              ]
-            }
-          ]
-        }
-      ]
+      "id_pregunta": "preg_ce_art01_001",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "1",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "¿España se constituye en un Estado social y democrático de Derecho que propugna como valores superiores de su ordenamiento jurídico?",
+      "opciones": [
+        "La libertad, la justicia, la igualdad y el pluralismo político.",
+        "La libertad, la solidaridad, la igualdad y la justicia.",
+        "La monarquía, la democracia, la libertad y la justicia.",
+        "La libertad, la unidad, la igualdad y la fraternidad."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El artículo 1.1 de la Constitución Española establece que España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente"
+      }
     }
   ]
 }

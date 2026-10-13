@@ -118,7 +118,9 @@
         "Principios de la potestad sancionadora",
         "Principios de la responsabilidad patrimonial de las Administraciones Públicas"
       ]
-    },
+    }
+  ],
+  "temario_extra": [
     {
       "id_tema": 11,
       "bloque": "Materias específicas",
@@ -243,12 +245,12 @@
         "El pluralismo político"
       ],
       "respuesta_correcta": 2,
-      "explicacion": "El artículo 1.1 de la Constitución Española propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político (la fraternidad no está incluida).",
+      "explicacion": "El artículo 1.1 de la CE establece como valores superiores la libertad, la justicia, la igualdad y el pluralismo político.",
       "control_normativo": {
         "estado": "activa",
         "fecha_creacion": "2026-10-13",
         "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la CE de 1978"
+        "motivo_estado": "Vigente conforme a la CE"
       }
     },
     {
@@ -266,12 +268,12 @@
         "Por un periodo de doce años"
       ],
       "respuesta_correcta": 2,
-      "explicacion": "Según el artículo 159.3 de la CE, los miembros del Tribunal Constitucional serán nombrados por un periodo de nueve años y se renovarán por terceras partes cada tres.",
+      "explicacion": "Según el artículo 159.3 de la CE, los miembros del Tribunal Constitucional se nombran por nueve años.",
       "control_normativo": {
         "estado": "activa",
         "fecha_creacion": "2026-10-13",
         "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme al Título IX de la CE"
+        "motivo_estado": "Vigente conforme a la CE"
       }
     },
     {
@@ -289,12 +291,12 @@
         "Al Concejal delegado de Hacienda"
       ],
       "respuesta_correcta": 1,
-      "explicacion": "El artículo 127.1.h) de la LBRL atribuye a la Junta de Gobierno Local en municipios de gran población la aprobación del proyecto de Presupuestos, mientras que su aprobación definitiva corresponde al Pleno.",
+      "explicacion": "El art. 127.1.h) de la LBRL atribuye a la Junta de Gobierno Local la aprobación del proyecto de Presupuestos.",
       "control_normativo": {
         "estado": "activa",
         "fecha_creacion": "2026-10-13",
         "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la Ley 7/1985 (LBRL)"
+        "motivo_estado": "Vigente conforme a la LBRL"
       }
     },
     {
@@ -312,7 +314,7 @@
         "Solo las empresas con un volumen de negocio superior a un millón de euros."
       ],
       "respuesta_correcta": 1,
-      "explicacion": "El artículo 14.2 de la LPACAP impone la obligación de relacionarse electrónicamente a personas jurídicas, entidades sin personalidad, ejercientes de actividades colegiadas y empleados públicos para trámites por su condición.",
+      "explicacion": "El art. 14.2 de la Ley 39/2015 impone la obligación de relacionarse electrónicamente a las personas jurídicas.",
       "control_normativo": {
         "estado": "activa",
         "fecha_creacion": "2026-10-13",
@@ -335,7 +337,7 @@
         "Un año"
       ],
       "respuesta_correcta": 1,
-      "explicacion": "El artículo 21.2 de la Ley 39/2015 señala que cuando las normas reguladoras no fijen plazo máximo, este será de tres meses.",
+      "explicacion": "El art. 21.2 señala que en defecto de norma específica el plazo es de tres meses.",
       "control_normativo": {
         "estado": "activa",
         "fecha_creacion": "2026-10-13",
@@ -350,4 +352,90 @@
       "articulo": "47",
       "apartado": "1",
       "dificultad": "alta",
-      "pregunta
+      "pregunta": "¿Los actos de las Administraciones Públicas que lesionen los derechos y libertades susceptibles de amparo constitucional son?",
+      "opciones": [
+        "Anulables",
+        "Nulos de pleno derecho",
+        "Irregulares pero válidos",
+        "Convalidables tras subsanación"
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "Conforme al art. 47.1.a) de la Ley 39/2015, son nulos de pleno derecho.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme a la Ley 39/2015"
+      }
+    },
+    {
+      "id_pregunta": "preg_lpacap_art124_001",
+      "id_tema": 9,
+      "id_norma": "ley_39_2015",
+      "articulo": "124",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "¿Cuál es el plazo para interponer el recurso potestativo de reposición si el acto administrativo fuera expreso?",
+      "opciones": [
+        "Un mes",
+        "Dos meses",
+        "Tres meses",
+        "En cualquier momento"
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 124.1 de la Ley 39/2015 fija el plazo en un mes si el acto es expreso.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme a la Ley 39/2015"
+      }
+    },
+    {
+      "id_pregunta": "preg_trebep_art89_001",
+      "id_tema": 15,
+      "id_norma": "rdlg_5_2015",
+      "articulo": "89",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "¿Cuál de las siguientes NO es una situación administrativa contemplada con carácter general en el EBEP para los funcionarios de carrera?",
+      "opciones": [
+        "Servicio activo",
+        "Servicios especiales",
+        "Excedencia",
+        "Licencia por asuntos propios superior a dos años"
+      ],
+      "respuesta_correcta": 3,
+      "explicacion": "La licencia por asuntos propios es un permiso, no una situación administrativa del art. 85 del TREBEP.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme al TREBEP"
+      }
+    },
+    {
+      "id_pregunta": "preg_trhl_art104_001",
+      "id_tema": 19,
+      "id_norma": "rdleg_2_2004",
+      "articulo": "104",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "En la plusvalía municipal (IIVTNU), en una transmisión a título lucrativo (donación o herencia), ¿quién es el sujeto pasivo?",
+      "opciones": [
+        "El transmitente del terreno",
+        "El adquirente del terreno",
+        "El Ayuntamiento del municipio",
+        "El Notario autorizante"
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "Según el art. 106.1.a) del TRLRHL, en transmisiones lucrativas el sujeto pasivo es el adquirente.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme al TRLRHL"
+      }
+    }
+  ]
+}

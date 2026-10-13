@@ -1,4 +1,6 @@
 {
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "version_esquema": "1.0",
   "convocatoria": {
     "id": "conv_velez_malaga_c2_2025",
     "titulo": "Auxiliar Administrativo/a - Ayuntamiento de Vélez-Málaga",
@@ -12,10 +14,216 @@
     {
       "id_tema": 1,
       "bloque": "Materias comunes",
-      "titulo_tema": "La Constitución Española (I)",
+      "titulo_tema": "La Constitución Española (I): Estado Social y Democrático de Derecho. Derechos y deberes fundamentales. El Tribunal Constitucional. La reforma constitucional",
       "epigrafes": [
-        "España como Estado Social y Democrático de Derecho",
-        "Los derechos y deberes fundamentales"
+        "España como Estado Social y Democrático de Derecho y valores superiores",
+        "Los derechos y deberes fundamentales: Título I de la Constitución Española (excluido el Capítulo III)",
+        "El Tribunal Constitucional: Título IX de la Constitución Española",
+        "La reforma constitucional: Título X de la Constitución Española"
+      ]
+    },
+    {
+      "id_tema": 2,
+      "bloque": "Materias comunes",
+      "titulo_tema": "La Constitución Española (II): La Monarquía Parlamentaria. La Corona. Las Cortes Generales. El Gobierno y la Administración. El Poder Judicial",
+      "epigrafes": [
+        "La Corona: Título II de la Constitución Española",
+        "Las Cortes Generales: Capítulo I del Título III de la Constitución Española",
+        "El Gobierno y la Administración: Título IV de la Constitución Española",
+        "El Poder Judicial: Título VI de la Constitución Española"
+      ]
+    },
+    {
+      "id_tema": 3,
+      "bloque": "Materias comunes",
+      "titulo_tema": "La Constitución Española (III): La Organización Territorial del Estado",
+      "epigrafes": [
+        "El Estado español como Estado compuesto",
+        "La organización territorial del Estado: Título VIII de la Constitución Española"
+      ]
+    },
+    {
+      "id_tema": 4,
+      "bloque": "Materias comunes",
+      "titulo_tema": "El Estatuto de Autonomía para Andalucía",
+      "epigrafes": [
+        "La organización institucional de la Comunidad Autónoma: Capítulos I, III, IV, VI y VII del Título IV",
+        "La organización territorial de la Comunidad Autónoma: Título III del Estatuto de Autonomía"
+      ]
+    },
+    {
+      "id_tema": 5,
+      "bloque": "Materias específicas",
+      "titulo_tema": "La Ley 7/1985, Reguladora de las Bases del Régimen Local (LBRL)",
+      "epigrafes": [
+        "Disposiciones generales",
+        "El municipio: concepto, territorio y población. Competencias del municipio",
+        "La provincia: concepto y competencias",
+        "El régimen de organización de los municipios de gran población: Título X de la LBRL"
+      ]
+    },
+    {
+      "id_tema": 6,
+      "bloque": "Materias específicas",
+      "titulo_tema": "Las ordenanzas y reglamentos de las entidades locales",
+      "epigrafes": [
+        "Clases de ordenanzas y reglamentos. Procedimiento de elaboración y aprobación",
+        "Las ordenanzas fiscales",
+        "Los bandos"
+      ]
+    },
+    {
+      "id_tema": 7,
+      "bloque": "Materias específicas",
+      "titulo_tema": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (I)",
+      "epigrafes": [
+        "Disposiciones generales. Objeto y ámbito de aplicación",
+        "Interesado en el procedimiento administrativo y representación",
+        "Derechos de las personas en sus relaciones con las Administraciones Públicas",
+        "Derecho y obligación de relacionarse electrónicamente con las Administraciones Públicas",
+        "Registros. Archivo de documentos. Validez y eficacia de copias. Documentos aportados",
+        "Términos y plazos"
+      ]
+    },
+    {
+      "id_tema": 8,
+      "bloque": "Materias específicas",
+      "titulo_tema": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (II)",
+      "epigrafes": [
+        "Los actos administrativos: motivación, efectos, notificación",
+        "Nulidad de pleno derecho y anulabilidad",
+        "El procedimiento administrativo: derechos de los interesados y fases del procedimiento (Título IV)"
+      ]
+    },
+    {
+      "id_tema": 9,
+      "bloque": "Materias específicas",
+      "titulo_tema": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (III)",
+      "epigrafes": [
+        "La revisión de oficio",
+        "Los recursos administrativos: principios generales",
+        "Recurso de alzada: objeto y plazos",
+        "Recurso potestativo de reposición: objeto, naturaleza y plazos",
+        "Recurso extraordinario de revisión: objeto, plazos y resolución"
+      ]
+    },
+    {
+      "id_tema": 10,
+      "bloque": "Materias específicas",
+      "titulo_tema": "La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "epigrafes": [
+        "Objeto, ámbito de aplicación y principios generales",
+        "Órganos administrativos. Competencia: delegación, avocación, encomienda de gestión, delegación de firma y suplencia",
+        "Órganos colegiados: funcionamiento. Abstención y recusación",
+        "Principios de la potestad sancionadora",
+        "Principios de la responsabilidad patrimonial de las Administraciones Públicas"
+      ]
+    },
+    {
+      "id_tema": 11,
+      "bloque": "Materias específicas",
+      "titulo_tema": "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno",
+      "epigrafes": [
+        "Objeto y ámbito subjetivo de aplicación",
+        "Publicidad activa: principios generales e información institucional, organizativa y económica",
+        "Derecho de acceso a la información pública: régimen general y ejercicio"
+      ]
+    },
+    {
+      "id_tema": 12,
+      "bloque": "Materias específicas",
+      "titulo_tema": "La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "epigrafes": [
+        "Objeto y finalidad",
+        "Delimitación de los tipos contractuales",
+        "Contratos sujetos a una regulación armonizada (SARA)",
+        "Contratos administrativos y contratos privados"
+      ]
+    },
+    {
+      "id_tema": 13,
+      "bloque": "Materias específicas",
+      "titulo_tema": "Organización y funcionamiento del Ayuntamiento de Vélez-Málaga",
+      "epigrafes": [
+        "El Alcalde: funciones y competencias susceptibles de delegación",
+        "Los Tenientes de Alcalde",
+        "Áreas y delegaciones del Ayuntamiento de Vélez-Málaga",
+        "La Junta de Gobierno Local: competencias y delegación",
+        "Entidades públicas empresariales y empresas públicas"
+      ]
+    },
+    {
+      "id_tema": 14,
+      "bloque": "Materias específicas",
+      "titulo_tema": "El personal al servicio de las entidades locales (I)",
+      "epigrafes": [
+        "Normativa aplicable a los funcionarios locales",
+        "Concepto y clases de empleados públicos",
+        "Derechos y deberes de los empleados públicos",
+        "Selección de los empleados públicos locales"
+      ]
+    },
+    {
+      "id_tema": 15,
+      "bloque": "Materias específicas",
+      "titulo_tema": "El personal al servicio de las entidades locales (II)",
+      "epigrafes": [
+        "Derechos retributivos",
+        "Derecho a la negociación colectiva",
+        "Provisión de puestos de trabajo y movilidad",
+        "Situaciones administrativas de los funcionarios públicos",
+        "Régimen disciplinario"
+      ]
+    },
+    {
+      "id_tema": 16,
+      "bloque": "Materias específicas",
+      "titulo_tema": "La Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres",
+      "epigrafes": [
+        "Objeto y ámbito de aplicación. El principio de igualdad",
+        "Los planes de igualdad de las empresas y medidas de promoción",
+        "Criterios de actuación de las Administraciones Públicas"
+      ]
+    },
+    {
+      "id_tema": 17,
+      "bloque": "Materias específicas",
+      "titulo_tema": "La Ley Orgánica 1/2004, de Medidas de Protección Integral contra la Violencia de Género",
+      "epigrafes": [
+        "Objeto y principios rectores",
+        "Derechos de las mujeres víctimas de violencia de género",
+        "Derechos de las funcionarias públicas"
+      ]
+    },
+    {
+      "id_tema": 18,
+      "bloque": "Materias específicas",
+      "titulo_tema": "El Presupuesto Municipal",
+      "epigrafes": [
+        "Contenido y aprobación del presupuesto municipal",
+        "La ejecución del presupuesto municipal"
+      ]
+    },
+    {
+      "id_tema": 19,
+      "bloque": "Materias específicas",
+      "titulo_tema": "Las Haciendas Locales y Tributos Municipales",
+      "epigrafes": [
+        "Los recursos municipales: clases",
+        "Los tributos propios: clases",
+        "Impuesto sobre Bienes Inmuebles (IBI): hecho imponible, sujetos pasivos y base imponible",
+        "Impuesto sobre Vehículos de Tracción Mecánica (IVTM): hecho imponible, sujetos pasivos y base imponible",
+        "Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana (IIVTNU): hecho imponible, sujetos pasivos y base imponible"
+      ]
+    },
+    {
+      "id_tema": 20,
+      "bloque": "Materias específicas",
+      "titulo_tema": "Prevención de Riesgos Laborales y Autoprotección en el Ayuntamiento de Vélez-Málaga",
+      "epigrafes": [
+        "Ley 31/1995: ámbito de aplicación, definiciones, derechos y obligaciones de los trabajadores",
+        "Organización del Servicio de Prevención de Riesgos Laborales del Excmo. Ayuntamiento de Vélez-Málaga",
+        "Real Decreto 393/2007: Norma Básica de Autoprotección y Planes de Autoprotección"
       ]
     }
   ],
@@ -27,21 +235,177 @@
       "articulo": "1",
       "apartado": "1",
       "dificultad": "fácil",
-      "pregunta": "¿España se constituye en un Estado social y democrático de Derecho que propugna como valores superiores de su ordenamiento jurídico?",
+      "pregunta": "¿Cuál de los siguientes NO es un valor superior del ordenamiento jurídico español según el artículo 1.1 de la Constitución Española?",
       "opciones": [
-        "La libertad, la justicia, la igualdad y el pluralismo político.",
-        "La libertad, la solidaridad, la igualdad y la justicia.",
-        "La monarquía, la democracia, la libertad y la justicia.",
-        "La libertad, la unidad, la igualdad y la fraternidad."
+        "La libertad",
+        "La justicia",
+        "La fraternidad",
+        "El pluralismo político"
       ],
-      "respuesta_correcta": 0,
-      "explicacion": "El artículo 1.1 de la Constitución Española establece que España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.",
+      "respuesta_correcta": 2,
+      "explicacion": "El artículo 1.1 de la Constitución Española propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político (la fraternidad no está incluida).",
       "control_normativo": {
         "estado": "activa",
         "fecha_creacion": "2026-10-13",
         "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente"
+        "motivo_estado": "Vigente conforme a la CE de 1978"
       }
-    }
-  ]
-}
+    },
+    {
+      "id_pregunta": "preg_ce_art159_001",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "159",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "¿Por cuánto tiempo son nombrados los miembros del Tribunal Constitucional conforme al Título IX de la Constitución Española?",
+      "opciones": [
+        "Por un periodo de cuatro años",
+        "Por un periodo de seis años",
+        "Por un periodo de nueve años",
+        "Por un periodo de doce años"
+      ],
+      "respuesta_correcta": 2,
+      "explicacion": "Según el artículo 159.3 de la CE, los miembros del Tribunal Constitucional serán nombrados por un periodo de nueve años y se renovarán por terceras partes cada tres.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme al Título IX de la CE"
+      }
+    },
+    {
+      "id_pregunta": "preg_lbrl_art121_001",
+      "id_tema": 5,
+      "id_norma": "ley_7_1985",
+      "articulo": "121",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "En los municipios de gran población (Título X LBRL), ¿a quién corresponde la aprobación del proyecto de Presupuesto Municipal?",
+      "opciones": [
+        "Al Pleno del Ayuntamiento exclusivamente",
+        "A la Junta de Gobierno Local",
+        "Al Alcalde mediante Decreto",
+        "Al Concejal delegado de Hacienda"
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "El artículo 127.1.h) de la LBRL atribuye a la Junta de Gobierno Local en municipios de gran población la aprobación del proyecto de Presupuestos, mientras que su aprobación definitiva corresponde al Pleno.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme a la Ley 7/1985 (LBRL)"
+      }
+    },
+    {
+      "id_pregunta": "preg_lpacap_art14_001",
+      "id_tema": 7,
+      "id_norma": "ley_39_2015",
+      "articulo": "14",
+      "apartado": "2",
+      "dificultad": "media",
+      "pregunta": "Según la Ley 39/2015, ¿quiénes están obligados en todo caso a relacionarse a través de medios electrónicos con las Administraciones Públicas?",
+      "opciones": [
+        "Únicamente los empleados públicos para cualquier trámite personal.",
+        "Las personas jurídicas y entidades sin personalidad jurídica.",
+        "Todas las personas físicas mayores de edad.",
+        "Solo las empresas con un volumen de negocio superior a un millón de euros."
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "El artículo 14.2 de la LPACAP impone la obligación de relacionarse electrónicamente a personas jurídicas, entidades sin personalidad, ejercientes de actividades colegiadas y empleados públicos para trámites por su condición.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme a la Ley 39/2015"
+      }
+    },
+    {
+      "id_pregunta": "preg_lpacap_art21_001",
+      "id_tema": 7,
+      "id_norma": "ley_39_2015",
+      "articulo": "21",
+      "apartado": "2",
+      "dificultad": "fácil",
+      "pregunta": "¿Cuál es el plazo máximo general para notificar la resolución expresa cuando la norma reguladora del procedimiento no fije uno específico?",
+      "opciones": [
+        "Un mes",
+        "Tres meses",
+        "Seis meses",
+        "Un año"
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "El artículo 21.2 de la Ley 39/2015 señala que cuando las normas reguladoras no fijen plazo máximo, este será de tres meses.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme a la Ley 39/2015"
+      }
+    },
+    {
+      "id_pregunta": "preg_lpacap_art47_001",
+      "id_tema": 8,
+      "id_norma": "ley_39_2015",
+      "articulo": "47",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "¿Los actos de las Administraciones Públicas que lesionen los derechos y libertades susceptibles de amparo constitucional son?",
+      "opciones": [
+        "Anulables",
+        "Nulos de pleno derecho",
+        "Irregulares pero válidos",
+        "Convalidables tras subsanación"
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "Conforme al artículo 47.1.a) de la Ley 39/2015, los actos que lesionen los derechos y libertades susceptibles de amparo constitucional son nulos de pleno derecho.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme a la Ley 39/2015"
+      }
+    },
+    {
+      "id_pregunta": "preg_lpacap_art124_001",
+      "id_tema": 9,
+      "id_norma": "ley_39_2015",
+      "articulo": "124",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "¿Cuál es el plazo para interponer el recurso potestativo de reposición si el acto administrativo fuera expreso?",
+      "opciones": [
+        "Un mes",
+        "Dos meses",
+        "Tres meses",
+        "En cualquier momento"
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El artículo 124.1 de la Ley 39/2015 establece que el plazo para la interposición del recurso potestativo de reposición será de un mes si el acto es expreso.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme a la Ley 39/2015"
+      }
+    },
+    {
+      "id_pregunta": "preg_trebep_art89_001",
+      "id_tema": 15,
+      "id_norma": "rdlg_5_2015",
+      "articulo": "89",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "¿Cuál de las siguientes NO es una situación administrativa contemplada con carácter general en el EBEP para los funcionarios de carrera?",
+      "opciones": [
+        "Servicio activo",
+        "Servicios especiales",
+        "Excedencia",
+        "Licencia por asuntos propios superior a dos años"
+      ],
+      "respuesta_correcta": 3,
+      "explicacion": "Las situaciones administrativas recogidas en el art. 85 del TREBEP son: servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones. La licencia es un permiso, no una situación administrativa.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",

@@ -118,9 +118,7 @@
         "Principios de la potestad sancionadora",
         "Principios de la responsabilidad patrimonial de las Administraciones Públicas"
       ]
-    }
-  ],
-  "temario_extra": [
+    },
     {
       "id_tema": 11,
       "bloque": "Materias específicas",
@@ -277,6 +275,75 @@
       }
     },
     {
+      "id_pregunta": "preg_ce_art56_001",
+      "id_tema": 2,
+      "id_norma": "ce_1978",
+      "articulo": "56",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "Según la Constitución Española, ¿quién es el Jefe del Estado?",
+      "opciones": [
+        "El Presidente del Gobierno",
+        "El Rey",
+        "El Presidente del Congreso de los Diputados",
+        "El Presidente del Tribunal Constitucional"
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "El artículo 56.1 de la CE establece que el Rey es el Jefe del Estado, símbolo de su unidad y permanencia.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme a la CE"
+      }
+    },
+    {
+      "id_pregunta": "preg_ce_art137_001",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "137",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "Conforme al artículo 137 de la Constitución Española, el Estado se organiza territorialmente en:",
+      "opciones": [
+        "Municipios, Provincias y Comunidades Autónomas",
+        "Municipios, Comarcas y Regiones",
+        "Provincias y Comunidades Autónomas exclusivamente",
+        "Municipios, Mancomunidades y Diputaciones"
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 137 de la CE determina que el Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme a la CE"
+      }
+    },
+    {
+      "id_pregunta": "preg_eaa_art01_001",
+      "id_tema": 4,
+      "id_norma": "ley_org_2_2007",
+      "articulo": "1",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "Según el Estatuto de Autonomía para Andalucía, Andalucía accede a la autonomía como:",
+      "opciones": [
+        "Nacionalidad histórica",
+        "Región administrativa",
+        "Comunidad insular",
+        "Entidad territorial delegada"
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El artículo 1.1 del Estatuto de Autonomía para Andalucía define a Andalucía como nacionalidad histórica en el ejercicio del derecho al autogobierno.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme a la LO 2/2007"
+      }
+    },
+    {
       "id_pregunta": "preg_lbrl_art121_001",
       "id_tema": 5,
       "id_norma": "ley_7_1985",
@@ -292,6 +359,29 @@
       ],
       "respuesta_correcta": 1,
       "explicacion": "El art. 127.1.h) de la LBRL atribuye a la Junta de Gobierno Local la aprobación del proyecto de Presupuestos.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme a la LBRL"
+      }
+    },
+    {
+      "id_pregunta": "preg_lbrl_art47_001",
+      "id_tema": 6,
+      "id_norma": "ley_7_1985",
+      "articulo": "47",
+      "apartado": "2",
+      "dificultad": "media",
+      "pregunta": "¿Qué mayoría se requiere con carácter general en el Pleno local para la aprobación definitiva de las Ordenanzas Fiscales?",
+      "opciones": [
+        "Mayoría absoluta del número legal de miembros",
+        "Mayoría simple de los miembros presentes",
+        "Mayoría de dos tercios del número de hecho",
+        "Unanimidad de los grupos políticos"
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "Salvo regulación especial que exija mayoría absoluta, la aprobación de ordenanzas fiscales se rige por la regla general de mayoría simple conforme a la LBRL.",
       "control_normativo": {
         "estado": "activa",
         "fecha_creacion": "2026-10-13",
@@ -344,7 +434,8 @@
         "fecha_ultima_revision": "2026-10-13",
         "motivo_estado": "Vigente conforme a la Ley 39/2015"
       }
-    },
+    }
+    ,
     {
       "id_pregunta": "preg_lpacap_art47_001",
       "id_tema": 8,
@@ -392,6 +483,121 @@
       }
     },
     {
+      "id_pregunta": "preg_lrjsp_art09_001",
+      "id_tema": 10,
+      "id_norma": "ley_40_2015",
+      "articulo": "9",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "Según la Ley 40/2015, la delegación de competencias entre órganos de una misma Administración requerirá para su eficacia:",
+      "opciones": [
+        "La publicación en el Boletín Oficial correspondiente",
+        "La ratificación por el Consejo de Ministros o Gobierno Autonómico",
+        "La firma ante Notario Público",
+        "La aprobación previa de los interesados"
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 9.3 de la Ley 40/2015 exige la publicación de las delegaciones de competencias en el Boletín Oficial correspondiente.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme a la Ley 40/2015"
+      }
+    },
+    {
+      "id_pregunta": "preg_transp_art12_001",
+      "id_tema": 11,
+      "id_norma": "ley_19_2013",
+      "articulo": "12",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "Según la Ley 19/2013 de Transparencia, todas las personas tienen derecho a acceder a la información pública sin necesidad de:",
+      "opciones": [
+        "Identificarse formalmente",
+        "Motivar su solicitud",
+        "Residir en territorio nacional",
+        "Pagar ninguna tasa de tramitación"
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "El artículo 17.3 de la Ley 19/2013 establece que el solicitante no está obligado a motivar su solicitud de acceso a la información.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme a la Ley 19/2013"
+      }
+    },
+    {
+      "id_pregunta": "preg_lcsp_art159_001",
+      "id_tema": 12,
+      "id_norma": "ley_9_2017",
+      "articulo": "159",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "En la Ley de Contratos del Sector Público, los contratos cuyo valor estimado sea inferior a 15.000 euros en servicios o suministros se consideran:",
+      "opciones": [
+        "Contratos menores",
+        "Contratos SARA",
+        "Contratos de emergencia",
+        "Contratos de concesión"
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 118 de la LCSP establece el umbral de 15.000 euros para contratos menores de servicios y suministros.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme a la Ley 9/2017"
+      }
+    },
+    {
+      "id_pregunta": "preg_velez_alcalde_001",
+      "id_tema": 13,
+      "id_norma": "ley_7_1985",
+      "articulo": "124",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "En los municipios de gran población como Vélez-Málaga, ¿quién preside la Junta de Gobierno Local?",
+      "opciones": [
+        "El Alcalde",
+        "El Primer Teniente de Alcalde",
+        "El Concejal de Mayor Edad",
+        "El Secretario General del Pleno"
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "Conforme al artículo 126 de la LBRL, la Junta de Gobierno Local se integra por el Alcalde, que la preside, y un número de concejales.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme a la LBRL"
+      }
+    },
+    {
+      "id_pregunta": "preg_trebep_art08_001",
+      "id_tema": 14,
+      "id_norma": "rdlg_5_2015",
+      "articulo": "8",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "Según el TREBEP, los empleados públicos se clasifican en:",
+      "opciones": [
+        "Funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual",
+        "Funcionarios fijos y personal eventual exclusivamente",
+        "Personal con plaza y personal contrata",
+        "Cuerpo A, Cuerpo B y Cuerpo C únicamente"
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 8.2 del TREBEP clasifica a los empleados públicos en funcionarios de carrera, interinos, personal laboral y personal eventual.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme al TREBEP"
+      }
+    },
+    {
       "id_pregunta": "preg_trebep_art89_001",
       "id_tema": 15,
       "id_norma": "rdlg_5_2015",
@@ -415,6 +621,75 @@
       }
     },
     {
+      "id_pregunta": "preg_lo3_2007_art45_001",
+      "id_tema": 16,
+      "id_norma": "lo_3_2007",
+      "articulo": "45",
+      "apartado": "2",
+      "dificultad": "media",
+      "pregunta": "Según la Ley Orgánica 3/2007 para la igualdad efectiva, las empresas están obligadas a elaborar un Plan de Igualdad cuando tengan más de:",
+      "opciones": [
+        "50 trabajadores",
+        "100 trabajadores",
+        "250 trabajadores",
+        "500 trabajadores"
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "Tras las reformas legales, el art. 45.2 de la LO 3/2007 establece la obligación de plan de igualdad para empresas de 50 o más trabajadores.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme a la LO 3/2007"
+      }
+    },
+    {
+      "id_pregunta": "preg_lo1_2004_art21_001",
+      "id_tema": 17,
+      "id_norma": "lo_1_2004",
+      "articulo": "21",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "La funcionaria víctima de violencia de género que se vea obligada a abandonar el puesto de trabajo en la localidad donde venía prestando sus servicios tiene derecho a:",
+      "opciones": [
+        "El traslado a otro puesto de trabajo de análogas características",
+        "La jubilación anticipada forzosa",
+        "Una excedencia obligatoria sin reserva de puesto",
+        "La pérdida inmediata de su condición de funcionaria"
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El TREBEP y la LO 1/2004 reconocen el derecho al traslado o movilidad a las funcionarias víctimas de violencia de género.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme a la LO 1/2004"
+      }
+    },
+    {
+      "id_pregunta": "preg_presup_trhl_168_001",
+      "id_tema": 18,
+      "id_norma": "rdleg_2_2004",
+      "articulo": "168",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "El Presupuesto general de las Entidades Locales será único, elaborado por el Presidente e integrado por:",
+      "opciones": [
+        "El presupuesto de la propia entidad y los de los organismos autónomos y estados de previsión de empresas públicas",
+        "Únicamente los ingresos ordinarios del año",
+        "El balance contable firmado por la Intervención",
+        "Las subvenciones autonómicas exclusivamente"
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El artículo 164 del TRLRHL establece la integración del Presupuesto general con sus organismos autónomos y empresas dependientes.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme al TRLRHL"
+      }
+    },
+    {
       "id_pregunta": "preg_trhl_art104_001",
       "id_tema": 19,
       "id_norma": "rdleg_2_2004",
@@ -435,6 +710,29 @@
         "fecha_creacion": "2026-10-13",
         "fecha_ultima_revision": "2026-10-13",
         "motivo_estado": "Vigente conforme al TRLRHL"
+      }
+    },
+    {
+      "id_pregunta": "preg_prl_art14_001",
+      "id_tema": 20,
+      "id_norma": "ley_31_1995",
+      "articulo": "14",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "Según la Ley 31/1995 de Prevención de Riesgos Laborales, los trabajadores tienen derecho a una protección eficaz en materia de:",
+      "opciones": [
+        "Seguridad y salud en el trabajo",
+        "Aumento salarial por penosidad",
+        "Seguro privado de invalidez",
+        "Jubilación anticipada obligatoria"
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El artículo 14.1 de la Ley 31/1995 consagra el derecho de los trabajadores a una protección eficaz en materia de seguridad y salud en el trabajo.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-13",
+        "fecha_ultima_revision": "2026-10-13",
+        "motivo_estado": "Vigente conforme a la Ley 31/1995"
       }
     }
   ]

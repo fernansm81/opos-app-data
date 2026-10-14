@@ -229,510 +229,578 @@
   ],
   "preguntas": [
     {
-      "id_pregunta": "preg_ce_art01_001",
+      "id_pregunta": "preg_t01_ce_001",
       "id_tema": 1,
       "id_norma": "ce_1978",
       "articulo": "1",
       "apartado": "1",
       "dificultad": "fácil",
-      "pregunta": "¿Cuál de los siguientes NO es un valor superior del ordenamiento jurídico español según el artículo 1.1 de la Constitución Española?",
+      "pregunta": "¿En qué se constituye España según el artículo 1.1 de la Constitución Española de 1978?",
       "opciones": [
-        "La libertad",
-        "La justicia",
-        "La fraternidad",
-        "El pluralismo político"
+        "En un Estado social y democrático de Derecho.",
+        "En una Monarquía parlamentaria y descentralizada.",
+        "En un Estado indivisible de Derecho y Justicia.",
+        "En una República democrática de trabajadores."
       ],
-      "respuesta_correcta": 2,
-      "explicacion": "El artículo 1.1 de la CE establece como valores superiores la libertad, la justicia, la igualdad y el pluralismo político.",
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 1.1 CE dispone que España se constituye en un Estado social y democrático de Derecho.",
       "control_normativo": {
         "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la CE"
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
       }
     },
     {
-      "id_pregunta": "preg_ce_art159_001",
+      "id_pregunta": "preg_t01_ce_002",
       "id_tema": 1,
       "id_norma": "ce_1978",
-      "articulo": "159",
-      "apartado": "1",
-      "dificultad": "media",
-      "pregunta": "¿Por cuánto tiempo son nombrados los miembros del Tribunal Constitucional conforme al Título IX de la Constitución Española?",
+      "articulo": "1",
+      "apartado": "2",
+      "dificultad": "fácil",
+      "pregunta": "¿En quién reside la soberanía nacional según el artículo 1.2 de la CE?",
       "opciones": [
-        "Por un periodo de cuatro años",
-        "Por un periodo de seis años",
-        "Por un periodo de nueve años",
-        "Por un periodo de doce años"
+        "En el Rey como Jefe del Estado.",
+        "En las Cortes Generales.",
+        "En el pueblo español, del que emanan los poderes del Estado.",
+        "En el Gobierno de la Nación."
       ],
       "respuesta_correcta": 2,
-      "explicacion": "Según el artículo 159.3 de la CE, los miembros del Tribunal Constitucional se nombran por nueve años.",
+      "explicacion": "El art. 1.2 CE establece que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.",
       "control_normativo": {
         "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la CE"
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
       }
     },
     {
-      "id_pregunta": "preg_ce_art56_001",
-      "id_tema": 2,
+      "id_pregunta": "preg_t01_ce_003",
+      "id_tema": 1,
       "id_norma": "ce_1978",
-      "articulo": "56",
-      "apartado": "1",
-      "dificultad": "fácil",
-      "pregunta": "Según la Constitución Española, ¿quién es el Jefe del Estado?",
-      "opciones": [
-        "El Presidente del Gobierno",
-        "El Rey",
-        "El Presidente del Congreso de los Diputados",
-        "El Presidente del Tribunal Constitucional"
-      ],
-      "respuesta_correcta": 1,
-      "explicacion": "El artículo 56.1 de la CE establece que el Rey es el Jefe del Estado, símbolo de su unidad y permanencia.",
-      "control_normativo": {
-        "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la CE"
-      }
-    },
-    {
-      "id_pregunta": "preg_ce_art137_001",
-      "id_tema": 3,
-      "id_norma": "ce_1978",
-      "articulo": "137",
-      "apartado": "1",
-      "dificultad": "fácil",
-      "pregunta": "Conforme al artículo 137 de la Constitución Española, el Estado se organiza territorialmente en:",
-      "opciones": [
-        "Municipios, Provincias y Comunidades Autónomas",
-        "Municipios, Comarcas y Regiones",
-        "Provincias y Comunidades Autónomas exclusivamente",
-        "Municipios, Mancomunidades y Diputaciones"
-      ],
-      "respuesta_correcta": 0,
-      "explicacion": "El art. 137 de la CE determina que el Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan.",
-      "control_normativo": {
-        "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la CE"
-      }
-    },
-    {
-      "id_pregunta": "preg_eaa_art01_001",
-      "id_tema": 4,
-      "id_norma": "ley_org_2_2007",
       "articulo": "1",
-      "apartado": "1",
-      "dificultad": "media",
-      "pregunta": "Según el Estatuto de Autonomía para Andalucía, Andalucía accede a la autonomía como:",
-      "opciones": [
-        "Nacionalidad histórica",
-        "Región administrativa",
-        "Comunidad insular",
-        "Entidad territorial delegada"
-      ],
-      "respuesta_correcta": 0,
-      "explicacion": "El artículo 1.1 del Estatuto de Autonomía para Andalucía define a Andalucía como nacionalidad histórica en el ejercicio del derecho al autogobierno.",
-      "control_normativo": {
-        "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la LO 2/2007"
-      }
-    },
-    {
-      "id_pregunta": "preg_lbrl_art121_001",
-      "id_tema": 5,
-      "id_norma": "ley_7_1985",
-      "articulo": "121",
-      "apartado": "1",
-      "dificultad": "alta",
-      "pregunta": "En los municipios de gran población (Título X LBRL), ¿a quién corresponde la aprobación del proyecto de Presupuesto Municipal?",
-      "opciones": [
-        "Al Pleno del Ayuntamiento exclusivamente",
-        "A la Junta de Gobierno Local",
-        "Al Alcalde mediante Decreto",
-        "Al Concejal delegado de Hacienda"
-      ],
-      "respuesta_correcta": 1,
-      "explicacion": "El art. 127.1.h) de la LBRL atribuye a la Junta de Gobierno Local la aprobación del proyecto de Presupuestos.",
-      "control_normativo": {
-        "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la LBRL"
-      }
-    },
-    {
-      "id_pregunta": "preg_lbrl_art47_001",
-      "id_tema": 6,
-      "id_norma": "ley_7_1985",
-      "articulo": "47",
-      "apartado": "2",
-      "dificultad": "media",
-      "pregunta": "¿Qué mayoría se requiere con carácter general en el Pleno local para la aprobación definitiva de las Ordenanzas Fiscales?",
-      "opciones": [
-        "Mayoría absoluta del número legal de miembros",
-        "Mayoría simple de los miembros presentes",
-        "Mayoría de dos tercios del número de hecho",
-        "Unanimidad de los grupos políticos"
-      ],
-      "respuesta_correcta": 1,
-      "explicacion": "Salvo regulación especial que exija mayoría absoluta, la aprobación de ordenanzas fiscales se rige por la regla general de mayoría simple conforme a la LBRL.",
-      "control_normativo": {
-        "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la LBRL"
-      }
-    },
-    {
-      "id_pregunta": "preg_lpacap_art14_001",
-      "id_tema": 7,
-      "id_norma": "ley_39_2015",
-      "articulo": "14",
-      "apartado": "2",
-      "dificultad": "media",
-      "pregunta": "Según la Ley 39/2015, ¿quiénes están obligados en todo caso a relacionarse a través de medios electrónicos con las Administraciones Públicas?",
-      "opciones": [
-        "Únicamente los empleados públicos para cualquier trámite personal.",
-        "Las personas jurídicas y entidades sin personalidad jurídica.",
-        "Todas las personas físicas mayores de edad.",
-        "Solo las empresas con un volumen de negocio superior a un millón de euros."
-      ],
-      "respuesta_correcta": 1,
-      "explicacion": "El art. 14.2 de la Ley 39/2015 impone la obligación de relacionarse electrónicamente a las personas jurídicas.",
-      "control_normativo": {
-        "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la Ley 39/2015"
-      }
-    },
-    {
-      "id_pregunta": "preg_lpacap_art21_001",
-      "id_tema": 7,
-      "id_norma": "ley_39_2015",
-      "articulo": "21",
-      "apartado": "2",
+      "apartado": "3",
       "dificultad": "fácil",
-      "pregunta": "¿Cuál es el plazo máximo general para notificar la resolución expresa cuando la norma reguladora del procedimiento no fije uno específico?",
+      "pregunta": "¿Cuál es la forma política del Estado español según el artículo 1.3 de la CE?",
       "opciones": [
-        "Un mes",
-        "Tres meses",
-        "Seis meses",
-        "Un año"
+        "La Monarquía constitucional.",
+        "La Monarquía parlamentaria.",
+        "La República parlamentaria.",
+        "El Estado autonómico."
       ],
       "respuesta_correcta": 1,
-      "explicacion": "El art. 21.2 señala que en defecto de norma específica el plazo es de tres meses.",
+      "explicacion": "El art. 1.3 CE establece taxativamente que la forma política del Estado español es la Monarquía parlamentaria.",
       "control_normativo": {
         "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la Ley 39/2015"
-      }
-    }
-    ,
-    {
-      "id_pregunta": "preg_lpacap_art47_001",
-      "id_tema": 8,
-      "id_norma": "ley_39_2015",
-      "articulo": "47",
-      "apartado": "1",
-      "dificultad": "alta",
-      "pregunta": "¿Los actos de las Administraciones Públicas que lesionen los derechos y libertades susceptibles de amparo constitucional son?",
-      "opciones": [
-        "Anulables",
-        "Nulos de pleno derecho",
-        "Irregulares pero válidos",
-        "Convalidables tras subsanación"
-      ],
-      "respuesta_correcta": 1,
-      "explicacion": "Conforme al art. 47.1.a) de la Ley 39/2015, son nulos de pleno derecho.",
-      "control_normativo": {
-        "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la Ley 39/2015"
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
       }
     },
     {
-      "id_pregunta": "preg_lpacap_art124_001",
-      "id_tema": 9,
-      "id_norma": "ley_39_2015",
-      "articulo": "124",
+      "id_pregunta": "preg_t01_ce_004",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "2",
       "apartado": "1",
       "dificultad": "media",
-      "pregunta": "¿Cuál es el plazo para interponer el recurso potestativo de reposición si el acto administrativo fuera expreso?",
+      "pregunta": "La Constitución se fundamenta en la indisoluble unidad de la Nación española y reconoce y garantiza:",
       "opciones": [
-        "Un mes",
-        "Dos meses",
-        "Tres meses",
-        "En cualquier momento"
+        "La independencia de las provincias y municipios.",
+        "El derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.",
+        "La soberanía compartida entre las Comunidades Autónomas.",
+        "La descentralización total de las competencias fiscales."
       ],
-      "respuesta_correcta": 0,
-      "explicacion": "El art. 124.1 de la Ley 39/2015 fija el plazo en un mes si el acto es expreso.",
+      "respuesta_correcta": 1,
+      "explicacion": "El art. 2 CE reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones y la solidaridad entre todas ellas.",
       "control_normativo": {
         "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la Ley 39/2015"
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
       }
     },
     {
-      "id_pregunta": "preg_lrjsp_art09_001",
-      "id_tema": 10,
-      "id_norma": "ley_40_2015",
+      "id_pregunta": "preg_t01_ce_005",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "3",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "Según el artículo 3.1 de la CE, ¿cuál es la lengua española oficial del Estado?",
+      "opciones": [
+        "El castellano.",
+        "El español y las demás lenguas cooficiales por igual.",
+        "El castellano únicamente en el territorio peninsular.",
+        "Cualquier lengua romance hablada en el territorio."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 3.1 CE dispone que el castellano es la lengua española oficial del Estado.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_006",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "3",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "Respecto al castellano, el artículo 3.1 de la Constitución establece que:",
+      "opciones": [
+        "Todos los españoles tienen el deber de conocerlo y el derecho a usarlo.",
+        "Todos los ciudadanos tienen la facultad de conocerlo pero no la obligación.",
+        "Es optativo su uso en las Administraciones de Comunidades Autónomas con lengua propia.",
+        "El Estado regulará las sanciones por no utilizarlo."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 3.1 CE aclara que 'todos los españoles tienen el deber de conocerlo y el derecho a usarlo'.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_007",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "6",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "¿Qué cauce e instrumento fundamental para la participación política expresan los partidos políticos según el artículo 6 de la CE?",
+      "opciones": [
+        "Expresan el pluralismo político y concurren a la formación y manifestación de la voluntad popular.",
+        "Representan exclusivamente a los trabajadores de las Administraciones Públicas.",
+        "Son los únicos legitimados para presentar listas electorales en los municipios.",
+        "Sustituyen a las asociaciones vecinales en la representación local."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 6 CE señala que los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_008",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "6",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "La estructura interna y el funcionamiento de los partidos políticos deberán ser:",
+      "opciones": [
+        "Jerárquicos y profesionalizados.",
+        "Democráticos.",
+        "Regulados por Real Decreto-ley.",
+        "Supervisados por el Defensor del Pueblo."
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "El art. 6 CE exige explícitamente que la estructura interna y el funcionamiento de los partidos políticos deberán ser democráticos.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_009",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "8",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "Las Fuerzas Armadas están constituidas por:",
+      "opciones": [
+        "El Ejército de Tierra, la Armada y el Ejército del Aire y del Espacio.",
+        "La Guardia Civil, la Policía Nacional y las Policías Locales.",
+        "El Ejército de Tierra y las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "El Ejército de Tierra, la Armada y la Guardia Real."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 8.1 CE establece que las Fuerzas Armadas están constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_010",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
       "articulo": "9",
       "apartado": "1",
-      "dificultad": "media",
-      "pregunta": "Según la Ley 40/2015, la delegación de competencias entre órganos de una misma Administración requerirá para su eficacia:",
+      "dificultad": "fácil",
+      "pregunta": "Según el artículo 9.1 de la CE, ¿a qué están sujetos los ciudadanos y los poderes públicos?",
       "opciones": [
-        "La publicación en el Boletín Oficial correspondiente",
-        "La ratificación por el Consejo de Ministros o Gobierno Autonómico",
-        "La firma ante Notario Público",
-        "La aprobación previa de los interesados"
+        "A la Constitución y al resto del ordenamiento jurídico.",
+        "Únicamente a las Leyes Orgánicas dictadas por las Cortes.",
+        "A las decisiones del Tribunal Supremo.",
+        "Exclusivamente a la costumbre y los principios generales del Derecho."
       ],
       "respuesta_correcta": 0,
-      "explicacion": "El art. 9.3 de la Ley 40/2015 exige la publicación de las delegaciones de competencias en el Boletín Oficial correspondiente.",
+      "explicacion": "El art. 9.1 CE consagra el principio de legalidad al indicar que ciudadanos y poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.",
       "control_normativo": {
         "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la Ley 40/2015"
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
       }
     },
     {
-      "id_pregunta": "preg_transp_art12_001",
-      "id_tema": 11,
-      "id_norma": "ley_19_2013",
+      "id_pregunta": "preg_t01_ce_011",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "9",
+      "apartado": "3",
+      "dificultad": "media",
+      "pregunta": "¿Cuál de los siguientes principios NO está garantizado expresamente en el artículo 9.3 de la CE?",
+      "opciones": [
+        "El principio de legalidad y la jerarquía normativa.",
+        "La publicidad de las normas y la irretroactividad de las disposiciones sancionadoras no favorables.",
+        "La arbitrariedad de los poderes públicos.",
+        "La responsabilidad y la interdicción de la arbitrariedad de los poderes públicos."
+      ],
+      "respuesta_correcta": 2,
+      "explicacion": "El art. 9.3 CE garantiza la 'interdicción' (prohibición) de la arbitrariedad de los poderes públicos, no la arbitrariedad.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_012",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "10",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "Según el artículo 10.1 de la CE, son fundamento del orden político y de la paz social:",
+      "opciones": [
+        "La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás.",
+        "La unidad de la patria, el trabajo obligatorio y la propiedad privada.",
+        "El orden público, la defensa nacional y el desarrollo económico.",
+        "La pertenencia a la Unión Europea y el acatamiento administrativo."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 10.1 CE determina que la dignidad, los derechos inherentes, el libre desarrollo de la personalidad y el respeto a la ley y a los derechos ajenos son fundamento del orden político y la paz social.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_013",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "10",
+      "apartado": "2",
+      "dificultad": "alta",
+      "pregunta": "Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con:",
+      "opciones": [
+        "La Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.",
+        "La jurisprudencia exclusiva del Tribunal Supremo.",
+        "Las directivas dictadas por la Comisión Europea.",
+        "Los dictámenes emitidos por el Consejo de Estado."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 10.2 CE impone la interpretación de los derechos fundamentales conforme a la Declaración Universal de Derechos Humanos y los tratados internacionales ratificados por España.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_014",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
       "articulo": "12",
       "apartado": "1",
       "dificultad": "fácil",
-      "pregunta": "Según la Ley 19/2013 de Transparencia, todas las personas tienen derecho a acceder a la información pública sin necesidad de:",
+      "pregunta": "Según el artículo 12 de la Constitución Española, los españoles son mayores de edad a los:",
       "opciones": [
-        "Identificarse formalmente",
-        "Motivar su solicitud",
-        "Residir en territorio nacional",
-        "Pagar ninguna tasa de tramitación"
+        "16 años.",
+        "18 años.",
+        "21 años.",
+        "25 años."
       ],
       "respuesta_correcta": 1,
-      "explicacion": "El artículo 17.3 de la Ley 19/2013 establece que el solicitante no está obligado a motivar su solicitud de acceso a la información.",
+      "explicacion": "El art. 12 CE establece que los españoles son mayores de edad a los dieciocho años.",
       "control_normativo": {
         "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la Ley 19/2013"
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
       }
     },
     {
-      "id_pregunta": "preg_lcsp_art159_001",
-      "id_tema": 12,
-      "id_norma": "ley_9_2017",
-      "articulo": "159",
-      "apartado": "1",
-      "dificultad": "media",
-      "pregunta": "En la Ley de Contratos del Sector Público, los contratos cuyo valor estimado sea inferior a 15.000 euros en servicios o suministros se consideran:",
-      "opciones": [
-        "Contratos menores",
-        "Contratos SARA",
-        "Contratos de emergencia",
-        "Contratos de concesión"
-      ],
-      "respuesta_correcta": 0,
-      "explicacion": "El art. 118 de la LCSP establece el umbral de 15.000 euros para contratos menores de servicios y suministros.",
-      "control_normativo": {
-        "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la Ley 9/2017"
-      }
-    },
-    {
-      "id_pregunta": "preg_velez_alcalde_001",
-      "id_tema": 13,
-      "id_norma": "ley_7_1985",
-      "articulo": "124",
-      "apartado": "1",
-      "dificultad": "media",
-      "pregunta": "En los municipios de gran población como Vélez-Málaga, ¿quién preside la Junta de Gobierno Local?",
-      "opciones": [
-        "El Alcalde",
-        "El Primer Teniente de Alcalde",
-        "El Concejal de Mayor Edad",
-        "El Secretario General del Pleno"
-      ],
-      "respuesta_correcta": 0,
-      "explicacion": "Conforme al artículo 126 de la LBRL, la Junta de Gobierno Local se integra por el Alcalde, que la preside, y un número de concejales.",
-      "control_normativo": {
-        "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la LBRL"
-      }
-    },
-    {
-      "id_pregunta": "preg_trebep_art08_001",
-      "id_tema": 14,
-      "id_norma": "rdlg_5_2015",
-      "articulo": "8",
-      "apartado": "1",
-      "dificultad": "fácil",
-      "pregunta": "Según el TREBEP, los empleados públicos se clasifican en:",
-      "opciones": [
-        "Funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual",
-        "Funcionarios fijos y personal eventual exclusivamente",
-        "Personal con plaza y personal contrata",
-        "Cuerpo A, Cuerpo B y Cuerpo C únicamente"
-      ],
-      "respuesta_correcta": 0,
-      "explicacion": "El art. 8.2 del TREBEP clasifica a los empleados públicos en funcionarios de carrera, interinos, personal laboral y personal eventual.",
-      "control_normativo": {
-        "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme al TREBEP"
-      }
-    },
-    {
-      "id_pregunta": "preg_trebep_art89_001",
-      "id_tema": 15,
-      "id_norma": "rdlg_5_2015",
-      "articulo": "89",
-      "apartado": "1",
-      "dificultad": "media",
-      "pregunta": "¿Cuál de las siguientes NO es una situación administrativa contemplada con carácter general en el EBEP para los funcionarios de carrera?",
-      "opciones": [
-        "Servicio activo",
-        "Servicios especiales",
-        "Excedencia",
-        "Licencia por asuntos propios superior a dos años"
-      ],
-      "respuesta_correcta": 3,
-      "explicacion": "La licencia por asuntos propios es un permiso, no una situación administrativa del art. 85 del TREBEP.",
-      "control_normativo": {
-        "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme al TREBEP"
-      }
-    },
-    {
-      "id_pregunta": "preg_lo3_2007_art45_001",
-      "id_tema": 16,
-      "id_norma": "lo_3_2007",
-      "articulo": "45",
-      "apartado": "2",
-      "dificultad": "media",
-      "pregunta": "Según la Ley Orgánica 3/2007 para la igualdad efectiva, las empresas están obligadas a elaborar un Plan de Igualdad cuando tengan más de:",
-      "opciones": [
-        "50 trabajadores",
-        "100 trabajadores",
-        "250 trabajadores",
-        "500 trabajadores"
-      ],
-      "respuesta_correcta": 0,
-      "explicacion": "Tras las reformas legales, el art. 45.2 de la LO 3/2007 establece la obligación de plan de igualdad para empresas de 50 o más trabajadores.",
-      "control_normativo": {
-        "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la LO 3/2007"
-      }
-    },
-    {
-      "id_pregunta": "preg_lo1_2004_art21_001",
-      "id_tema": 17,
-      "id_norma": "lo_1_2004",
-      "articulo": "21",
-      "apartado": "1",
-      "dificultad": "media",
-      "pregunta": "La funcionaria víctima de violencia de género que se vea obligada a abandonar el puesto de trabajo en la localidad donde venía prestando sus servicios tiene derecho a:",
-      "opciones": [
-        "El traslado a otro puesto de trabajo de análogas características",
-        "La jubilación anticipada forzosa",
-        "Una excedencia obligatoria sin reserva de puesto",
-        "La pérdida inmediata de su condición de funcionaria"
-      ],
-      "respuesta_correcta": 0,
-      "explicacion": "El TREBEP y la LO 1/2004 reconocen el derecho al traslado o movilidad a las funcionarias víctimas de violencia de género.",
-      "control_normativo": {
-        "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la LO 1/2004"
-      }
-    },
-    {
-      "id_pregunta": "preg_presup_trhl_168_001",
-      "id_tema": 18,
-      "id_norma": "rdleg_2_2004",
-      "articulo": "168",
-      "apartado": "1",
-      "dificultad": "alta",
-      "pregunta": "El Presupuesto general de las Entidades Locales será único, elaborado por el Presidente e integrado por:",
-      "opciones": [
-        "El presupuesto de la propia entidad y los de los organismos autónomos y estados de previsión de empresas públicas",
-        "Únicamente los ingresos ordinarios del año",
-        "El balance contable firmado por la Intervención",
-        "Las subvenciones autonómicas exclusivamente"
-      ],
-      "respuesta_correcta": 0,
-      "explicacion": "El artículo 164 del TRLRHL establece la integración del Presupuesto general con sus organismos autónomos y empresas dependientes.",
-      "control_normativo": {
-        "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme al TRLRHL"
-      }
-    },
-    {
-      "id_pregunta": "preg_trhl_art104_001",
-      "id_tema": 19,
-      "id_norma": "rdleg_2_2004",
-      "articulo": "104",
-      "apartado": "1",
-      "dificultad": "alta",
-      "pregunta": "En la plusvalía municipal (IIVTNU), en una transmisión a título lucrativo (donación o herencia), ¿quién es el sujeto pasivo?",
-      "opciones": [
-        "El transmitente del terreno",
-        "El adquirente del terreno",
-        "El Ayuntamiento del municipio",
-        "El Notario autorizante"
-      ],
-      "respuesta_correcta": 1,
-      "explicacion": "Según el art. 106.1.a) del TRLRHL, en transmisiones lucrativas el sujeto pasivo es el adquirente.",
-      "control_normativo": {
-        "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme al TRLRHL"
-      }
-    },
-    {
-      "id_pregunta": "preg_prl_art14_001",
-      "id_tema": 20,
-      "id_norma": "ley_31_1995",
+      "id_pregunta": "preg_t01_ce_015",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
       "articulo": "14",
       "apartado": "1",
       "dificultad": "fácil",
-      "pregunta": "Según la Ley 31/1995 de Prevención de Riesgos Laborales, los trabajadores tienen derecho a una protección eficaz en materia de:",
+      "pregunta": "El artículo 14 de la CE proclama que los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de:",
       "opciones": [
-        "Seguridad y salud en el trabajo",
-        "Aumento salarial por penosidad",
-        "Seguro privado de invalidez",
-        "Jubilación anticipada obligatoria"
+        "Nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+        "Nivel de renta o grado de titulación académica.",
+        "Lugar de residencia dentro del territorio autonómico.",
+        "Afiliación sindical o desempeño de cargo público."
       ],
       "respuesta_correcta": 0,
-      "explicacion": "El artículo 14.1 de la Ley 31/1995 consagra el derecho de los trabajadores a una protección eficaz en materia de seguridad y salud en el trabajo.",
+      "explicacion": "El art. 14 CE enumera los cauces prohibitivos de discriminación: nacimiento, raza, sexo, religión, opinión o cualquier otra condición personal o social.",
       "control_normativo": {
         "estado": "activa",
-        "fecha_creacion": "2026-10-13",
-        "fecha_ultima_revision": "2026-10-13",
-        "motivo_estado": "Vigente conforme a la Ley 31/1995"
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_016",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "15",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "El derecho a la vida y a la integridad física y moral se contempla en el artículo 15 de la CE. ¿Queda abolida la pena de muerte?",
+      "opciones": [
+        "Sí, absolutamente y sin excepciones.",
+        "Queda abolida, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.",
+        "Solo se aplica a delitos de alta traición.",
+        "No está abolida en el ámbito civil salvo desarrollo reglamentario."
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "El art. 15 CE abolió la pena de muerte 'salvo lo que puedan disponer las leyes penales militares para tiempos de guerra'.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_017",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "17",
+      "apartado": "2",
+      "dificultad": "media",
+      "pregunta": "¿Cuál es el plazo máximo de la detención preventiva según el artículo 17.2 de la CE?",
+      "opciones": [
+        "24 horas.",
+        "48 horas.",
+        "72 horas.",
+        "7 días."
+      ],
+      "respuesta_correcta": 2,
+      "explicacion": "El art. 17.2 CE establece que la detención preventiva no podrá durar más del tiempo estrictamente necesario y, en todo caso, en el plazo máximo de setenta y dos horas el detenido deberá ser puesto en libertad o a disposición judicial.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_018",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "18",
+      "apartado": "2",
+      "dificultad": "fácil",
+      "pregunta": "El domicilio es inviolable según el artículo 18.2 de la CE. ¿En qué supuestos se permite la entrada o registro?",
+      "opciones": [
+        "Consentimiento del titular, resolución judicial o flagrante delito.",
+        "Sola petición fundada de la Policía Local.",
+        "Inspección administrativa ordinaria de tributos.",
+        "Acreditación de empadronamiento previo."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 18.2 CE garantiza que ninguna entrada o registro podrá hacerse sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_019",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "159",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "¿Por cuántos miembros está integrado el Tribunal Constitucional según el artículo 159.1 de la CE?",
+      "opciones": [
+        "10 miembros.",
+        "12 miembros.",
+        "15 miembros.",
+        "20 miembros."
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "El art. 159.1 CE establece que el Tribunal Constitucional se compone de 12 miembros nombrados por el Rey.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_020",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "159",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "¿A quién corresponde la propuesta de nombramiento de los 12 Magistrados del Tribunal Constitucional?",
+      "opciones": [
+        "4 por el Congreso, 4 por el Senado, 2 por el Gobierno y 2 por el Consejo General del Poder Judicial.",
+        "6 por el Congreso y 6 por el Senado.",
+        "3 por el Congreso, 3 por el Senado, 3 por el Gobierno y 3 por el CGPJ.",
+        "8 por las Cortes Generales y 4 por el Tribunal Supremo."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 159.1 CE determina que los 12 miembros son nombrados a propuesta: 4 del Congreso (3/5), 4 del Senado (3/5), 2 del Gobierno y 2 del CGPJ.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_021",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "160",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "¿Quién nombra al Presidente del Tribunal Constitucional y por qué periodo?",
+      "opciones": [
+        "Es nombrado por el Rey, a propuesta del mismo Tribunal en pleno, por un periodo de tres años.",
+        "Es elegido directamente por el Congreso por un periodo de cuatro años.",
+        "Es nombrado por el Presidente del Gobierno por un periodo de seis años.",
+        "Es el Magistrado de mayor antigüedad de forma rotatoria cada dos años."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 160 CE especifica que el Presidente del TC será nombrado entre sus miembros por el Rey, a propuesta del mismo Tribunal en pleno, por tres años.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_022",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "166",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "La iniciativa de reforma constitucional según el artículo 166 de la CE se ejerce en los términos de los apartados 1 y 2 del artículo:",
+      "opciones": [
+        "87 de la Constitución (Gobierno, Congreso, Senado y Asambleas de CCAA).",
+        "92 de la Constitución (Referéndum facultativo).",
+        "115 de la Constitución (Disolución de las Cortes).",
+        "150 de la Constitución (Leyes marco y de transferencia)."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 166 remite expresamente al art. 87.1 y 87.2 CE para fijar la iniciativa de reforma constitucional (excluyendo la iniciativa popular).",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_023",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "167",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "En el procedimiento ordinario de reforma constitucional (art. 167), los proyectos deberán ser aprobados por una mayoría de:",
+      "opciones": [
+        "Tres quintos de cada una de las Cámaras (Congreso y Senado).",
+        "Mayoría absoluta del Congreso y simple del Senado.",
+        "Dos tercios de las Cortes Generales en sesión conjunta.",
+        "Unanimidad de la Mesa del Congreso."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 167.1 CE prescribe que los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_024",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "168",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "El procedimiento agravado de reforma constitucional (art. 168.1 CE) se requiere cuando se propusiere la revisión total de la Constitución o una parcial que afecte a:",
+      "opciones": [
+        "Al Título Preliminar, a la Sección primera del Capítulo segundo del Título I, o al Título II.",
+        "A cualquier artículo del Título VIII (Organización Territorial).",
+        "Únicamente al Título IX sobre el Tribunal Constitucional.",
+        "Al Título IV sobre el Gobierno y la Administración."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 168.1 CE exige el procedimiento agravado para la revisión total o para la reforma del Título Preliminar, Título I Capítulo II Sección 1ª (artículos 15 al 29) o Título II (La Corona).",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_025",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "169",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "Según el artículo 169 de la CE, ¿cuándo NO podrá iniciarse la reforma constitucional?",
+      "opciones": [
+        "En tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116 (alarma, excepción o sitio).",
+        "Durante los seis meses posteriores a la celebración de elecciones municipales.",
+        "Cuando haya un procedimiento judicial abierto contra el Presidente del Gobierno.",
+        "En el último año de mandato de la legislatura."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 169 CE prohíbe taxativamente iniciar la reforma constitucional en tiempo de guerra o bajo la vigencia de los estados de alarma, excepción o sitio.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-14",
+        "fecha_ultima_revision": "2026-10-14",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
       }
     }
   ]

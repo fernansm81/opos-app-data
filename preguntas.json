@@ -611,7 +611,7 @@
         "7 días."
       ],
       "respuesta_correcta": 2,
-      "explicacion": "El art. 17.2 CE establece que la detención preventiva no podrá durar más del tiempo estrictamente necesario y, en todo caso, en el plazo máximo de setenta y dos horas el detenido deberá ser puesto en libertad o a disposición judicial.",
+      "explicacion": "El art. 17.2 CE establece que la detención preventiva no podrá durar más del tiempo strictly necesario y, en todo caso, en el plazo máximo de setenta y dos horas el detenido deberá ser puesto en libertad o a disposición judicial.",
       "control_normativo": {
         "estado": "activa",
         "fecha_creacion": "2026-10-15",
@@ -1883,10 +1883,8 @@
         "fecha_ultima_revision": "2026-10-15",
         "motivo_estado": "Vigente conforme a la CE de 1978"
       }
-    }
-  ]
-}
-{
+    },
+    {
       "id_pregunta": "preg_t01_ce_097",
       "id_tema": 1,
       "id_norma": "ce_1978",
@@ -1976,7 +1974,7 @@
         "fecha_creacion": "2026-10-15",
         "fecha_ultima_revision": "2026-10-15",
         "motivo_estado": "Vigente conforme a la CE de 1978"
-       }
+      }
     },
     {
       "id_pregunta": "preg_t01_ce_101",
@@ -2273,53 +2271,3 @@
       "control_normativo": {
         "estado": "activa",
         "fecha_creacion": "2026-10-15",
-        "fecha_ultima_revision": "2026-10-15",
-        "motivo_estado": "Vigente conforme a la CE de 1978"
-      }
-    },
-    {
-      "id_pregunta": "preg_t01_ce_114",
-      "id_tema": 1,
-      "id_norma": "ce_1978",
-      "articulo": "164",
-      "apartado": "1",
-      "dificultad": "alta",
-      "pregunta": "Salvo que en la sentencia se disponga otra cosa, la declaración de inconstitucionalidad de una ley o norma con fuerza de ley afectará a la vigencia de la misma, pero no revisará los procesos fenecidos mediante sentencia con fuerza de cosa juzgada en los que se haya aplicado la ley inconstitucional, salvo en el caso de:",
-      "opciones": [
-        "Los procesos penales o contencioso-administrativos referentes a un procedimiento sancionador en que, como consecuencia de la nulidad de la norma aplicada, resulte una reducción de la pena o de la sanción o una exclusión o exención de la responsabilidad.",
-        "Las reclamaciones de responsabilidad patrimonial tramitadas ante corporaciones locales.",
-        "Los expedientes de expropiación forzosa firme.",
-        "Cualquier juicio civil de cuantía superior a 100.000 euros."
-      ],
-      "respuesta_correcta": 0,
-      "explicacion": "El art. 164.1 CE recoge la excepción a la intangibilidad de la cosa juzgada: los procesos penales o contenciosos sancionadores donde la nulidad beneficie al reo/sancionado.",
-      "control_normativo": {
-        "estado": "activa",
-        "fecha_creacion": "2026-10-15",
-        "fecha_ultima_revision": "2026-10-15",
-        "motivo_estado": "Vigente conforme a la CE de 1978"
-      }
-    },
-    {
-      "id_pregunta": "preg_t01_ce_115",
-      "id_tema": 1,
-      "id_norma": "ce_1978",
-      "articulo": "165",
-      "apartado": "1",
-      "dificultad": "media",
-      "pregunta": "¿Mediante qué tipo de norma se regulará el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones?",
-      "opciones": [
-        "Una Ley Orgánica.",
-        "Un Real Decreto del Consejo de Ministros.",
-        "Una Ley Ordinaria aprobada por mayoría simple de ambas Cámaras.",
-        "Un Reglamento interno aprobado por el Congreso de los Diputados."
-      ],
-      "respuesta_correcta": 0,
-      "explicacion": "El art. 165 CE exige expresamente que el Tribunal Constitucional y su estatuto se regulen mediante Ley Orgánica (LOTC 2/1979).",
-      "control_normativo": {
-        "estado": "activa",
-        "fecha_creacion": "2026-10-15",
-        "fecha_ultima_revision": "2026-10-15",
-        "motivo_estado": "Vigente conforme a la CE de 1978"
-      }
-    }

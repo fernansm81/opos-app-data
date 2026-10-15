@@ -1886,3 +1886,440 @@
     }
   ]
 }
+{
+      "id_pregunta": "preg_t01_ce_097",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "167",
+      "apartado": "3",
+      "dificultad": "alta",
+      "pregunta": "Aprobada la reforma de la Constitución por las Cortes Generales mediante el procedimiento ordinario (art. 167 CE), ¿en qué plazo y por qué porcentaje de miembros de cualquiera de las Cámaras se podrá solicitar que sea sometida a referéndum para su ratificación?",
+      "opciones": [
+        "Dentro de los quince días siguientes a su aprobación, por la décima parte de los miembros de cualquiera de las Cámaras.",
+        "Dentro de los treinta días siguientes, por la quinta parte de los miembros del Congreso.",
+        "Dentro de los diez días siguientes, por un tercio de los miembros del Senado.",
+        "Dentro del mes siguiente, por la mitad más uno de los diputados."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 167.3 CE fija que el referéndum facultativo en la reforma ordinaria debe solicitarse dentro de los 15 días siguientes a su aprobación por la décima parte de los miembros de cualquiera de las Cámaras.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_098",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "168",
+      "apartado": "3",
+      "dificultad": "alta",
+      "pregunta": "En el procedimiento agravado de reforma constitucional (art. 168 CE), una vez ratificado el texto por las nuevas Cortes elegidas y aprobado por la mayoría de dos tercios de cada Cámara:",
+      "opciones": [
+        "La reforma será sometida obligatoriamente a referéndum para su ratificación.",
+        "El referéndum solo se celebrará si lo solicita la décima parte de los Diputados.",
+        "Quedará sancionada directamente por el Rey sin necesidad de referéndum.",
+        "Se someterá a consulta exclusiva de las Asambleas Legislativas de las Comunidades Autónomas."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 168.3 CE establece que en el procedimiento agravado la celebración del referéndum es preceptiva y obligatoria ('será sometida a referéndum para su ratificación').",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_099",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "161",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "El Tribunal Constitucional tiene jurisdicción en todo el territorio español y es competente para conocer, entre otros procesos, de:",
+      "opciones": [
+        "El recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley.",
+        "Los recursos contencioso-administrativos contra actos de los Alcaldes.",
+        "Los pleitos laborales entre empleados públicos y corporaciones locales.",
+        "Las faltas y delitos cometidos por autoridades municipales."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 161.1.a CE otorga al TC la competencia para conocer del recurso de inconstitucionalidad contra leyes y disposiciones con fuerza de ley.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_100",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "162",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "Según el artículo 162.1.a de la CE, ¿quiénes están legitimados para interponer el recurso de inconstitucionalidad?",
+      "opciones": [
+        "El Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores, los órganos colegiados ejecutivos de las CCAA y sus Asambleas.",
+        "Cualquier ciudadano mediante la acción popular directa.",
+        "Exclusivamente el Pleno del Consejo General del Poder Judicial.",
+        "Los Alcaldes de municipios de más de 50.000 habitantes y las Diputaciones Provinciales."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 162.1.a CE detalla la legitimación para el recurso de inconstitucionalidad: Presidente del Gobierno, Defensor del Pueblo, 50 Diputados, 50 Senadores y órganos ejecutivos/asambleas de las CCAA.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    }
+{
+      "id_pregunta": "preg_t01_ce_101",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "1",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "Según el artículo 1.1 de la Constitución Española, ¿cuáles son los valores superiores de su ordenamiento jurídico?",
+      "opciones": [
+        "La libertad, la justicia, la igualdad y el pluralismo político.",
+        "La unidad, la solidaridad, el mérito y la capacidad.",
+        "La paz, la seguridad legal, la jerarquía y el bien común.",
+        "La democracia, la descentralización, la autonomía y la eficacia."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 1.1 CE propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_102",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "4",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "¿Cómo está formada la bandera de España según el artículo 4.1 de la Constitución?",
+      "opciones": [
+        "Por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.",
+        "Por tres franjas verticales de igual tamaño en color rojo, amarillo y rojo.",
+        "Por cuatro franjas horizontales alternas rojas y amarillas de igual anchura.",
+        "Por dos franjas horizontales de igual anchura en color amarillo superior y rojo inferior."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 4.1 CE indica que la bandera de España está formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_103",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "11",
+      "apartado": "2",
+      "dificultad": "media",
+      "pregunta": "Conforme al artículo 11.2 de la CE, ¿puede un español de origen ser privado de su nacionalidad?",
+      "opciones": [
+        "Ningún español de origen podrá ser privado de su nacionalidad.",
+        "Sí, por condena firme en caso de delito de traición o contra la seguridad del Estado.",
+        "Sí, mediante resolución motivada del Consejo de Ministros tras residencia continuada en el extranjero.",
+        "Solo si adquiere voluntariamente la nacionalidad de un país sin tratado de doble nacionalidad."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 11.2 CE establece categóricamente que 'ningún español de origen podrá ser privado de su nacionalidad'.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_104",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "13",
+      "apartado": "3",
+      "dificultad": "alta",
+      "pregunta": "Según el artículo 13.3 de la CE, la extradición solo se concederá en cumplimiento de un tratado o de la ley, atendiendo al principio de reciprocidad. ¿Qué delitos quedan excluidos de la extradición?",
+      "opciones": [
+        "Los delitos políticos, no considerándose como tales los actos de terrorismo.",
+        "Los delitos contra la Hacienda Pública y la Seguridad Social.",
+        "Los delitos cometidos por imprudencia grave.",
+        "Los delitos medioambientales y urbanísticos."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 13.3 CE excluye de la extradición los delitos políticos, aclarando explícitamente que no se consideran tales los actos de terrorismo.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_105",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "20",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "El artículo 20.1.d) de la CE reconoce el derecho a comunicar o recibir libremente información veraz por cualquier medio de difusión. ¿Qué dos garantias encomienda la ley regular en este ámbito?",
+      "opciones": [
+        "La cláusula de conciencia y el secreto profesional.",
+        "La libre colegiación y el arancel periodístico.",
+        "El carné profesional y la colegiación obligatoria.",
+        "El depósito legal y la autorización previa de publicación."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 20.1.d CE indica que la ley regulará el derecho a la cláusula de conciencia y al secreto profesional en el ejercicio de la libertad de información.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_106",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "20",
+      "apartado": "4",
+      "dificultad": "media",
+      "pregunta": "Las libertades del artículo 20 de la CE tienen su límite en el respeto a los derechos reconocidos en el Título I, en los preceptos de las leyes que lo desarrollen y, especialmente, en el derecho al honor, a la intimidad, a la propia imagen y a:",
+      "opciones": [
+        "La protección de la juventud y de la infancia.",
+        "El derecho de propiedad y el secreto comercial.",
+        "El secreto de las actuaciones administrativas municipales.",
+        "El principio de autoridad de los funcionarios públicos."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 20.4 CE fija de forma expresa el límite de la libertad de expresión en el derecho al honor, intimidad, propia imagen y en la protección de la juventud y de la infancia.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_107",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "39",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "Ubicado en el Capítulo III del Título I (Principios rectores de la política social y económica), el artículo 39.1 de la CE establece que los poderes públicos aseguran la protección social, económica y jurídica de:",
+      "opciones": [
+        "La familia.",
+        "Las pequeñas y medianas empresas exclusivamente.",
+        "Las Corporaciones Locales de menor población.",
+        "Los colegios profesionales de la función pública."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 39.1 CE dispone que 'los poderes públicos aseguran la protección social, económica y jurídica de la familia'.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_108",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "41",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "Según el artículo 41 de la CE, los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de:",
+      "opciones": [
+        "Desempleo.",
+        "Expropiación forzosa municipal.",
+        "Inspección tributaria desfavorable.",
+        "Sanción disciplinaria administrativa."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 41 CE destaca de forma específica la cobertura de prestaciones sociales suficientes ante situaciones de necesidad, 'especialmente en caso de desempleo'.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_109",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "47",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "Todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada según el artículo 47 de la CE. ¿Qué mandato se impone a la comunidad respecto a las plusvalías que genere la acción urbanística de los entes públicos?",
+      "opciones": [
+        "La comunidad participará en las plusvalías que genere la acción urbanística de los entes públicos.",
+        "Pertenecerán íntegramente a los propietarios originarios del suelo.",
+        "Se destinarán de forma exclusiva al Tesoro Público Estatal.",
+        "Quedan exentas de cualquier tipo de gravamen local."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 47 CE consagra que 'la comunidad participará en las plusvalías que genere la acción urbanística de los entes públicos', precepto clave en materia urbanística municipal.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_110",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "53",
+      "apartado": "2",
+      "dificultad": "alta",
+      "pregunta": "Cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el artículo 14 y la Sección 1ª del Capítulo II del Título I ante los Tribunales ordinarios por un procedimiento basado en los principios de:",
+      "opciones": [
+        "Preferencia y sumariedad, y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional.",
+        "Audiencia previa ordinaria y fiscalización plenaria.",
+        "Gratuidad absoluta y doble instancia contenciosa obligatoria.",
+        "Arbitraje administrativo y conciliación previa en sede municipal."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 53.2 CE consagra la vía judicial preferente y sumaria y el recurso de amparo ante el TC para los derechos comprendidos entre los artículos 14 y 29 (más la objeción de conciencia del art. 30).",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_111",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "53",
+      "apartado": "3",
+      "dificultad": "alta",
+      "pregunta": "¿Cómo pueden ser alegados ante la Jurisdicción ordinaria los principios reconocidos en el Capítulo III (Principios rectores de la política social y económica)?",
+      "opciones": [
+        "Solo podrán ser alegados de acuerdo con lo que dispongan las leyes que los desarrollen.",
+        "Mediante recurso de amparo directo ante el Tribunal Constitucional.",
+        "Directamente sin necesidad de desarrollo legislativo previo.",
+        "Únicamente en vía de petición ante el Defensor del Pueblo."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 53.3 CE aclara que la alegación de los principios rectores ante la jurisdicción ordinaria se hará de acuerdo con lo que dispongan las leyes que los desarrollen.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_112",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "163",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "Cuando un órgano judicial considere, en algún proceso, que una norma con rango de ley aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución, planteará la cuestión ante el Tribunal Constitucional. ¿Qué nombre recibe este cauce?",
+      "opciones": [
+        "Cuestión de inconstitucionalidad.",
+        "Recurso directo de amparo judicial.",
+        "Conflicto en defensa de la autonomía local.",
+        "Recurso de casación por infracción constitucional."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 163 CE regula la cuestión de inconstitucionalidad promovida por jueces o tribunales ante el TC cuando una ley de la que depende el fallo pueda ser inconstitucional.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_113",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "164",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "Las sentencias del Tribunal Constitucional se publicarán en el Boletín Oficial del Estado con los votos particulares, si los hubiere. Tienen el valor de cosa juzgada a partir de:",
+      "opciones": [
+        "El día siguiente al de su publicación.",
+        "El mismo día de su firma por el Presidente del Tribunal.",
+        "Los quince días posteriores a su notificación a las partes.",
+        "Su lectura pública en sesión plenaria."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 164.1 CE indica expresamente que las sentencias del TC tienen el valor de cosa juzgada a partir del día siguiente al de su publicación en el BOE.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_114",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "164",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "Salvo que en la sentencia se disponga otra cosa, la declaración de inconstitucionalidad de una ley o norma con fuerza de ley afectará a la vigencia de la misma, pero no revisará los procesos fenecidos mediante sentencia con fuerza de cosa juzgada en los que se haya aplicado la ley inconstitucional, salvo en el caso de:",
+      "opciones": [
+        "Los procesos penales o contencioso-administrativos referentes a un procedimiento sancionador en que, como consecuencia de la nulidad de la norma aplicada, resulte una reducción de la pena o de la sanción o una exclusión o exención de la responsabilidad.",
+        "Las reclamaciones de responsabilidad patrimonial tramitadas ante corporaciones locales.",
+        "Los expedientes de expropiación forzosa firme.",
+        "Cualquier juicio civil de cuantía superior a 100.000 euros."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 164.1 CE recoge la excepción a la intangibilidad de la cosa juzgada: los procesos penales o contenciosos sancionadores donde la nulidad beneficie al reo/sancionado.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_115",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "165",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "¿Mediante qué tipo de norma se regulará el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones?",
+      "opciones": [
+        "Una Ley Orgánica.",
+        "Un Real Decreto del Consejo de Ministros.",
+        "Una Ley Ordinaria aprobada por mayoría simple de ambas Cámaras.",
+        "Un Reglamento interno aprobado por el Congreso de los Diputados."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 165 CE exige expresamente que el Tribunal Constitucional y su estatuto se regulen mediante Ley Orgánica (LOTC 2/1979).",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    }

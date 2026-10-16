@@ -2322,8 +2322,6 @@
       }
     },
     {
-      [
-  {
     "id_pregunta": "preg_t02_ce_001",
     "id_tema": 2,
     "id_norma": "ce_1978",
@@ -3174,3 +3172,4 @@
     "ley": "Constitución Española de 1978"
   }
 ]
+}

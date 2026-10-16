@@ -3663,6 +3663,346 @@
     "respuesta_correcta": 0,
     "explicacion": "El artículo 148.2 CE fija el plazo de 5 años para que las CCAA de la vía ordinaria amplíen competencias dentro del marco del art. 149.",
     "ley": "Constitución Española de 1978"
+ },
+  {
+    "id_pregunta": "preg_t03_ce_031",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "149.1.1ª",
+    "dificultad": "media",
+    "pregunta": "El Estado tiene competencia exclusiva sobre la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales. Esta competencia se recoge en el artículo:",
+    "opciones": [
+      "149.1.1ª",
+      "148.1.1ª",
+      "139.1",
+      "150.2"
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Artículo 149.1.1ª CE: título competencial exclusivo del Estado para garantizar la igualdad básica nacional.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t03_ce_032",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "149.1.2ª",
+    "dificultad": "fácil",
+    "pregunta": "¿A quién corresponde la competencia exclusiva sobre nacionalidad, inmigración, emigración, extranjería y derecho de asilo?",
+    "opciones": [
+      "Al Estado.",
+      "A las Comunidades Autónomas.",
+      "A las Provincias de frontera.",
+      "Compartida al 50% con la Unión Europea."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Materia atribuida en exclusiva al Estado por el artículo 149.1.2ª de la Constitución.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t03_ce_033",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "149.1.3ª",
+    "dificultad": "fácil",
+    "pregunta": "Las relaciones internacionales son competencia exclusiva de:",
+    "opciones": [
+      "El Estado.",
+      "Las Comunidades Autónomas con costa exterior.",
+      "El Ministerio de Asuntos Exteriores y los Presidentes autonómicos.",
+      "Las Cortes Generales en sesión conjunta."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Artículo 149.1.3ª CE: atribución exclusiva al Estado de las relaciones internacionales.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t03_ce_034",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "149.1.4ª",
+    "dificultad": "fácil",
+    "pregunta": "La Defensa y Fuerzas Armadas son competencia exclusiva de:",
+    "opciones": [
+      "El Estado.",
+      "El Estado y las CCAA con fronteras militares.",
+      "Las Juntas de Seguridad Autonómicas.",
+      "El Consejo de Estado."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El artículo 149.1.4ª reserva la Defensa y las Fuerzas Armadas en exclusiva al Estado.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t03_ce_035",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "149.1.18ª",
+    "dificultad": "media",
+    "pregunta": "El Estado tiene competencia exclusiva sobre las bases del régimen jurídico de las Administraciones Públicas y el régimen estatutario de sus funcionarios. Esto garantiza:",
+    "opciones": [
+      "Un núcleo común mínimo a todas las Administraciones Públicas españolas.",
+      "Que las CCAA no puedan tener funcionarios propios.",
+      "Que los sueldos locales los fije directamente el Ministerio.",
+      "La sustitución de la LRJSP por normas locales."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 149.1.18ª asegura la legislación básica estatal en materia de empleo público y régimen jurídico administrativo.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t03_ce_036",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "149.3",
+    "dificultad": "media",
+    "pregunta": "Las materias no atribuidas expresamente al Estado por la Constitución podrán ser asumidas por las Comunidades Autónomas en virtud de sus respectivos Estatutos. La competencia sobre las materias que no se hayan asumido por los Estatutos corresponderá a:",
+    "opciones": [
+      "El Estado.",
+      "Las Diputaciones Provinciales.",
+      "Los Municipios afectados.",
+      "El Tribunal Constitucional mediante arbitraje."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Principio de supletoriedad y cláusula residual del artículo 149.3 CE a favor del Estado.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t03_ce_037",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "149.3",
+    "dificultad": "media",
+    "pregunta": "En caso de conflicto, las normas del Estado prevalecerán sobre las de las Comunidades Autónomas en todo lo que no esté atribuido a la exclusiva competencia de estas. El derecho estatal será, en todo caso:",
+    "opciones": [
+      "Supletorio del derecho de las Comunidades Autónomas.",
+      "Nulo de pleno derecho.",
+      "Derogado por la ley autonómica posterior.",
+      "Sometido a veto del Presidente autonómico."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Regla constitucional del artículo 149.3 sobre la prevalencia y la supletoriedad del derecho estatal.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t03_ce_038",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "150.1",
+    "dificultad": "media",
+    "pregunta": "Las Cortes Generales, en materias de competencia estatal, podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar para sí mismas normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal. Estas leyes se denominan:",
+    "opciones": [
+      "Leyes marco.",
+      "Leyes de transferencia.",
+      "Leyes de armonización.",
+      "Leyes orgánicas delegadas."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Definición exacta de Ley Marco contemplada en el artículo 150.1 CE.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t03_ce_039",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "150.2",
+    "dificultad": "media",
+    "pregunta": "El Estado podrá transferir o delegar en las Comunidades Autónomas, mediante ley orgánica, facultades correspondientes a materia de titularidad estatal susceptibles de transferencia o delegación. Nos referimos a las:",
+    "opciones": [
+      "Leyes orgánicas de transferencia o delegación.",
+      "Leyes de bases estatales.",
+      "Leyes marco ordinarias.",
+      "Estatutos de Autonomía derivados."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El artículo 150.2 CE regula la transferencia de facultades mediante Ley Orgánica.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t03_ce_040",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "150.3",
+    "dificultad": "difícil",
+    "pregunta": "El Estado podrá dictar leyes que establezcan los principios necesarios para armonizar las disposiciones normativas de las CCAA, aun en el caso de materias atribuidas a la competencia de estas, cuando así lo exija el interés general. La apreciación de este interés general corresponde a:",
+    "opciones": [
+      "Las Cortes Generales, por mayoría absoluta de cada Cámara.",
+      "El Gobierno mediante Real Decreto Ley.",
+      "El Tribunal Constitucional en Pleno.",
+      "El Consejo de Estado."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El artículo 150.3 otorga a las Cortes Generales la apreciación del interés general por mayoría absoluta de cada Cámara para aprobar Leyes de Armonización.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t03_ce_041",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "151.1",
+    "dificultad": "difícil",
+    "pregunta": "En la vía especial o rápida de acceso a la autonomía (art. 151.1), se requirió la iniciativa de las Diputaciones e invocar el acuerdo de las tres cuartas partes de los municipios de cada provincia afectada que representen, al menos, la mayoría del censo electoral, siendo además necesaria la ratificación mediante:",
+    "opciones": [
+      "Referéndum con el voto afirmativo de la mayoría absoluta de los electores de cada provincia.",
+      "Ley Orgánica de las Cortes aprobada por dos tercios.",
+      "Acuerdo unánime de las Asambleas autonómicas.",
+      "Aprobación del Tribunal Supremo."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Exigencia reforzada de ratificación por referéndum con mayoría absoluta de electores en cada provincia (caso de Andalucía por art. 151).",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t03_ce_042",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "152.1",
+    "dificultad": "media",
+    "pregunta": "En las Comunidades Autónomas que accedieron por la vía del artículo 151, la organización institucional autonómica se basará en:",
+    "opciones": [
+      "Una Asamblea Legislativa, un Consejo de Gobierno y un Presidente elegido por la Asamblea de entre sus miembros.",
+      "Un Gobernador Civil y un Consejo Consultivo.",
+      "Un Presidente designado directamente por el Rey.",
+      "Una Cámara Alta y una Cámara Baja autonómica."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Estructura institucional obligatoria regulada en el artículo 152.1 para CCAA de vía rápida.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t03_ce_043",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "152.1",
+    "dificultad": "media",
+    "pregunta": "El Presidente de la Comunidad Autónoma es nombrado por:",
+    "opciones": [
+      "El Rey.",
+      "El Presidente del Congreso de los Diputados.",
+      "El Presidente del Gobierno.",
+      "El Tribunal Superior de Justicia."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El artículo 152.1 establece formalmente que el Presidente de la Comunidad Autónoma es nombrado por el Rey.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t03_ce_044",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "152.1",
+    "dificultad": "media",
+    "pregunta": "Un Tribunal Superior de Justicia culminará la organización judicial en el ámbito territorial de la Comunidad Autónoma, sin perjuicio de la jurisdicción que corresponde al:",
+    "opciones": [
+      "Tribunal Supremo.",
+      "Tribunal Constitucional.",
+      "Juzgado de lo Contencioso Provincial.",
+      "Consejo General del Poder Judicial."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El artículo 152.1 atribuye al TSJ la cúspide judicial autonómica, salvo las competencias del Tribunal Supremo.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t03_ce_045",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "153",
+    "dificultad": "media",
+    "pregunta": "El control de la constitucionalidad de las disposiciones normativas con fuerza de ley de las Comunidades Autónomas se ejerce por:",
+    "opciones": [
+      "El Tribunal Constitucional.",
+      "El Gobierno central.",
+      "La Jurisdicción Contencioso-Administrativa.",
+      "El Tribunal de Cuentas."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El artículo 153.a atribuye expresamente al Tribunal Constitucional el control de las leyes autonómicas.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t03_ce_046",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "153",
+    "dificultad": "media",
+    "pregunta": "El control relativo a la administración autónoma y sus normas reglamentarias se ejerce por:",
+    "opciones": [
+      "La jurisdicción contencioso-administrativa.",
+      "El Tribunal Constitucional.",
+      "Las Cortes Generales.",
+      "El Consejo de Estado."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El artículo 153.c asigna a los tribunales contencioso-administrativos el control reglamentario autonómico.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t03_ce_047",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "154",
+    "dificultad": "fácil",
+    "pregunta": "Un Delegado nombrado por el Gobierno dirigirá la Administración del Estado en el territorio de la Comunidad Autónoma y la coordinará, cuando proceda, con la administración propia de la Comunidad. Este órgano es el:",
+    "opciones": [
+      "Delegado del Gobierno.",
+      "Subdelegado de la Provincia.",
+      "Presidente de la Junta de Andalucía.",
+      "Consejero de Presidencia."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El artículo 154 CE configura la figura e instituye el papel del Delegado del Gobierno en cada Comunidad Autónoma.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t03_ce_048",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "155.1",
+    "dificultad": "difícil",
+    "pregunta": "Si una Comunidad Autónoma no cumpliere las obligaciones que la Constitución u otras leyes le impongan, o actuare de forma que atente gravemente al interés general de España, el Gobierno podrá adoptar las medidas necesarias con la aprobación por mayoría absoluta del:",
+    "opciones": [
+      "Senado.",
+      "Congreso de los Diputados.",
+      "Tribunal Constitucional.",
+      "Consejo de Estado."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El artículo 155.1 CE exige la aprobación formal por mayoría absoluta del Senado previo requerimiento al Presidente autonómico.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t03_ce_049",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "156.1",
+    "dificultad": "fácil",
+    "pregunta": "Las Comunidades Autónomas gozarán de autonomía financiera para el desarrollo y ejecución de sus competencias con arreglo a los principios de coordinación con la Hacienda estatal y de:",
+    "opciones": [
+      "Solidaridad entre todos los españoles.",
+      "Soberanía tributaria ilimitada.",
+      "Autarquía presupuestaria local.",
+      "Prevalencia de los impuestos autonómicos."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El artículo 156.1 consagra los principios de coordinación con el Estado y solidaridad interterritorial.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t03_ce_050",
+    "id_tema": 3,
+    "id_norma": "ce_1978",
+    "articulo": "158.2",
+    "dificultad": "media",
+    "pregunta": "Con el fin de corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad, se constituirá un Fondo de Compensación con destino a gastos de inversión, cuyos recursos serán distribuidos por:",
+    "opciones": [
+      "Las Cortes Generales entre las Comunidades Autónomas y provincias.",
+      "El Banco de España.",
+      "El Consejo de Gobierno de cada CCAA.",
+      "La Unión Europea."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El artículo 158.2 CE encomienda a las Cortes Generales la distribución de los recursos del Fondo de Compensación Interterritorial.",
+    "ley": "Constitución Española de 1978"
   }
   ]
   }

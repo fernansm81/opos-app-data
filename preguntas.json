@@ -2320,6 +2320,857 @@
         "fecha_ultima_revision": "2026-10-15",
         "motivo_estado": "Vigente conforme a la CE de 1978"
       }
-    }
-  ]
-}
+    },
+    {
+      [
+  {
+    "id_pregunta": "preg_t02_ce_001",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "56.1",
+    "dificultad": "fácil",
+    "pregunta": "¿Qué papel atribuye el artículo 56.1 de la CE al Rey?",
+    "opciones": [
+      "Es el Jefe del Estado, símbolo de su unidad y permanencia.",
+      "Es el Jefe del Gobierno y del Poder Ejecutivo.",
+      "Es el Presidente de las Cortes Generales.",
+      "Es el máximo órgano consultivo del Estado."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 56.1 CE establece que el Rey es el Jefe del Estado, símbolo de su unidad y permanencia, arbitra y modera el funcionamiento regular de las instituciones.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_002",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "56.3",
+    "dificultad": "media",
+    "pregunta": "Según la Constitución Española, la persona del Rey es:",
+    "opciones": [
+      "Responsable políticamente ante el Congreso.",
+      "Inviolable y no está sujeta a responsabilidad.",
+      "Responsable penalmente ante el Tribunal Supremo.",
+      "Inviolable solo en el ejercicio de sus funciones militares."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 56.3 CE indica que la persona del Rey es inviolable y no está sujeta a responsabilidad. Sus actos estarán siempre refrendados.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_003",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "57.1",
+    "dificultad": "fácil",
+    "pregunta": "La Corona de España es hereditaria en los sucesores de:",
+    "opciones": [
+      "S. M. Don Juan Carlos I de Borbón.",
+      "S. M. Don Alfonso XIII.",
+      "S. M. Don Felipe VI.",
+      "La dinastía histórica según la Ley Salica."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 57.1 CE establece que la Corona es hereditaria en los sucesores de S. M. Don Juan Carlos I de Borbón, legítimo heredero de la dinastía histórica.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_004",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "57.1",
+    "dificultad": "media",
+    "pregunta": "En la sucesión a la Corona, ¿qué orden de prelación establece el artículo 57.1?",
+    "opciones": [
+      "La línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer.",
+      "La mujer al varón siempre que sea de mayor edad.",
+      "El grado más remoto al más próximo en la misma línea.",
+      "Elección directa por las Cortes Generales en todo caso."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 57.1 sigue el orden regular de primogenitura y representación: línea, grado, sexo y edad.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_005",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "57.3",
+    "dificultad": "difícil",
+    "pregunta": "Extinguidas todas las líneas llamadas en Derecho a la sucesión a la Corona, ¿quién proveerá a la sucesión?",
+    "opciones": [
+      "El Presidente del Gobierno.",
+      "El Tribunal Constitucional.",
+      "Las Cortes Generales, en la forma que más convenga a los intereses de España.",
+      "El Consejo de Estado mediante Real Decreto."
+    ],
+    "respuesta_correcta": 2,
+    "explicacion": "El art. 57.3 CE dispone que extinguidas todas las líneas, las Cortes Generales proveerán a la sucesión en la forma que más convenga a los intereses de España.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_006",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "57.4",
+    "dificultad": "media",
+    "pregunta": "Aquellas personas que teniendo derecho a la sucesión contrajeren matrimonio contra la expresa prohibición del Rey y de las Cortes Generales:",
+    "opciones": [
+      "Quedarán excluidas de la sucesión a la Corona por sí y sus descendientes.",
+      "Podrán suceder previa autorización del Tribunal Supremo.",
+      "Mantendrán sus derechos pero no los de sus hijos.",
+      "Deberán someterse a referéndum nacional."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 57.4 CE sanciona el matrimonio prohibido con la exclusión en la sucesión para la persona y sus descendientes.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_007",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "57.5",
+    "dificultad": "media",
+    "pregunta": "Las abdicaciones y renuncias y cualquier duda de hecho o de derecho en el orden de sucesión a la Corona se resolverán por:",
+    "opciones": [
+      "Decreto del Consejo de Ministros.",
+      "Una ley orgánica.",
+      "Sentencia del Tribunal Constitucional.",
+      "Resolución del Presidente del Congreso."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 57.5 CE exige Ley Orgánica para resolver abdicaciones, renuncias y dudas en el orden de sucesión.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_008",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "59.1",
+    "dificultad": "fácil",
+    "pregunta": "Para ejercer la Regencia en caso de minoría de edad del Rey, la persona llamada a ella debe ser:",
+    "opciones": [
+      "Español y mayor de edad.",
+      "Español o extranjero nacionalizado.",
+      "Mayor de 25 años únicamente.",
+      "Diputado o Senador."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 59.4 CE determina que para ejercer la Regencia es preciso ser español y mayor de edad.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_009",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "59.2",
+    "dificultad": "difícil",
+    "pregunta": "Si el Rey se inhabilitare para el ejercicio de su autoridad y la inhabilitación fuere reconocida por las Cortes Generales, entrará a ejercer la Regencia inmediatamente:",
+    "opciones": [
+      "El Presidente del Gobierno.",
+      "El Príncipe heredero, si fuere mayor de edad.",
+      "El Presidente del Tribunal Supremo.",
+      "Un regente nombrado por el Congreso."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 59.2 CE especifica que el Príncipe heredero ejercerá la Regencia si fuere mayor de edad.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_010",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "60.1",
+    "dificultad": "media",
+    "pregunta": "El Tutor del Rey menor será la persona que hubiese nombrado el Rey difunto en su testamento, siempre que sea:",
+    "opciones": [
+      "Mayor de edad y español de nacimiento.",
+      "Miembro de las Cortes Generales.",
+      "Pariente de hasta cuarto grado.",
+      "Presidente del Tribunal Supremo."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 60.1 CE exige que el tutor testamentario sea mayor de edad y español de nacimiento.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_011",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "60.2",
+    "dificultad": "media",
+    "pregunta": "¿Pueden acumularse los cargos de Regente y de Tutor del Rey menor?",
+    "opciones": [
+      "No, en ningún caso.",
+      "Sí, únicamente en el padre o madre del Rey menor.",
+      "Sí, si así lo aprueba el Congreso por mayoría absoluta.",
+      "Sí, en cualquier familiar consanguíneo."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 60.2 CE prohíbe acumular los cargos de Regente y Tutor salvo en el padre o madre viudos del Rey menor.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_012",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "61.1",
+    "dificultad": "fácil",
+    "pregunta": "Al ser proclamado ante las Cortes Generales, el Rey prestará juramento de:",
+    "opciones": [
+      "Fidelidad al Gobierno de la Nación.",
+      "Desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y respetar los derechos de los ciudadanos y de las CCAA.",
+      "Cumplir únicamente los tratados internacionales.",
+      "Mantener la neutralidad militar en todo momento."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "Texto literal del art. 61.1 CE sobre la proclamación y juramento del Rey ante las Cortes Generales.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_013",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "62.a",
+    "dificultad": "fácil",
+    "pregunta": "Corresponde al Rey sancionar y promulgar las leyes en el plazo de:",
+    "opciones": [
+      "10 días.",
+      "15 días.",
+      "20 días.",
+      "1 mes."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "Según el art. 62.a en relación con el 91 CE, el Rey sancionará en el plazo de 15 días las leyes aprobadas por las Cortes Generales.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_014",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "62.g",
+    "dificultad": "fácil",
+    "pregunta": "¿A quién corresponde ejercer el Mando Supremo de las Fuerzas Armadas?",
+    "opciones": [
+      "Al Ministro de Defensa.",
+      "Al Presidente del Gobierno.",
+      "Al Rey.",
+      "Al Jefe del Estado Mayor de la Defensa."
+    ],
+    "respuesta_correcta": 2,
+    "explicacion": "El art. 62.g CE asigna expresamente al Rey el Mando Supremo de las Fuerzas Armadas.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_015",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "62.i",
+    "dificultad": "media",
+    "pregunta": "El ejercicio del derecho de gracia corresponde al Rey con arreglo a la ley, pero no podrá autorizar:",
+    "opciones": [
+      "Indultos particulares.",
+      "Indultos generales.",
+      "Conmutación de penas de prisión.",
+      "Rehabilitación de funcionarios públicos."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 62.i CE prohíbe expresamente la autorización de indultos generales.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_016",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "64.1",
+    "dificultad": "media",
+    "pregunta": "Los actos del Rey serán refrendados por el Presidente del Gobierno y, en su caso, por los Ministros competentes. La propuesta y el nombramiento del Presidente del Gobierno serán refrendados por:",
+    "opciones": [
+      "El Presidente del Senado.",
+      "El Presidente del Congreso de los Diputados.",
+      "El Presidente del Tribunal Constitucional.",
+      "El Presidente del Consejo de Estado."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 64.1 CE prevé que la propuesta y nombramiento del Presidente del Gobierno y la disolución prevista en el art. 99 serán refrendados por el Presidente del Congreso.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_017",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "65.1",
+    "dificultad": "fácil",
+    "pregunta": "El Rey recibe de los Presupuestos del Estado una cantidad global para el sostenimiento de su Familia y Casa, y la distribuye:",
+    "opciones": [
+      "Con la conformidad del Ministro de Hacienda.",
+      "Libremente.",
+      "Previa aprobación del Congreso.",
+      "Con informe previo del Tribunal de Cuentas."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 65.1 CE estipula que el Rey distribuye libremente la cantidad asignada en los Presupuestos.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_018",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "66.1",
+    "dificultad": "fácil",
+    "pregunta": "Las Cortes Generales representan al pueblo español y están formadas por:",
+    "opciones": [
+      "El Congreso de los Diputados y el Senado.",
+      "El Congreso, el Senado y las Asambleas Autonómicas.",
+      "El Congreso de los Diputados exclusivamente.",
+      "El Congreso y el Consejo de Estado."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 66.1 CE consagra el bicameralismo al definir las Cortes Generales compuestas por Congreso y Senado.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_019",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "66.2",
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son las funciones principales de las Cortes Generales según el artículo 66.2 de la CE?",
+    "opciones": [
+      "Ejercer la potestad legislativa del Estado, aprobar sus Presupuestos y controlar la acción del Gobierno.",
+      "Juzgar y hacer ejecutar lo juzgado.",
+      "Dirigir la política interior y exterior.",
+      "Dictar Reglamentos ejecutivos autonómicos."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 66.2 establece la potestad legislativa, presupuestaria y de control del Gobierno a cargo de las Cortes Generales.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_020",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "67.1",
+    "dificultad": "media",
+    "pregunta": "Los miembros de las Cortes Generales:",
+    "opciones": [
+      "Están ligados por mandato imperativo.",
+      "No estarán ligados por mandato imperativo.",
+      "Deben acatar las ordenes del Presidente de la Cámara.",
+      "Tienen representación directa inderogable."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 67.2 CE dispone expresamente que los miembros de las Cortes Generales no estarán ligados por mandato imperativo.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_021",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "68.1",
+    "dificultad": "media",
+    "pregunta": "El Congreso se compone de un número mínimo y máximo de Diputados, fijados por la Constitución en:",
+    "opciones": [
+      "Mínimo 200 y máximo 400.",
+      "Mínimo 300 y máximo 400.",
+      "Mínimo 350 y máximo 500.",
+      "Exactamente 350 en todo caso."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 68.1 CE fija el número de Diputados en un mínimo de 300 y un máximo de 400 (la LOREG lo fijó en 350).",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_022",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "68.2",
+    "dificultad": "fácil",
+    "pregunta": "La circunscripción electoral para las elecciones al Congreso es:",
+    "opciones": [
+      "La Comunidad Autónoma.",
+      "La Provincia.",
+      "El Municipio.",
+      "La comarca legislativa."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 68.2 CE indica que la circunscripción electoral es la provincia (Ceuta y Melilla están representadas cada una por un Diputado).",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_023",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "68.4",
+    "dificultad": "fácil",
+    "pregunta": "¿Por cuánto tiempo es elegido el Congreso de los Diputados?",
+    "opciones": [
+      "3 años.",
+      "4 años.",
+      "5 años.",
+      "6 años."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 68.4 CE establece que el Congreso es elegido por cuatro años.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_024",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "68.6",
+    "dificultad": "media",
+    "pregunta": "Las elecciones al Congreso tendrán lugar entre los:",
+    "opciones": [
+      "10 y 20 días desde la terminación del mandato.",
+      "30 y 60 días desde la terminación del mandato.",
+      "60 y 90 días desde la terminación del mandato.",
+      "15 y 30 días posteriores al Decreto de convocatoria."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 68.6 CE especifica que las elecciones tendrán lugar entre los treinta días y sesenta días desde la terminación del mandato.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_025",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "69.1",
+    "dificultad": "fácil",
+    "pregunta": "Según el artículo 69.1 de la CE, el Senado es la Cámara de:",
+    "opciones": [
+      "Representación territorial.",
+      "Representación proporcional corporativa.",
+      "Segunda lectura ejecutiva.",
+      "Control económico estatal."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 69.1 CE define expresamente al Senado como la Cámara de representación territorial.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_026",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "69.2",
+    "dificultad": "media",
+    "pregunta": "En cada provincia peninsular se elegirán mediante sufragio universal:",
+    "opciones": [
+      "2 Senadores.",
+      "3 Senadores.",
+      "4 Senadores.",
+      "5 Senadores."
+    ],
+    "respuesta_correcta": 2,
+    "explicacion": "El art. 69.2 CE asigna 4 Senadores a cada provincia peninsular.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_027",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "69.3",
+    "dificultad": "difícil",
+    "pregunta": "En las provincias insulares, ¿cuántos Senadores corresponden a las islas mayores (Gran Canaria, Mallorca y Tenerife)?",
+    "opciones": [
+      "1 Senador.",
+      "2 Senadores.",
+      "3 Senadores.",
+      "4 Senadores."
+    ],
+    "respuesta_correcta": 2,
+    "explicacion": "El art. 69.3 CE asigna 3 Senadores a cada una de las islas mayores.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_028",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "69.5",
+    "dificultad": "difícil",
+    "pregunta": "Las Comunidades Autónomas designarán un Senador y otro más por cada:",
+    "opciones": [
+      "500.000 habitantes de su respectivo territorio.",
+      "1.000.000 de habitantes de su respectivo territorio.",
+      "250.000 habitantes de su respectivo territorio.",
+      "Provincia integrante de la Comunidad."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 69.5 CE determina que las CCAA designan un Senador y otro más por cada millón de habitantes.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_029",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "71.1",
+    "dificultad": "media",
+    "pregunta": "Los Diputados y Senadores gozarán de inviolabilidad por:",
+    "opciones": [
+      "Cualquier delito cometido durante su mandato.",
+      "Las opiniones manifestadas en el ejercicio de sus funciones.",
+      "Los actos realizados en su vida privada.",
+      "Delitos de tráfico y sanción administrativa."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 71.1 CE garantiza la inviolabilidad de parlamentarios por las opiniones manifestadas en el ejercicio de sus funciones.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_030",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "71.2",
+    "dificultad": "media",
+    "pregunta": "Durante el período de su mandato, los Diputados y Senadores solo podrán ser detenidos en caso de:",
+    "opciones": [
+      "Flagrante delito.",
+      "Orden judicial del Juzgado de Instrucción.",
+      "Delitos contra la Hacienda Pública.",
+      "Solicitud motivada del Gobierno."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 71.2 CE establece la inmunidad parlamentaria: solo pueden ser detenidos en caso de flagrante delito.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_031",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "71.3",
+    "dificultad": "fácil",
+    "pregunta": "La causa contra Diputados y Senadores será competente la Sala de lo Penal del:",
+    "opciones": [
+      "Tribunal Constitucional.",
+      "Tribunal Supremo.",
+      "Audiencia Nacional.",
+      "Tribunal Superior de Justicia."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 71.3 CE establece el aforamiento de parlamentarios ante la Sala de lo Penal del Tribunal Supremo.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_032",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "97",
+    "dificultad": "fácil",
+    "pregunta": "¿A quién corresponde dirigir la política interior y exterior, la Administración civil y militar y la defensa del Estado?",
+    "opciones": [
+      "Al Rey.",
+      "A las Cortes Generales.",
+      "Al Gobierno.",
+      "Al Consejo de Estado."
+    ],
+    "respuesta_correcta": 2,
+    "explicacion": "El art. 97 CE atribuye al Gobierno la dirección de la política interior/exterior, la Administración civil/militar y la defensa.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_033",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "98.1",
+    "dificultad": "fácil",
+    "pregunta": "El Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, y de:",
+    "opciones": [
+      "Los Secretarios de Estado.",
+      "Los Ministros y de los demás miembros que establezca la ley.",
+      "Los Subsecretarios y Directores Generales.",
+      "Los Presidentes de las Comunidades Autónomas."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 98.1 CE enumera la composición formal del Gobierno: Presidente, Vicepresidentes (en su caso), Ministros y demás miembros fijados por ley.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_034",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "98.3",
+    "dificultad": "media",
+    "pregunta": "Los miembros del Gobierno no podrán ejercer otras funciones públicas que las derivadas de su mandato ni actividad profesional o mercantil alguna. Esto se conoce como régimen de:",
+    "opciones": [
+      "Aforamiento.",
+      "Incompatibilidades.",
+      "Inmunidad ejecutiva.",
+      "Inviolabilidad gubernamental."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 98.3 CE establece el riguroso régimen de incompatibilidades de los miembros del Gobierno.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_035",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "99.1",
+    "dificultad": "media",
+    "pregunta": "Después de cada renovación del Congreso de los Diputados, ¿quién propone un candidato a la Presidencia del Gobierno?",
+    "opciones": [
+      "El Presidente del Congreso.",
+      "El Rey, previa consulta con los representantes designados por los grupos políticos con representación parlamentaria.",
+      "El Presidente saliente.",
+      "El Consejo de Estado."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 99.1 CE establece el procedimiento de investidura propuesta por el Rey previa ronda de consultas.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_036",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "99.3",
+    "dificultad": "media",
+    "pregunta": "Para ser otorgada la confianza al candidato a Presidente del Gobierno en primera votación en el Congreso se requiere:",
+    "opciones": [
+      "Mayoría simple.",
+      "Mayoría absoluta de sus miembros.",
+      "Mayoría de dos tercios.",
+      "Mayoría de tres quintos."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 99.3 exige mayoría absoluta en la primera votación de investidura.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_037",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "99.3",
+    "dificultad": "media",
+    "pregunta": "De no alcanzarse la mayoría absoluta en la primera votación de investidura, se someterá la misma propuesta a nueva votación pasadas:",
+    "opciones": [
+      "24 horas.",
+      "48 horas.",
+      "72 horas.",
+      "5 días."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 99.3 señala que la segunda votación se efectúa 48 horas después y requiere solo mayoría simple.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_038",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "99.5",
+    "dificultad": "difícil",
+    "pregunta": "Si transcurrido el plazo de dos meses desde la primera votación de investidura ningún candidato hubiere obtenido la confianza del Congreso:",
+    "opciones": [
+      "El Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso.",
+      "Se nombrará automáticamente al candidato del partido más votado.",
+      "El Congreso nombrará un Gobierno provisional por seis meses.",
+      "El Senado asumirá la potestad legislativa extraordinaria."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 99.5 regula la disolución automática tras dos meses sin investidura con refrendo del Presidente del Congreso.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_039",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "100",
+    "dificultad": "fácil",
+    "pregunta": "Los demás miembros del Gobierno serán nombrados y separados por el Rey, a propuesta de:",
+    "opciones": [
+      "Las Cortes Generales.",
+      "Su Presidente.",
+      "El Congreso de los Diputados.",
+      "El Consejo de Ministros."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 100 CE establece que los Ministros son nombrados/separados por el Rey a propuesta exclusiva del Presidente del Gobierno.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_040",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "101.1",
+    "dificultad": "media",
+    "pregunta": "El Gobierno cesa tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria o por:",
+    "opciones": [
+      "Dimisión o fallecimiento de su Presidente.",
+      "Solicitud de las tres cuartas partes del Senado.",
+      "Sentencia del Tribunal Constitucional.",
+      "Expiración de los presupuestos generales."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 101.1 indica que el Gobierno cesa por elecciones generales, pérdida de confianza, o dimisión/fallecimiento de su Presidente.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_041",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "103.1",
+    "dificultad": "fácil",
+    "pregunta": "La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de:",
+    "opciones": [
+      "Eficacia, jerarquía, descentralización, desconcentración y coordinación.",
+      "Igualdad, libertad, fraternidad y justicia universal.",
+      "Oportunidad, conveniencia política y celeridad.",
+      "Celeridad, confidencialidad y competencia exclusiva."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Texto literal de los principios constitucionales de la Administración Pública recogidos en el art. 103.1 CE.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_042",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "107",
+    "dificultad": "media",
+    "pregunta": "El Supremo órgano consultivo del Gobierno es:",
+    "opciones": [
+      "El Consejo General del Poder Judicial.",
+      "El Consejo de Estado.",
+      "El Tribunal de Cuentas.",
+      "El Defensor del Pueblo."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 107 CE define al Consejo de Estado como el supremo órgano consultivo del Gobierno.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_043",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "117.1",
+    "dificultad": "fácil",
+    "pregunta": "La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del Poder Judicial, que son:",
+    "opciones": [
+      "Independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.",
+      "Dependientes del Ministerio de Justicia.",
+      "Inviolables en todo caso e inamovibles temporalmente.",
+      "Elegidos directamente por sufragio universal."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 117.1 CE establece los cuatro pilares estatutarios de Jueces y Magistrados.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_044",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "117.3",
+    "dificultad": "media",
+    "pregunta": "El ejercicio de la potestad jurisdiccional en todo tipo de procesos, juzgando y haciendo ejecutar lo juzgado, corresponde exclusivamente a:",
+    "opciones": [
+      "Los Juzgados y Tribunales determinados por las leyes.",
+      "El Ministerio Fiscal.",
+      "El Consejo General del Poder Judicial.",
+      "El Gobierno de la Nación."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 117.3 consagra el principio de exclusividad jurisdiccional en favor de los Juzgados y Tribunales.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_045",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "117.5",
+    "dificultad": "media",
+    "pregunta": "El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los Tribunales. La ley regulará el ejercicio de la jurisdicción militar en el ámbito:",
+    "opciones": [
+      "Estrictamente castrense y en los supuestos de estado de sitio.",
+      "Civil y penal ordinario.",
+      "Administrativo de defensa únicamente.",
+      "Internacional de misiones de paz."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 117.5 limita la jurisdicción militar al ámbito estrictamente castrense y estado de sitio.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_046",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "122.2",
+    "dificultad": "media",
+    "pregunta": "El órgano de gobierno del Poder Judicial es:",
+    "opciones": [
+      "El Tribunal Supremo.",
+      "El Consejo General del Poder Judicial.",
+      "El Ministerio de Justicia.",
+      "La Sala de Gobierno de la Audiencia Nacional."
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "El art. 122.2 CE establece que el Consejo General del Poder Judicial es su órgano de gobierno.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_047",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "122.3",
+    "dificultad": "difícil",
+    "pregunta": "El Consejo General del Poder Judicial estará integrado por el Presidente del Tribunal Supremo, que lo presidirá, y por cuántos miembros nombrados por el Rey:",
+    "opciones": [
+      "12 miembros.",
+      "15 miembros.",
+      "20 miembros.",
+      "25 miembros."
+    ],
+    "respuesta_correcta": 2,
+    "explicacion": "El art. 122.3 indica que el CGPJ se compone del Presidente del TS y 20 vocales nombrados por el Rey por un periodo de 5 años.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_048",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "123.1",
+    "dificultad": "fácil",
+    "pregunta": "El Tribunal Supremo, con jurisdicción en toda España, es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de:",
+    "opciones": [
+      "Garantías constitucionales.",
+      "Derecho Administrativo.",
+      "Derecho Canónico.",
+      "Cuestiones de competencia autonómica."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 123.1 sitúa al Tribunal Supremo como cúspide jurisdiccional, a excepción de las garantías constitucionales (que corresponden al Tribunal Constitucional).",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_049",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "124.1",
+    "dificultad": "media",
+    "pregunta": "El Ministerio Fiscal tiene como misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley, así como velar por:",
+    "opciones": [
+      "La independencia de los Tribunales.",
+      "La ejecución de las penas privativas de libertad exclusivamente.",
+      "La designación de los Jueces de Paz.",
+      "La elaboración de las leyes penales."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 124.1 le encomienda promover la justicia en defensa de la legalidad y velar por la independencia de los Tribunales.",
+    "ley": "Constitución Española de 1978"
+  },
+  {
+    "id_pregunta": "preg_t02_ce_050",
+    "id_tema": 2,
+    "id_norma": "ce_1978",
+    "articulo": "124.4",
+    "dificultad": "media",
+    "pregunta": "El Fiscal General del Estado será nombrado por el Rey, a propuesta del Gobierno, oído el:",
+    "opciones": [
+      "Consejo General del Poder Judicial.",
+      "Congreso de los Diputados.",
+      "Tribunal Constitucional.",
+      "Defensor del Pueblo."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 124.4 fija que el Fiscal General del Estado es nombrado por el Rey a propuesta del Gobierno, oído el Consejo General del Poder Judicial.",
+    "ley": "Constitución Española de 1978"
+  }
+]

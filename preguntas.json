@@ -4027,7 +4027,7 @@
     "id_norma": "estatuto_andalucia",
     "articulo": "100",
     "dificultad": "media",
-    "pregunta": "Según el Estatuto de Autonomía para Andalucía, la organización institucional básica de la Comunidad Autónoma comprende:",
+    "pregunta": "Según el artículo 100 del Estatuto de Autonomía para Andalucía, la organización institucional básica de la Comunidad Autónoma comprende:",
     "opciones": [
       "El Parlamento de Andalucía, la Junta de Andalucía y el Presidente de la Junta.",
       "El Parlamento, el Consejo de Gobierno y el Tribunal Superior de Justicia.",
@@ -4035,16 +4035,16 @@
       "La Junta de Andalucía, el Consejo Consultivo y el Defensor del Pueblo Andaluz."
     ],
     "respuesta_correcta": 2,
-    "explicacion": "El artículo 100 del Estatuto de Autonomía establece que la organización institucional básica de la Comunidad Autónoma la integran el Parlamento de Andalucía, el Consejo de Gobierno y el Presidente de la Junta.",
+    "explicacion": "El artículo 100 del Estatuto establece expresamente que la organización institucional básica de la Comunidad Autónoma la integran el Parlamento de Andalucía, el Consejo de Gobierno y el Presidente de la Junta.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_003",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "101",
+    "articulo": "101.1",
     "dificultad": "fácil",
-    "pregunta": "El Parlamento de Andalucía:",
+    "pregunta": "El Parlamento de Andalucía, según el artículo 101.1 del Estatuto:",
     "opciones": [
       "Representa al pueblo andaluz, ejerce la potestad legislativa, aprueba los presupuestos y controla la acción del Consejo de Gobierno.",
       "Tiene encomendada la dirección de la política interior y la administración de la Junta.",
@@ -4052,31 +4052,31 @@
       "Es el órgano consultivo supremo de la Junta de Andalucía."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 101 define al Parlamento de Andalucía como el representante del pueblo andaluz, atribuyéndole la potestad legislativa, presupuestaria y de control.",
+    "explicacion": "El art. 101.1 define al Parlamento como representante del pueblo andaluz, atribuyéndole la potestad legislativa, el control del Gobierno, la aprobación de presupuestos y demás competencias asignadas por el Estatuto.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_004",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "102",
+    "articulo": "102.1",
     "dificultad": "media",
-    "pregunta": "Los miembros del Parlamento de Andalucía gozarán, incluso después de haber cesado en su mandato:",
+    "pregunta": "Los miembros del Parlamento de Andalucía gozarán, incluso después de haber cesado en su mandato, de:",
     "opciones": [
-      "De inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.",
-      "De inmunidad absoluta ante cualquier orden jurisdiccional.",
-      "De fuero especial ante el Tribunal Constitucional.",
-      "De indemnización vitalicia por cese."
+      "Inviolabilidad por las opiniones manifestadas y por los votos emitidos en el ejercicio de sus funciones.",
+      "Inmunidad absoluta ante cualquier orden jurisdiccional.",
+      "Fuero especial ante el Tribunal Constitucional.",
+      "Indemnización vitalicia por cese."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 102 garantiza la inviolabilidad de los parlamentarios andaluces por las opiniones manifestadas en el ejercicio de sus funciones, prerrogativa que subsiste aun después de cesar.",
+    "explicacion": "El art. 102.1 garantiza que los Diputados gozarán de inviolabilidad, aun después de haber cesado en su mandato, por las opiniones manifestadas y los votos emitidos en el ejercicio de sus funciones.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_005",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "102",
+    "articulo": "102.1",
     "dificultad": "difícil",
     "pregunta": "Durante su mandato, los Diputados del Parlamento de Andalucía no podrán ser detenidos ni retenidos sino en caso de:",
     "opciones": [
@@ -4086,14 +4086,14 @@
       "Solicitud motivada del Defensor del Pueblo."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 102 del Estatuto consagra la inmunidad parlamentaria, disponiendo que solo podrán ser detenidos en caso de flagrante delito.",
+    "explicacion": "El art. 102.1 del Estatuto consagra la inmunidad parlamentaria, disponiendo que durante su mandato no podrán ser detenidos ni retenidos en territorio andaluz sino en caso de flagrante delito.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_006",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "103",
+    "articulo": "101.1",
     "dificultad": "media",
     "pregunta": "¿A qué órgano corresponde la responsabilidad de exigir la responsabilidad política del Consejo de Gobierno de la Junta de Andalucía?",
     "opciones": [
@@ -4103,14 +4103,14 @@
       "Al Consejo de Estado."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 103 establece que el Parlamento de Andalucía controla la acción del Consejo de Gobierno y puede exigirle responsabilidad política mediante la moción de censura.",
+    "explicacion": "El art. 101.1 establece que el Parlamento de Andalucía controla la acción del Consejo de Gobierno y exige la responsabilidad política del mismo (a través de la moción de censura y la cuestión de confianza).",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_007",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "104",
+    "articulo": "118.1",
     "dificultad": "fácil",
     "pregunta": "El Presidente de la Junta de Andalucía es elegido por:",
     "opciones": [
@@ -4120,14 +4120,14 @@
       "La Mesa del Parlamento."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 104 dispone que el Presidente de la Junta de Andalucía será elegido por el Parlamento de entre sus miembros y nombrado por el Rey.",
+    "explicacion": "El art. 118.1 dispone que el Presidente de la Junta de Andalucía será elegido de entre sus miembros por el Parlamento y nombrado por el Rey.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_008",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "105",
+    "articulo": "117.1",
     "dificultad": "media",
     "pregunta": "Corresponde al Presidente de la Junta de Andalucía:",
     "opciones": [
@@ -4137,48 +4137,48 @@
       "La presidencia nata del Tribunal Superior de Justicia de Andalucía."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 105 detalla las funciones del Presidente, ostentando la suprema representación de la Comunidad Autónoma y la ordinaria del Estado en ella, así como la dirección del Consejo de Gobierno.",
+    "explicacion": "El art. 117.1 atribuye al Presidente la dirección del Consejo de Gobierno, la suprema representación de la Comunidad Autónoma y la representación ordinaria del Estado en Andalucía.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_009",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "106",
+    "articulo": "119.1",
     "dificultad": "media",
-    "pregunta": "El Consejo de Gobierno es:",
+    "pregunta": "El Consejo de Gobierno de la Junta de Andalucía es:",
     "opciones": [
-      "El órgano colegiado que dirige la política de la Junta, ejerce la función ejecutiva y la potestad reglamentaria.",
+      "El órgano colegiado que dirige la política de la Comunidad Autónoma, ejerce la función ejecutiva y la potestad reglamentaria.",
       "El órgano de máxima representación institucional del Parlamento.",
       "Un órgano consultivo del Presidente sin competencias ejecutivas.",
       "El órgano superior de control presupuestario de Andalucía."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 106 define al Consejo de Gobierno como el órgano colegiado que dirige la política de la Junta y ejerce la función ejecutiva y la potestad reglamentaria.",
+    "explicacion": "El art. 119.1 define al Consejo de Gobierno como el órgano colegiado que dirige la política de la Comunidad Autónoma de Andalucía, ejerce la función ejecutiva y la potestad reglamentaria.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_010",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "107",
+    "articulo": "120",
     "dificultad": "media",
-    "pregunta": "Los miembros del Consejo de Gobierno son nombrados y separados por:",
+    "pregunta": "Los Consejeros que integran el Consejo de Gobierno son nombrados y separados por:",
     "opciones": [
       "El Presidente de la Junta de Andalucía.",
       "El Parlamento de Andalucía mediante votación por mayoría absoluta.",
       "El Rey a propuesta del Consejo de Ministros.",
-      "El Consejero de Presidencia."
+      "La Mesa del Parlamento."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 107 estipula que los miembros del Consejo de Gobierno son nombrados y separados libremente por el Presidente de la Junta.",
+    "explicacion": "El art. 120 indica que los Vicepresidentes y Consejeros son nombrados y separados por el Presidente de la Junta de Andalucía.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_011",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "115",
+    "articulo": "133",
     "dificultad": "fácil",
     "pregunta": "¿Cómo se titula el Capítulo III del Título IV del Estatuto de Autonomía para Andalucía?",
     "opciones": [
@@ -4188,347 +4188,347 @@
       "De los órganos consultivos y de control."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El Capítulo III del Título IV está dedicado íntegramente a regular la Administración de la Junta de Andalucía.",
+    "explicacion": "El Capítulo III del Título IV comprende los artículos 133 a 136 y se titula 'De la Administración de la Junta de Andalucía'.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_012",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "115",
+    "articulo": "133",
     "dificultad": "media",
     "pregunta": "La Administración de la Junta de Andalucía, bajo la dirección del Consejo de Gobierno, sirve con objetividad los intereses generales y actúa de acuerdo con los principios de:",
     "opciones": [
-      "Eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la Constitución y al Estatuto.",
+      "Eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.",
       "Soberanía, independencia financiera y supremacía reglamentaria.",
       "Celeridad absoluta y discrecionalidad técnica.",
       "Burocratización centralizada y subordinación ministerial estatal."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 115 plasma los principios rectores de la Administración autonómica andaluza, inspirados en los criterios constitucionales de eficacia y descentralización.",
+    "explicacion": "El art. 133 del Estatuto consagra que la Administración autonómica sirve a los intereses generales con eficacia, jerarquía, descentralización, desconcentración y coordinación.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_013",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "116",
+    "articulo": "136",
     "dificultad": "difícil",
-    "pregunta": "El personal al servicio de la Administración de la Junta de Andalucía se regirá por:",
+    "pregunta": "El personal al servicio de la Administración de la Junta de Andalucía se rige por la legislación autonómica en el marco de:",
     "opciones": [
-      "Las normas de la función pública andaluza, respetando los derechos y principios básicos de la legislación estatal.",
-      "Exclusivamente por la normativa laboral de ámbito estatal.",
-      "Los reglamentos específicos que dicte libremente el Parlamento sin sujeción a bases estatales.",
-      "El Estatuto de los Trabajadores de forma supletoria y directa."
+      "Las bases del régimen estatutario de los funcionarios públicos dictadas por el Estado conforme al art. 149.1.18ª de la CE.",
+      "Exclusivamente el Estatuto de los Trabajadores sin distinción.",
+      "Los reglamentos que dicte libremente el Parlamento sin marco estatal.",
+      "Instrucciones del Consejo Consultivo de Andalucía."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 116 regula el régimen de la función pública andaluza en el marco de las bases estatales de la función pública.",
+    "explicacion": "El art. 136 del Estatuto se remite a las bases estatales reguladoras del estatuto de los funcionarios públicos de las Administraciones Públicas.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_014",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "117",
+    "articulo": "137",
     "dificultad": "fácil",
     "pregunta": "¿Qué regula el Capítulo IV del Título IV del Estatuto de Autonomía para Andalucía?",
     "opciones": [
-      "De las relaciones con el Estado.",
-      "De la potestad legislativa delegada.",
+      "La representación ordinaria del Estado y la Administración periférica del Estado en Andalucía.",
+      "De las relaciones con la Unión Europea.",
       "De la organización territorial municipal.",
-      "De los convenios internacionales."
+      "De las competencias exclusivas."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El Capítulo IV del Título IV del Estatuto aborda las relaciones de la Comunidad Autónoma con el Estado.",
+    "explicacion": "El Capítulo IV del Título IV (artículos 137 a 139) regula la representación del Estado en Andalucía.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_015",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "117",
+    "articulo": "137",
     "dificultad": "media",
-    "pregunta": "Las relaciones entre la Junta de Andalucía y el Estado se fundarán en el principio general de:",
+    "pregunta": "Según el artículo 137 del Estatuto de Autonomía, la representación ordinaria del Estado en la Comunidad Autónoma de Andalucía corresponde a:",
     "opciones": [
-      "Lealtad institucional y colaboración mutua.",
-      "Subordinación jerárquica al Gobierno central.",
-      "Independencia política absoluta y no injerencia.",
-      "Arbitraje obligatorio del Tribunal Constitucional."
+      "El Presidente de la Junta de Andalucía.",
+      "El Delegado del Gobierno en la Comunidad Autónoma.",
+      "El Presidente del Parlamento de Andalucía.",
+      "El Subdelegado del Gobierno provincial."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 117 establece el principio básico de lealtad institucional y colaboración mutua entre ambas administraciones.",
+    "explicacion": "El art. 137.1 confirma que la representación ordinaria del Estado en Andalucía corresponde al Presidente de la Junta de Andalucía.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_016",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "118",
+    "articulo": "138",
     "dificultad": "media",
-    "pregunta": "La participación de la Junta de Andalucía en las decisiones del Estado que afecten a las competencias o intereses de la Comunidad Autónoma se canalizará a través de:",
+    "pregunta": "A quién corresponde nombrar al Delegado del Gobierno en la Comunidad Autónoma de Andalucía según el artículo 138:",
     "opciones": [
-      "Los órganos bilaterales de cooperación y las conferencias sectoriales.",
-      "Las enmiendas directas en el Tribunal Supremo.",
-      "El Consejo de Estado preceptivamente.",
-      "Los partidos políticos con representación estatal."
+      "Al Gobierno de la Nación.",
+      "Al Presidente de la Junta de Andalucía.",
+      "Al Parlamento de Andalucía por mayoría absoluta.",
+      "Al Rey a propuesta del Presidente del Parlamento."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 118 regula los cauces de participación en la política estatal mediante órganos bilaterales de cooperación y conferencias sectoriales.",
+    "explicacion": "El art. 138 indica que el Delegado del Gobierno dirigiéndola y coordinándola cuando proceda es nombrado por el Gobierno de la Nación.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_017",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "120",
+    "articulo": "220",
     "dificultad": "fácil",
     "pregunta": "La Comisión Bilateral de Cooperación entre la Junta de Andalucía y el Estado es:",
     "opciones": [
-      "El órgano bilateral de relación para facilitar la cooperación y el entendimiento mutuo.",
-      "Un tribunal especial para resolver delitos fiscales autonómicos.",
+      "El marco general y permanente de relación, cooperación y consulta entre el Gobierno de la Nación y la Junta de Andalucía.",
+      "Un tribunal especial para resolver controversias entre administraciones.",
       "Una comisión del Parlamento andaluz para asuntos exteriores.",
-      "Un órgano consultivo de control presupuestario local."
+      "Un órgano consultivo exclusivo de control presupuestario local."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 120 configura la Comisión Bilateral de Cooperación como cauce principal de relación bilateral entre el Estado y la Junta de Andalucía.",
+    "explicacion": "El art. 220 regula la Comisión Bilateral de Cooperación Junta de Andalucía-Estado como marco general de cooperación y consulta.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_018",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "123",
+    "articulo": "129",
     "dificultad": "media",
-    "pregunta": "El Consejo Consultivo de Andalucía:",
+    "pregunta": "El Consejo Consultivo de Andalucía (Capítulo VI del Título IV) es:",
     "opciones": [
-      "Es el órgano consultivo superior de la Junta de Andalucía.",
-      "Es el tribunal de cuentas encargado de fiscalizar los fondos públicos locales.",
-      "Sustituye al Consejo de Estado en todas sus funciones estatales.",
-      "Es un órgano de control jurisdiccional de los actos administrativos."
+      "El superior órgano consultivo del Consejo de Gobierno y de la Administración de la Comunidad Autónoma.",
+      "El tribunal de cuentas encargado de fiscalizar los fondos públicos locales.",
+      "Un órgano dependiente jerárquicamente del Consejo de Estado.",
+      "Un tribunal administrativo de recurso en materia de contratos."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 123 define al Consejo Consultivo como el órgano consultivo superior de la Junta de Andalucía.",
+    "explicacion": "El art. 129 define al Consejo Consultivo como el superior órgano consultivo del Consejo de Gobierno y de la Administración de la Junta de Andalucía.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_019",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "124",
+    "articulo": "128",
     "dificultad": "fácil",
-    "pregunta": "El Defensor del Pueblo Andaluz es:",
+    "pregunta": "El Defensor del Pueblo Andaluz (Capítulo VI del Título IV) es:",
     "opciones": [
-      "El alto comisionado del Parlamento de Andalucía para la defensa de los derechos y libertades comprendidos en el Estatuto.",
-      "El representante del Defensor del Pueblo estatal en las provincias andaluzas.",
-      "Un cargo de designación directa por el Consejo de Gobierno.",
-      "El responsable de mediar en los conflictos laborales de la función pública."
+      "El comisionado del Parlamento, designado por éste para la defensa de los derechos y libertades comprendidos en el Título I de la Constitución y Título I del Estatuto.",
+      "El representante directo del Defensor del Pueblo estatal en Andalucía.",
+      "Un órgano del Consejo de Gobierno nombrado por el Presidente.",
+      "Un magistrado nombrado por el Tribunal Superior de Justicia."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 124 instituye al Defensor del Pueblo Andaluz como comisionado del Parlamento para la defensa de los derechos y libertades de los ciudadanos en el ámbito autonómico.",
+    "explicacion": "El art. 128 configura al Defensor del Pueblo Andaluz como alto comisionado del Parlamento autonómico.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_020",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "125",
+    "articulo": "130",
     "dificultad": "media",
-    "pregunta": "La Cámara de Cuentas de Andalucía es:",
+    "pregunta": "La Cámara de Cuentas de Andalucía (Capítulo VI del Título IV) es:",
     "opciones": [
-      "El órgano externo fiscalizador de las cuentas y de la gestión económica de la Junta de Andalucía y del sector público local.",
-      "Una dependencia autonómica de la Agencia Tributaria estatal.",
-      "El órgano encargado de aprobar los presupuestos anuales de las universidades.",
-      "El tribunal de arbitraje para contratos mercantiles andaluces."
+      "El órgano técnico dependiente del Parlamento al que corresponde la fiscalización externa de la gestión económica, financiera y contable del sector público andaluz.",
+      "Una delegación del Ministerio de Hacienda en territorio andaluz.",
+      "El órgano encargado de elaborar el Anteproyecto de Ley del Presupuesto.",
+      "Un tribunal de arbitraje entre entidades locales."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 125 regula la Cámara de Cuentas como órgano externo de fiscalización de la gestión económica, financiera y contable del sector público andaluz.",
+    "explicacion": "El art. 130 define a la Cámara de Cuentas como órgano de fiscalización externa dependiente del Parlamento de Andalucía.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_021",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "126",
+    "articulo": "89",
     "dificultad": "fácil",
     "pregunta": "¿Cómo se denomina el Título III del Estatuto de Autonomía para Andalucía?",
     "opciones": [
       "De la organización territorial de la Comunidad Autónoma.",
       "De la organización institucional de la Comunidad Autónoma.",
-      "De los derechos sociales y deberes.",
-      "De las competencias exclusivas."
+      "De las competencias de la Comunidad Autónoma.",
+      "De las relaciones institucionales de la Comunidad Autónoma."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El Título III del Estatuto de Autonomía para Andalucía se dedica a la organización territorial de la Comunidad Autónoma.",
+    "explicacion": "El Título III del Estatuto de Autonomía comprende los artículos 89 al 100 y lleva por título 'De la organización territorial de la Comunidad Autónoma'.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_022",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "87",
+    "articulo": "89",
     "dificultad": "fácil",
-    "pregunta": "Según el Estatuto de Autonomía para Andalucía, la organización territorial de la Comunidad Autónoma comprende:",
+    "pregunta": "Según el artículo 89 del Estatuto de Autonomía para Andalucía, la organización territorial de la Comunidad Autónoma se estructura en:",
     "opciones": [
-      "Los municipios, las provincias y las comarcas que se constituyan.",
-      "Exclusivamente las provincias y las áreas metropolitanas.",
-      "Los municipios, las mancomunidades y las veguerías.",
-      "Las diputaciones provinciales y las veguerías insulares."
+      "Municipios, provincias y demás entidades locales que se establezcan por ley.",
+      "Exclusivamente en provincias y veguerías.",
+      "Municipios, comarcas y distritos de forma obligatoria.",
+      "Diputaciones e insularidades únicamente."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 87 establece que la organización territorial de Andalucía comprende los municipios, las provincias y las comarcas que se constituyan.",
+    "explicacion": "El art. 89 estipula que Andalucía se organiza territorialmente en municipios, provincias y en las demás entidades locales que se creen por Ley.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_023",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "88",
+    "articulo": "91",
     "dificultad": "fácil",
-    "pregunta": "El municipio es:",
+    "pregunta": "El municipio en Andalucía, según el artículo 91 del Estatuto, es:",
     "opciones": [
-      "La entidad territorial básica de la Comunidad Autónoma, con personalidad jurídica propia y autonomía para la gestión de sus intereses.",
-      "Una demarcación exclusivamente administrativa dependiente de la Diputación Provincial.",
-      "Un ente supramunicipal con capacidad para legislar sobre urbanismo.",
-      "Una unidad de desconcentración de la Junta de Andalucía."
+      "La entidad territorial básica de la Comunidad Autónoma, goza de personalidad jurídica plena y de autonomía para la gestión de sus intereses.",
+      "Una demarcación administrativa dependiente de la Diputación Provincial.",
+      "Un órgano desconcentrado de la Consejería de Gobernación.",
+      "Una circunscripción electoral supramunicipal."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 88 define al municipio como la entidad territorial básica de la Comunidad Autónoma, dotada de personalidad jurídica y autonomía.",
+    "explicacion": "El art. 91 del Estatuto define al municipio como la entidad territorial básica dotada de personalidad jurídica plena y autonomía.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_024",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "88",
+    "articulo": "91.2",
     "dificultad": "media",
-    "pregunta": "El gobierno y la administración del municipio corresponden a:",
+    "pregunta": "El gobierno y la administración del municipio en Andalucía corresponden a:",
     "opciones": [
-      "El Ayuntamiento, integrado por el Alcalde y los Concejales.",
+      "El Ayuntamiento.",
       "La Junta de Gobierno Local exclusivamente.",
-      "El Pleno de la Diputación Provincial.",
-      "El Delegado del Gobierno en la provincia."
+      "El Subdelegado del Gobierno.",
+      "La Diputación Provincial."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 88 ratifica que el gobierno y la administración municipal corresponden al respectivo Ayuntamiento, formado por el Alcalde y los Concejales.",
+    "explicacion": "El art. 91.2 del Estatuto establece que el gobierno y la administración autonómica local del municipio corresponden al Ayuntamiento.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_025",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "89",
+    "articulo": "91.3",
     "dificultad": "media",
-    "pregunta": "La creación de nuevos municipios en Andalucía mediante la segregación de otros existentes requerirá:",
+    "pregunta": "La creación, modificación y supresión de municipios en Andalucía se regulará por:",
     "opciones": [
-      "Que sean núcleos de población diferenciados y que cuenten con recursos suficientes para el cumplimiento de las competencias municipales.",
-      "La aprobación por Ley Orgánica de las Cortes Generales.",
-      "Unanimidad en la votación del Consejo de Gobierno.",
-      "La autorización previa del Ministerio de Hacienda."
+      "Ley del Parlamento de Andalucía.",
+      "Decreto del Presidente de la Junta.",
+      "Orden del Ministerio de Hacienda.",
+      "Acuerdo plenario de la Diputación."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 89 regula los requisitos para la creación de municipios, exigiendo que sean núcleos diferenciados con suficiencia financiera y de recursos.",
+    "explicacion": "El art. 91.3 indica que la creación, alteración de términos municipales y la supresión de municipios se regularán por Ley del Parlamento de Andalucía.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_026",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "90",
+    "articulo": "96.1",
     "dificultad": "fácil",
-    "pregunta": "La provincia en Andalucía es:",
+    "pregunta": "La provincia en Andalucía es, según el artículo 96.1:",
     "opciones": [
-      "Entidad local determinada por la agrupación de municipios, con personalidad jurídica propia y plena autonomía para la gestión de sus intereses.",
-      "Una circunscripción electoral exclusivamente estatal sin competencias locales.",
-      "Una delegación territorial de la Comunidad Autónoma.",
-      "Un ente supramunicipal de carácter optativo."
+      "Una entidad local determinada por la agrupación de municipios, con personalidad jurídica propia y plena autonomía para la gestión de sus intereses.",
+      "Una división administrativa de rango ministerial.",
+      "Un órgano judicial de apelación penal.",
+      "Una unidad parlamentaria autonómica."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 90 define la provincia como entidad local con personalidad jurídica y autonomía para la gestión de intereses propios.",
+    "explicacion": "El art. 96.1 define la provincia como entidad local con personalidad jurídica propia y autonomía para la gestión de sus intereses.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_027",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "90",
+    "articulo": "96.2",
     "dificultad": "media",
-    "pregunta": "El gobierno y la administración autónoma de las provincias en Andalucía corresponden a:",
+    "pregunta": "El gobierno y la administración autónoma de la provincia en Andalucía están encomendados a:",
     "opciones": [
-      "Las Diputaciones Provinciales.",
-      "Los Consejos de Alcaldes de la provincia.",
+      "La Diputación Provincial.",
+      "El Consejo de Alcaldes.",
       "La Delegación del Gobierno de la Junta.",
-      "Las Mancomunidades de municipios."
+      "La Subdelegación del Gobierno estatal."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 90 establece que el gobierno y la administración autónoma provincial se encomiendan a las Diputaciones Provinciales.",
+    "explicacion": "El art. 96.2 encomienda el gobierno y la administración de la provincia a la Diputación Provincial correspondiente.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_028",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "91",
+    "articulo": "96.3",
     "dificultad": "media",
-    "pregunta": "La alteración de los límites provinciales en Andalucía requerirá:",
+    "pregunta": "La alteración de los límites provinciales en Andalucía requiere:",
     "opciones": [
-      "Aprobación de los municipios afectados, informe de las Diputaciones y de la Comunidad Autónoma, y ley de las Cortes Generales.",
-      "Decreto exclusivo del Consejo de Gobierno de la Junta.",
-      "Referéndum vinculante en toda la región andaluza.",
-      "Autorización del Tribunal Constitucional."
+      "Aprobación de las Cortes Generales mediante ley orgánica, de conformidad con el artículo 141.1 de la Constitución.",
+      "Decreto del Consejo de Gobierno de la Junta.",
+      "Referéndum autonómico exclusivamente.",
+      "Orden del Consejero de Presidencia."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 91 fija el procedimiento para modificar límites provinciales, que incluye la intervención local, autonómica y del Estado (Cortes Generales).",
+    "explicacion": "El art. 96.3 se remite a la exigencia constitucional de Ley Orgánica de las Cortes Generales para modificar límites provinciales.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_029",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "92",
+    "articulo": "97",
     "dificultad": "media",
-    "pregunta": "Las comarcas en Andalucía se constituyen mediante:",
+    "pregunta": "Las comarcas u otras entidades supramunicipales que agrupen municipios limítrofes podrán crearse por:",
     "opciones": [
-      "Ley del Parlamento de Andalucía, a iniciativa de los municipios interesados.",
-      "Decreto del Presidente de la Junta de Andalucía sin intervención parlamentaria.",
-      "Acuerdo de la Diputación Provincial correspondiente en exclusiva.",
-      "Real Decreto del Gobierno central."
+      "Ley del Parlamento de Andalucía.",
+      "Resolución del Alcalde de la capital.",
+      "Decreto del Presidente de la Junta.",
+      "Acuerdo de la Cámara de Cuentas."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 92 regula las comarcas, estableciendo que se crean mediante ley del Parlamento de Andalucía a iniciativa de los municipios afectados.",
+    "explicacion": "El art. 97 del Estatuto prevé la creación de comarcas u otras entidades supramunicipales mediante Ley del Parlamento de Andalucía.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_030",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "93",
+    "articulo": "98",
     "dificultad": "media",
-    "pregunta": "Las áreas metropolitanas en Andalucía podrán crearse para:",
+    "pregunta": "Las áreas metropolitanas en Andalucía se regulan mediante:",
     "opciones": [
-      "La coordinación y gestión de obras, servicios y actividades de los municipios integrados en zonas de alta concentración urbana.",
-      "Ejercer potestades tributarias exclusivas sobre el impuesto de la renta estatal.",
-      "Sustituir las competencias provinciales de las Diputaciones.",
-      "Ejercer la potestad legislativa en materia de transportes."
+      "Ley del Parlamento de Andalucía para la gestión coordinada de servicios de grandes aglomeraciones urbanas.",
+      "Decreto de la Diputación Provincial.",
+      "Real Decreto del Ministerio de Política Territorial.",
+      "Reglamento orgánico de cada municipio."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 93 prevé la creación de áreas metropolitanas para la coordinación y gestión eficaz de servicios en aglomeraciones urbanas.",
+    "explicacion": "El art. 98 del Estatuto prevé que las áreas metropolitanas se establezcan por Ley del Parlamento de Andalucía.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_031",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "94",
+    "articulo": "90",
     "dificultad": "fácil",
-    "pregunta": "Las relaciones entre la Junta de Andalucía y las entidades locales de su territorio se basarán en:",
+    "pregunta": "Las relaciones entre la Junta de Andalucía y las entidades locales de su territorio se rigen por los principios de:",
     "opciones": [
-      "Los principios de lealtad institucional, respeto a la autonomía local, coordinación y colaboración.",
-      "La subordinación estricta de los Ayuntamientos a las directrices de los Consejeros.",
-      "La independencia financiera absoluta sin control autonómico.",
-      "La tutela permanente e intervención directa de los actos locales."
+      "Respeto a la autonomía local, información recíproca, colaboración, coordinación y lealtad institucional.",
+      "Jerarquía, subordinación orgánica y sanción directa.",
+      "Autarquía presupuestaria e incompetencia cruzada.",
+      "Intervención judicial previa obligatorio."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 94 consagra los principios de lealtad institucional, respeto a la autonomía local, coordinación y colaboración entre la Junta y los entes locales.",
+    "explicacion": "El art. 90 del Estatuto fija los principios rectores de las relaciones entre la Junta de Andalucía y los entes locales.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
@@ -4537,279 +4537,279 @@
     "id_norma": "estatuto_andalucia",
     "articulo": "95",
     "dificultad": "media",
-    "pregunta": "La Comunidad Autónoma de Andalucía garantizará a los municipios:",
+    "pregunta": "La Comunidad Autónoma de Andalucía garantiza a las entidades locales de su territorio:",
     "opciones": [
-      "La suficiencia financiera y la participación en los tributos de la Comunidad Autónoma.",
-      "Un presupuesto ilimitado sufragado por el Estado.",
-      "La exención total de impuestos locales.",
-      "La capacidad de recaudar todos los tributos estatales."
+      "La suficiencia financiera para el ejercicio de sus competencias y la participación en los tributos de la Comunidad Autónoma.",
+      "La exención total de aportaciones a la sanidad pública.",
+      "El cobro exclusivo del impuesto sobre la renta.",
+      "La dotación ilimitada de recursos estatutarios."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 95 garantiza la suficiencia financiera de los municipios andaluces y su participación en los ingresos de la Junta.",
+    "explicacion": "El art. 95 consagra la garantía de suficiencia financiera local y la participación en los tributos propios autonómicos (PATRICA).",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_033",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "96",
+    "articulo": "92",
     "dificultad": "media",
-    "pregunta": "Las competencias propias de los municipios andaluces se determinarán por:",
+    "pregunta": "Las competencias de los municipios en Andalucía son:",
     "opciones": [
-      "Leyes del Parlamento de Andalucía y de las Cortes Generales, garantizando un ámbito propio de gestión.",
-      "Real Decreto del Consejo de Gobierno de la Junta.",
-      "Los reglamentos internos de cada Ayuntamiento.",
-      "Decisión discrecional del Defensor del Pueblo Andaluz."
+      "Propias o delegadas por otras Administraciones, conforme a lo establecido en las leyes.",
+      "Únicamente ejecutivas subordinadas a las órdenes del Consejero.",
+      "Legislativas en materia de tributación local.",
+      "Irrevocables e inmodificables por ley autonómica."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 96 regula la atribución de competencias propias a los entes locales a través de la legislación autonómica y estatal.",
+    "explicacion": "El art. 92 distingue entre competencias propias y delegadas atribuibles a los municipios andaluces.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_034",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "97",
+    "articulo": "94",
     "dificultad": "difícil",
-    "pregunta": "La transferencia o delegación de competencias de la Junta de Andalucía a los municipios deberá ir acompañada de:",
+    "pregunta": "La delegación de competencias de la Junta de Andalucía en los municipios exigirá en todo caso:",
     "opciones": [
-      "La dotación financiera correspondiente para su ejercicio eficiente.",
-      "La autorización preceptiva del Tribunal Superior de Justicia.",
-      "La cesión de la potestad legislativa exclusiva.",
-      "La supresión de las diputaciones de la provincia."
+      "Aceptación por parte del municipio afectado y la correspondiente transferencia de recursos financieros y materiales.",
+      "Aprobación por Real Decreto Ley del Estado.",
+      "Informe vinculante del Tribunal Constitucional.",
+      "La previa supresión de la Diputación Provincial."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 97 establece el principio de que toda transferencia o delegación de competencias debe llevar aparejada la correspondiente suficiencia financiera.",
+    "explicacion": "El art. 94 exige que la delegación de competencias vaya acompañada de los medios financieros y materiales precisos.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_035",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "104",
+    "articulo": "118.4",
     "dificultad": "media",
-    "pregunta": "Si transcurrido el plazo desde la presentación de candidaturas a la Presidencia de la Junta de Andalucía ningún candidato resultara elegido, el Parlamento quedará disuelto automáticamente y se convocarán nuevas elecciones:",
+    "pregunta": "Si transcurrido el plazo de dos meses desde la primera votación de investidura a la Presidencia de la Junta ningún candidato obtiene la confianza del Parlamento:",
     "opciones": [
-      "Falso, el Estatuto establece plazos específicos de investidura pero la disolución se produce conforme a la ley electoral y reglamentos de la cámara (el plazo general previsto es de dos meses desde la primera votación de investidura).",
-      "Verdadero, a las 48 horas exactas.",
-      "Verdadero, previo decreto del Rey.",
-      "Falso, el Consejo de Gobierno continúa indefinidamente en funciones."
+      "El Parlamento quedará disuelto automáticamente y el Presidente en funciones convocará nuevas elecciones.",
+      "Se nombrará de oficio al candidato de la lista más votada.",
+      "El Consejo de Gobierno continuará de forma indefinida con plenos poderes.",
+      "Se transferirán las competencias al Gobierno central."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 104 y la normativa de desarrollo prevén los mecanismos de bloqueo en la investidura similares al marco general (plazo de dos meses para elegir Presidente antes de la disolución automática).",
+    "explicacion": "El art. 118.4 estipula que si pasados dos meses desde la primera votación de investidura no se elige Presidente, el Parlamento queda disuelto y se convocan nuevas elecciones.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_036",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "108",
+    "articulo": "121",
     "dificultad": "media",
-    "pregunta": "El Consejo de Gobierno responde políticamente ante:",
+    "pregunta": "El Consejo de Gobierno de la Junta de Andalucía responde políticamente ante:",
     "opciones": [
       "El Parlamento de Andalucía de forma solidaria.",
       "El Tribunal Superior de Justicia de forma individual.",
-      "El Gobierno de la Nación mediante moción de censura.",
-      "Los ciudadanos mediante referéndum vinculante."
+      "El Congreso de los Diputados.",
+      "El Consejo de Estado."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 108 establece la responsabilidad política solidaria del Consejo de Gobierno ante el Parlamento de Andalucía.",
+    "explicacion": "El art. 121 del Estatuto establece la responsabilidad política solidaria del Consejo de Gobierno ante el Parlamento de Andalucía.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_037",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "109",
+    "articulo": "117.2",
     "dificultad": "media",
-    "pregunta": "El Presidente de la Junta de Andalucía, previa deliberación del Consejo de Gobierno, podrá acordar la disolución del Parlamento de Andalucía:",
+    "pregunta": "El Presidente de la Junta de Andalucía, previa deliberación del Consejo de Gobierno, podrá acordar la disolución del Parlamento de Andalucía, salvo cuando:",
     "opciones": [
-      "Excepto cuando esté tramitándose una moción de censura.",
-      "En cualquier momento sin ningún tipo de limitación.",
-      "Únicamente con la autorización previa del Senado.",
-      "Durante el primer año de legislatura obligatoriamente."
+      "Se esté tramitándose una moción de censura.",
+      "El presupuesto esté en prórroga.",
+      "El Presidente lleve menos de dos años en el cargo.",
+      "Se declaren elecciones municipales."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 109 regula la disolución anticipada del Parlamento, prohibiéndola expresamente mientras se esté tramitando una moción de censura.",
+    "explicacion": "El art. 117.2 faculta la disolución del Parlamento pero prohíbe tal facultad si se encuentra en tramitación una moción de censura.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_038",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "110",
+    "articulo": "122",
     "dificultad": "difícil",
-    "pregunta": "La responsabilidad penal de los miembros del Consejo de Gobierno será exigible ante:",
+    "pregunta": "La responsabilidad penal del Presidente de la Junta y de los Consejeros será exigible ante:",
     "opciones": [
-      "La Sala de lo Penal del Tribunal Supremo y, en su caso, ante el Tribunal Superior de Justicia de Andalucía según los aforamientos establecidos.",
-      "Exclusivamente el Juzgado de Instrucción de Sevilla.",
-      "El Parlamento de Andalucía en sesión secreta.",
-      "El Tribunal Constitucional en Pleno."
+      "La Sala de lo Penal del Tribunal Supremo o la Sala de lo Civil y Penal del Tribunal Superior de Justicia de Andalucía, según el lugar de comisión de los hechos.",
+      "Exclusivamente ante el Juzgado de Instrucción de Sevilla.",
+      "El Pleno del Parlamento de Andalucía.",
+      "El Tribunal Constitucional."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 110 regula el régimen de aforamientos y responsabilidad penal de los miembros del Consejo de Gobierno ante los tribunales superiores competentes.",
+    "explicacion": "El art. 122 regula los aforamientos penales ante la Sala de lo Civil y Penal del TSJA (si el hecho se comete en Andalucía) o ante el Tribunal Supremo (fuera de Andalucía).",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_039",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "111",
+    "articulo": "126.1",
     "dificultad": "media",
-    "pregunta": "¿Qué mayoría se requiere en el Parlamento de Andalucía para la aprobación de una moción de censura al Presidente de la Junta?",
+    "pregunta": "¿Qué mayoría se exige en el Parlamento de Andalucía para la prosperidad de una moción de censura contra el Presidente de la Junta?",
     "opciones": [
-      "Mayoría absoluta de los miembros del Parlamento.",
-      "Mayoría simple de los diputados presentes.",
-      "Tres quintos de la Cámara.",
-      "Unanimidad de todos los grupos políticos."
+      "Mayoría absoluta de sus miembros.",
+      "Mayoría simple de los presentes.",
+      "Dos tercios de la Cámara.",
+      "Tres quintos de los parlamentarios."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 111 exige la adopción de la moción de censura por mayoría absoluta de los miembros que componen el Parlamento de Andalucía.",
+    "explicacion": "El art. 126.1 del Estatuto exige el voto favorable de la mayoría absoluta de los componentes del Parlamento para que prospere la moción de censura.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_040",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "112",
+    "articulo": "125",
     "dificultad": "media",
-    "pregunta": "La cuestión de confianza planteada por el Presidente de la Junta de Andalucía ante el Parlamento se entenderá otorgada cuando vote a favor de la misma:",
+    "pregunta": "La cuestión de confianza planteada por el Presidente de la Junta ante el Parlamento se considerará otorgada cuando vote a favor de la misma:",
     "opciones": [
-      "La mayoría simple de los diputados.",
-      "La mayoría absoluta de la Cámara.",
-      "Dos tercios de los miembros.",
-      "El setenta por ciento del censo parlamentario."
+      "La mayoría simple de los Diputados presentes.",
+      "La mayoría absoluta de los miembros del Parlamento.",
+      "Dos tercios de los componentes.",
+      "Tres quintos de los votos expresados."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 112 estipula que la cuestión de confianza se entiende otorgada mediante el voto favorable de la mayoría simple de los diputados andaluces.",
+    "explicacion": "El art. 125 requiere la mayoría simple de los votos expresados para entender otorgada la cuestión de confianza.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_041",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "113",
+    "articulo": "114",
     "dificultad": "media",
-    "pregunta": "Las leyes de Andalucía serán promulgadas en nombre del Rey por:",
+    "pregunta": "Las leyes de Andalucía son promulgadas en nombre del Rey por el Presidente de la Junta, quien ordenará su publicación en el Boletín Oficial de la Junta de Andalucía (BOJA) y en el Boletín Oficial del Estado (BOE) en el plazo de:",
     "opciones": [
-      "El Presidente de la Junta de Andalucía, ordenando su publicación en el Boletín Oficial de la Junta de Andalucía y en el Boletín Oficial del Estado.",
-      "El Presidente del Parlamento de Andalucía.",
-      "El Consejero de Justicia.",
-      "El Delegado del Gobierno en la Comunidad Autónoma."
+      "Quince días desde su aprobación por el Parlamento.",
+      "Diez días hábiles.",
+      "Un mes natural.",
+      "Veinte días contados desde su ratificación."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 113 regula la promulgación de las leyes autonómicas por el Presidente de la Junta en nombre del Rey y su publicación oficial.",
+    "explicacion": "El art. 114 determina que las leyes son promulgadas en plazo de quince días desde su aprobación por el Presidente de la Junta.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_042",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "114",
-    "dificultad": "difícil",
-    "pregunta": "El control de la constitucionalidad de las leyes y normas con rango de ley de la Comunidad Autónoma de Andalucía corresponde en exclusiva a:",
+    "articulo": "115",
+    "dificultad": "media",
+    "pregunta": "El control de la constitucionalidad de las Leyes del Parlamento de Andalucía corresponde exclusivamente a:",
     "opciones": [
       "El Tribunal Constitucional.",
       "El Tribunal Superior de Justicia de Andalucía.",
       "El Consejo Consultivo de Andalucía.",
-      "El Tribunal Supremo."
+      "El Consejo de Estado."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 114 reitera el marco constitucional por el cual el control de constitucionalidad de las normas con rango de ley autonómicas recae sobre el Tribunal Constitucional.",
+    "explicacion": "El art. 115 estipula que las leyes autonómicas están sujetas únicamente al control del Tribunal Constitucional.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_043",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "119",
+    "articulo": "222",
     "dificultad": "media",
-    "pregunta": "Los convenios y acuerdos de colaboración que la Junta de Andalucía celebre con otras Comunidades Autónomas requerirán:",
+    "pregunta": "Los convenios de colaboración que la Junta de Andalucía celebre con otras Comunidades Autónomas requerirán:",
     "opciones": [
-      "Comunicación inmediata a las Cortes Generales y, si implican acuerdos de cooperación, la autorización previa de las mismas.",
-      "La aprobación definitiva mediante referéndum popular.",
-      "El visto bueno del Consejo de Estado.",
-      "Ratificación internacional por el Ministerio de Asuntos Exteriores."
+      "Comunicación a las Cortes Generales. Si son acuerdos de cooperación, se requiere la autorización previa de las Cortes Generales.",
+      "Aprobación por referéndum autonómico.",
+      "Informe previo del Tribunal Supremo.",
+      "Aprobación del Pleno de la Cámara de Cuentas."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 119 detalla el régimen de convenios autonómicos en consonancia con el artículo 145 de la Constitución Española.",
+    "explicacion": "El art. 222 aplica la exigencia constitucional (art. 145 CE) distinguiendo entre mera comunicación para convenios y autorización legislativa previa para acuerdos de cooperación.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_044",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "121",
+    "articulo": "111",
     "dificultad": "media",
-    "pregunta": "La Junta de Andalucía podrá solicitar del Estado la adopción de medidas legislativas o la transferencia de facultades mediante:",
+    "pregunta": "La iniciativa legislativa ante las Cortes Generales por parte de la Comunidad Autónoma de Andalucía se ejerce mediante:",
     "opciones": [
-      "Proposición de ley remitida al Congreso de los Diputados o mediante solicitud directa al Gobierno.",
-      "Decreto ley aprobado por el Consejo de Gobierno.",
-      "Sentencia del Tribunal Superior de Justicia.",
-      "Iniciativa popular directa sin cauce institucional."
+      "Presentación de proposiciones de ley ante el Congreso o solicitando al Gobierno de la Nación la adopción de un proyecto de ley.",
+      "Decreto del Presidente de la Junta dictado en BOJA.",
+      "Resolución directa del Consejo Consultivo.",
+      "Petición del Defensor del Pueblo Andaluz."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 121 regula la iniciativa legislativa de la Comunidad Autónoma ante las Cortes Generales.",
+    "explicacion": "El art. 111 asigna al Parlamento andaluz la facultad de solicitar proyectos de ley al Gobierno o presentar proposiciones de ley ante la Mesa del Congreso.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_045",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "122",
+    "articulo": "134",
     "dificultad": "media",
-    "pregunta": "El control de la actividad de los órganos de la Administración de la Junta de Andalucía y de sus normas reglamentarias se ejerce por:",
+    "pregunta": "El control de la legalidad de los reglamentos y de los actos administrativos de la Junta de Andalucía corresponde a:",
     "opciones": [
-      "La jurisdicción contencioso-administrativa.",
-      "El Tribunal Constitucional en Pleno.",
-      "El Parlamento mediante comisiones de investigación penal.",
-      "El Defensor del Pueblo de forma vinculante."
+      "Los Tribunales de la Jurisdicción Contencioso-Administrativa.",
+      "El Tribunal Constitucional.",
+      "El Parlamento de Andalucía.",
+      "El Defensor del Pueblo Andaluz."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 122 asigna el control contencioso-administrativo a los tribunales de dicha jurisdicción sobre los reglamentos y actos de la Junta.",
+    "explicacion": "El art. 134 del Estatuto asigna a la Jurisdicción Contencioso-Administrativa el control de legalidad de reglamentos y actuación de la Administración autonómica.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_046",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "98",
+    "articulo": "191",
     "dificultad": "media",
-    "pregunta": "Las haciendas locales andaluzas se nutrirán, entre otros conceptos, de:",
+    "pregunta": "Las haciendas locales andaluzas se nutrirán fundamentalmente de:",
     "opciones": [
-      "Tributos propios, participación en los tributos del Estado y de la Comunidad Autónoma, y transferencias de financiación.",
-      "Exclusivamente de los impuestos directos cedidos por la Unión Europea.",
-      "Multas de tráfico autonómicas y aranceles portuarios.",
-      "Empréstitos obligatorios autorizados por el Parlamento."
+      "Tributos propios, participación en los del Estado y de la Comunidad Autónoma, y transferencias de financiación.",
+      "Fondos de reserva exclusivamente europeos.",
+      "Tasa de exportación exterior autonómica.",
+      "Subvenciones directas del Parlamento."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 98 regula la suficiencia y recursos de las haciendas locales, destacando tributos propios y participación en ingresos autonómicos y estatales.",
+    "explicacion": "El art. 191 enumera los recursos financieros de las entidades locales andaluzas con arreglo a la garantía constitucional de suficiencia.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_047",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "99",
+    "articulo": "131",
     "dificultad": "difícil",
-    "pregunta": "La creación de un Consejo de Alcaldes u otros órganos de concertación territorial a nivel provincial o supramunicipal en Andalucía se regula por:",
+    "pregunta": "El Consejo Económico y Social de Andalucía (Capítulo VI del Título IV) es:",
     "opciones": [
-      "La legislación de régimen local de la Comunidad Autónoma.",
-      "Reglamento interno de cada Ayuntamiento sin sujeción legal.",
-      "Orden ministerial del Ministerio de Política Territorial.",
-      "Real Decreto Ley del Gobierno central."
+      "El órgano colegiado de participación de los agentes sociales en la planificación de la política socioeconómica autonómica.",
+      "Un órgano del Parlamento para aprobar los impuestos.",
+      "Un tribunal de cuentas comarcal.",
+      "La dirección general de la Consejería de Hacienda."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 99 y los preceptos colindantes del Título III prevén fórmulas de concertación y cooperación local reguladas por ley autonómica.",
+    "explicacion": "El art. 131 del Estatuto de Autonomía define al Consejo Económico y Social de Andalucía como órgano de participación socioeconómica.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_048",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "100",
+    "articulo": "4",
     "dificultad": "media",
-    "pregunta": "La sede del Parlamento de Andalucía se establece estatutariamente en:",
+    "pregunta": "La sede del Parlamento de Andalucía y del Consejo de Gobierno de la Junta de Andalucía se establece en:",
     "opciones": [
       "La ciudad de Sevilla.",
       "La ciudad de Málaga.",
@@ -4817,42 +4817,41 @@
       "La ciudad de Córdoba."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El Estatuto de Autonomía fija expresamente la sede del Parlamento de Andalucía en la ciudad de Sevilla.",
+    "explicacion": "El artículo 4 del Estatuto fija la sede de la Presidencia, del Gobierno y del Parlamento de Andalucía en la ciudad de Sevilla (fijando la sede del TSJA en Granada).",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_049",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "115",
+    "articulo": "136",
     "dificultad": "media",
-    "pregunta": "El acceso a la función pública de la Administración de la Junta de Andalucía se rige por los principios constitucionales de:",
+    "pregunta": "El acceso al empleo público en la Administración de la Junta de Andalucía garantiza en todo caso los principios de:",
     "opciones": [
       "Igualdad, mérito, capacidad y publicidad.",
-      "Antigüedad y libre designación política.",
-      "Sorteo público y cuotas sindicales.",
-      "Criterio exclusivo de empadronamiento regional."
+      "Libre elección por parte del Consejero.",
+      "Antigüedad exclusiva y empadronamiento.",
+      "Designación parlamentaria directa."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 115 y el marco general de la función pública garantizan los principios constitucionales de igualdad, mérito, capacidad y publicidad en el acceso al empleo público.",
+    "explicacion": "El art. 136 consagra el respeto estatutario a los principios de igualdad, mérito, capacidad y publicidad para acceder a la función pública autonómica.",
     "ley": "Estatuto de Autonomía para Andalucía"
   },
   {
     "id_pregunta": "preg_t04_ea_050",
     "id_tema": 4,
     "id_norma": "estatuto_andalucia",
-    "articulo": "125",
+    "articulo": "130.2",
     "dificultad": "media",
-    "pregunta": "Los informes emitidos por la Cámara de Cuentas de Andalucía se remiten directamente a:",
+    "pregunta": "La Cámara de Cuentas de Andalucía rinde cuentas de sus actuaciones mediante memorias e informes que remite a:",
     "opciones": [
-      "Al Parlamento de Andalucía.",
-      "Al Tribunal de Cuentas del Estado en exclusiva.",
-      "Al Presidente de la Junta de Andalucía sin conocimiento parlamentario.",
-      "Al Defensor del Pueblo Andaluz."
+      "El Parlamento de Andalucía.",
+      "El Gobierno de la Nación.",
+      "El Tribunal Superior de Justicia.",
+      "El Consejo Consultivo."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El artículo 125 determina que la Cámara de Cuentas rinde sus informes de fiscalización directamente al Parlamento de Andalucía.",
+    "explicacion": "El art. 130.2 determina que los resultados de la fiscalización externa de la Cámara de Cuentas se elevan al Parlamento de Andalucía.",
     "ley": "Estatuto de Autonomía para Andalucía"
   }
-  ]
-  }
+]

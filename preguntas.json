@@ -4818,6 +4818,1281 @@
     "respuesta_correcta": 0,
     "explicacion": "El art. 130.2 determina que los resultados de la fiscalización externa de la Cámara de Cuentas se elevan al Parlamento de Andalucía.",
     "ley": "Estatuto de Autonomía para Andalucía"
+   },
+  {
+       "id_pregunta": "preg_t17_vg_001",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "1.1",
+    "dificultad": "fácil",
+    "pregunta": "¿Cuál es el objeto principal de la Ley Orgánica 1/2004, de 28 de diciembre?",
+    "opciones": [
+      "Actuar contra la violencia que se ejerce sobre las mujeres por parte de quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia.",
+      "Sancionar exclusivamente la violencia física cometida en el ámbito doméstico sobre cualquier miembro de la familia.",
+      "Regular las competencias del Ministerio de Igualdad en materia de empleo y conciliación.",
+      "Establecer penas de prisión obligatorias para todo tipo de discusiones familiares."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El artículo 1.1 de la LO 1/2004 establece que su objeto es actuar contra la violencia ejercida sobre las mujeres por quienes sean o hayan sido sus cónyuges o ligados a ellas por relaciones de afectividad, aun sin convivencia.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_002",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "1.3",
+    "dificultad": "media",
+    "pregunta": "Según el artículo 1.3 de la LO 1/2004, la violencia de género comprende:",
+    "opciones": [
+      "Todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad.",
+      "Únicamente las lesiones físicas graves que requieran asistencia hospitalaria.",
+      "Exclusivamente los delitos contra la propiedad de la víctima.",
+      "Solo las agresiones cometidas dentro del domicilio conyugal."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El artículo 1.3 abarca como violencia de género todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, amenazas, coacciones o privación arbitraria de libertad.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_003",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "2.a",
+    "dificultad": "media",
+    "pregunta": "Entre los principios rectores de la Ley Orgánica 1/2004 (art. 2) se encuentra:",
+    "opciones": [
+      "Fortalecer las medidas de sensibilización ciudadana de prevención, dotando a los poderes públicos de instrumentos eficaces.",
+      "Promover la mediación familiar obligatoria antes de interponer denuncia.",
+      "Establecer la presunción de culpa del agresor sin juicio previo.",
+      "Sustituir las penas privativas de libertad por trabajos en beneficio de la comunidad obligatorios."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El artículo 2.a contempla entre sus principios rectores fortalecer las medidas de sensibilización de prevención e intervención de los poderes públicos.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_004",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "2.b",
+    "dificultad": "fácil",
+    "pregunta": "Consagrar el derecho de las mujeres víctimas de violencia de género a la información, a la asistencia social integrada y a la asistencia jurídica gratuita es:",
+    "opciones": [
+      "Un principio rector fundamental de la Ley Orgánica 1/2004 (art. 2.b).",
+      "Una facultad potestativa autonómica según disponibilidad presupuestaria.",
+      "Un derecho aplicable únicamente si hay condena penal firme previa.",
+      "Un beneficio exclusivo para funcionarias en activo."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El artículo 2.b recoge como principio rector consagrar los derechos a la información, asistencia social integrada y asistencia jurídica gratuita.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_005",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "2.d",
+    "dificultad": "media",
+    "pregunta": "El principio rector del artículo 2.d de la LO 1/2004 persigue profundizar en la integración de las intervenciones a través de:",
+    "opciones": [
+      "Un plan de coordinación y cooperación institucional entre todas las Administraciones Públicas.",
+      "La creación de juzgados únicos sin coordinación policial.",
+      "La privatización de las oficinas de atención a las víctimas.",
+      "La delegación exclusiva en asociaciones del tercer sector."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 2.d busca la coordinación y cooperación institucional entre las Administraciones Públicas para una respuesta integral.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_006",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "17.1",
+    "dificultad": "fácil",
+    "pregunta": "Las mujeres víctimas de violencia de género tienen derecho a recibir información y asesoramiento adecuado a su situación personal a través de:",
+    "opciones": [
+      "Los servicios, organismos o oficinas que dispongan las Administraciones Públicas.",
+      "Únicamente los juzgados de guardia en horario lectivo.",
+      "Exclusivamente las comisarías del Cuerpo Nacional de Policía.",
+      "Los servicios consulares del país de origen obligatoriamente."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 17.1 reconoce el derecho a la información y asesoramiento prestado a través de los servicios habilitados por las Administraciones Públicas.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_007",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "17.2",
+    "dificultad": "media",
+    "pregunta": "La información a las víctimas de violencia de género comprenderá:",
+    "opciones": [
+      "Las medidas relativas a su seguridad y los derechos y ayudas previstos en la ley, así como el lugar de prestación de los servicios.",
+      "Únicamente la fecha del juicio oral.",
+      "Exclusivamente el historial delictivo previo del agresor.",
+      "Las retribuciones de los profesionales asignados al caso."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Según el art. 17.2, la información abarcará pautas de seguridad, derechos, ayudas legales y la localización de los servicios de asistencia.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_008",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "17.3",
+    "dificultad": "media",
+    "pregunta": "Se garantizará que la información a las víctimas con discapacidad o de colectivos vulnerables sea accesible mediante:",
+    "opciones": [
+      "Formatos y soportes adaptados a sus necesidades específicas.",
+      "Declaración jurada de la víctima.",
+      "Intervención obligatoria del Defensor del Pueblo.",
+      "La asistencia exclusiva de familiares de primer grado."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 17.3 dispone que la información debe ofrecerse en formato accesible y comprensible para personas con discapacidad o situaciones especiales.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_009",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "18.1",
+    "dificultad": "fácil",
+    "pregunta": "El derecho a la asistencia social integrada para las víctimas de violencia de género incluye el acceso a:",
+    "opciones": [
+      "Servicios de atención, de emergencia, de apoyo y acogida, y de recuperación integral.",
+      "Un subsidio vitalicio no contributivo directo sin evaluación.",
+      "La exención total de impuestos estatales durante diez años.",
+      "La asignación de una vivienda de protección oficial en propiedad."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 18.1 contempla el derecho a servicios de atención, emergencia, apoyo, acogida y recuperación psicológica y social.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_010",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "18.2",
+    "dificultad": "media",
+    "pregunta": "La asistencia social integrada a las víctimas de violencia de género se organizará con carácter multidisciplinar e incluirá:",
+    "opciones": [
+      "Atención psicológica, apoyo social, seguimiento del derecho a la educación de los menores y orientación laboral.",
+      "Únicamente el pago de minutas letradas.",
+      "Tratamiento médico-quirúrgico exclusivo en clínicas privadas.",
+      "Asesoramiento financiero para inversiones inmobiliarias."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 18.2 detalla las áreas de actuación multidisciplinar: apoyo psicológico, social, educativo para menores y de inserción laboral.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_011",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "19.1",
+    "dificultad": "media",
+    "pregunta": "Las mujeres víctimas de violencia de género tienen derecho a la asistencia jurídica gratuita en los términos de su ley reguladora:",
+    "opciones": [
+      "En todos los procesos y procedimientos administrativos que tengan causa directa o indirecta en la violencia padecida.",
+      "Únicamente si acreditan insuficiencia de recursos económicos en todo caso.",
+      "Solo si no se persona el Ministerio Fiscal.",
+      "Limitado exclusivamente al juicio rápido de faltas."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 19.1 establece la asistencia jurídica gratuita inmediata en todos los procedimientos judiciales y administrativos derivados de la violencia.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_012",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "19.2",
+    "dificultad": "media",
+    "pregunta": "El derecho a la asistencia jurídica gratuita se prestará a las víctimas de violencia de género:",
+    "opciones": [
+      "De forma inmediata y especializada, con la designación de abogado y procurador de oficio.",
+      "Previo pago de tasas judiciales reducidas.",
+      "Solo tras el dictado de la sentencia firme de condena.",
+      "Exclusivamente por abogados del Estado asignados por el Ministerio de Justicia."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 19.2 consagra la inmediatez y especialización en la defensa jurídica, garantizando abogado y procurador de oficio.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_013",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "20.1",
+    "dificultad": "difícil",
+    "pregunta": "A las víctimas de violencia de género se les garantiza la defensa jurídica gratuita en la fase prejudicial:",
+    "opciones": [
+      "Con derecho a la asistencia letrada antes de la interposición de la denuncia.",
+      "Unicamente tras haber prestado declaración ante el Juzgado de Guardia.",
+      "Solo en presencia del Letrado de la Administración de Justicia.",
+      "En caso de que el agresor cuente con abogado privado."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 20.1 garantiza el asesoramiento jurídico previo a la interposición de la denuncia para orientar adecuadamente la actuación de la víctima.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_014",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24",
+    "dificultad": "fácil",
+    "pregunta": "¿Qué derechos laborales específicos contempla la LO 1/2004 para las funcionarias públicas víctimas de violencia de género?",
+    "opciones": [
+      "Reducción o reordenación de la jornada de trabajo, movilidad geográfica y excedencia.",
+      "Ascenso directo de categoría administrativa por razón de vulnerabilidad.",
+      "Jubilación anticipada al 100% con cinco años de servicio.",
+      "Exención permanente del cumplimiento del horario de trabajo sin reducción retributiva."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 24 recoge la reordenación o reducción de jornada, traslado con movilidad geográfica y la situación de excedencia.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_015",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.1",
+    "dificultad": "media",
+    "pregunta": "La funcionaria pública víctima de violencia de género que ejercite el derecho a la reducción de jornada:",
+    "opciones": [
+      "Tendrá derecho a la disminución proporcional de sus retribuciones en los términos que establezca la legislación de la función pública.",
+      "Mantendrá el 100% de sus retribuciones íntegras en todo caso.",
+      "Perderá el derecho a la reserva de puesto de trabajo.",
+      "Deberá recuperar las horas reducidas en los tres meses siguientes."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "La reducción de jornada de las funcionarias lleva aparejada la disminución proporcional de retribuciones conforme al régimen estatutario.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_016",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.2",
+    "dificultad": "media",
+    "pregunta": "La funcionaria pública que se vea obligada a abandonar el puesto de trabajo en la localidad donde venía prestando sus servicios para hacer efectiva su protección tendrá derecho al trasalado a otro puesto de trabajo de análogas características:",
+    "opciones": [
+      "Que la Administración esté obligada a vacarle en la misma u otra localidad.",
+      "Previo concurso público de méritos autonómico.",
+      "Solo tras el transcurso de dos años desde la orden de protección.",
+      "Con la obligación de indemnizar a la Administración de origen."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 24.2 consagra el derecho a la movilidad geográfica preferente en puestos vacantes de análogas características.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_017",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.2",
+    "dificultad": "difícil",
+    "pregunta": "El puesto de trabajo al que se traslada una funcionaria víctima de violencia de género por movilidad geográfica tendrá la consideración de:",
+    "opciones": [
+      "Puesto definitivo cuando así se prevea estatutariamente o provisional con reserva de su puesto de origen durante el plazo legalmente establecido.",
+      "Puesto en comisión de servicios forzosa no retribuida.",
+      "Puesto eventual de libre designación en todo caso.",
+      "Puesto interino sin derecho a consolidación de grado."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El traslado por violencia de género otorga derecho a la reserva de puesto de origen durante el periodo que determine la legislación de función pública.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_018",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.3",
+    "dificultad": "media",
+    "pregunta": "Las funcionarias públicas víctimas de violencia de género podrán solicitar la situación de excedencia sin necesidad de haber prestado un tiempo mínimo de servicios previos:",
+    "opciones": [
+      "Con derecho a la reserva del puesto de trabajo durante los seis primeros meses, prorrogables hasta 18 meses para garantizar la protección.",
+      "Con reserva del puesto únicamente durante los primeros 30 días.",
+      "Perdiendo en todo caso el derecho a reingresar en la Administración.",
+      "Sujeta a la previa autorización discrecional del órgano directivo."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 24.3 permite pasar a excedencia por violencia de género sin mínimo de servicios prestados, con reserva del puesto durante 6 meses (extensibles a 18).",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_019",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.3",
+    "dificultad": "difícil",
+    "pregunta": "Durante los dos primeros meses de la excedencia por violencia de género de una funcionaria pública:",
+    "opciones": [
+      "Tendrá derecho a percibir las retribuciones íntegras de su puesto de trabajo.",
+      "Solo percibirá el sueldo base sin complementos.",
+      "No percibirá ninguna retribución económica.",
+      "Se le abonarán únicamente las trienios devengados."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Durante los dos primeros meses de excedencia por violencia de género, la funcionaria devenga retribuciones íntegras y el tiempo cotizado.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_020",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.4",
+    "dificultad": "media",
+    "pregunta": "Las ausencias o faltas de puntualidad al trabajo motivadas por la situación física o psicológica derivada de la violencia de género de las funcionarias públicas:",
+    "opciones": [
+      "Se considerarán justificadas cuando así lo determinen los servicios sociales de atención o servicios de salud.",
+      "Deducirán automáticamente su importe en la nómina del mes siguiente.",
+      "Darán lugar al inicio de expediente disciplinario por falta grave.",
+      "Deberán recuperarse obligatoriamente en jornadas festivas."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Las ausencias o faltas de puntualidad motivadas por violencia de género se consideran justificadas con acreditación de los servicios de salud o sociales.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_021",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "1.2",
+    "dificultad": "fácil",
+    "pregunta": "Por la Ley Orgánica 1/2004 se establecen medidas de protección integral cuya finalidad es:",
+    "opciones": [
+      "Prevenir, sancionar y erradicar la violencia de género y prestar asistencia a sus víctimas.",
+      "Sustituir al Código Penal en la tipificación de los delitos patrimoniales.",
+      "Regular el estado de alarma e intervención policial excepcional.",
+      "Unificar las competencias autonómicas de sanidad y educación."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El artículo 1.2 señala que la finalidad de las medidas es prevenir, sancionar y erradicar la violencia de género y prestar asistencia a las víctimas.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_022",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "2.c",
+    "dificultad": "media",
+    "pregunta": "El principio rector contenido en el artículo 2.c de la LO 1/2004 destaca la necesidad de:",
+    "opciones": [
+      "Garantizar derechos económicos para las mujeres víctimas con el fin de facilitar su integración social.",
+      "Eliminar los impuestos sobre las familias monoparentales.",
+      "Crear cooperativas de trabajo asociado obligatorias para las víctimas.",
+      "Ocultar los datos estadísticos de denuncias ante la opinión pública."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 2.c se orienta a garantizar derechos económicos a favor de las víctimas para favorecer su autonomía e integración social.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_023",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "2.e",
+    "dificultad": "fácil",
+    "pregunta": "Someter la actuación de los poderes públicos al principio de transversalidad de género es:",
+    "opciones": [
+      "Un principio rector de la Ley Orgánica 1/2004.",
+      "Una recomendación orientativa sin valor estatutario.",
+      "Un principio de aplicación exclusiva en las Cortes Generales.",
+      "Una regla reservada a las sentencias judiciales penales."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 2.e establece la transversalidad de las medidas, de modo que en su aplicación se tengan en cuenta las necesidades específicas de las mujeres.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_024",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "3.1",
+    "dificultad": "media",
+    "pregunta": "La planificación de las políticas públicas en materia de violencia de género debe incluir:",
+    "opciones": [
+      "Objetivos, medidas a desarrollar, recursos asignados e indicadores de evaluación.",
+      "Únicamente el presupuesto asignado al Ministerio de Justicia.",
+      "El número clausus de denuncias a tramitar en los juzgados.",
+      "Un régimen disciplinario especial para los empleados públicos."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 3 exige una planificación estructurada con objetivos, actuaciones, dotación de recursos e indicadores de seguimiento y evaluación.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_025",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "17.1",
+    "dificultad": "fácil",
+    "pregunta": "El derecho a la información de las mujeres víctimas de violencia de género es garantizado por:",
+    "opciones": [
+      "Las Administraciones Públicas en el ámbito de sus respectivas competencias.",
+      "Exclusivamente el Consejo General del Poder Judicial.",
+      "Únicamente los servicios de asesoría jurídica privada.",
+      "El Ministerio de Defensa en situaciones de emergencia."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El artículo 17.1 compromete a todas las Administraciones Públicas a garantizar el derecho a la información en sus ámbitos competenciales.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_026",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "18.3",
+    "dificultad": "media",
+    "pregunta": "Tienen también derecho a la asistencia social integrada y a los servicios de apoyo los:",
+    "opciones": [
+      "Menores que se encuentren bajo la patria potestad o tutela de la víctima.",
+      "Familiares de hasta cuarto grado del agresor.",
+      "Vecinos colindantes del domicilio conyugal.",
+      "Compañeros de trabajo del agresor exclusivamente."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 18.3 extiende el derecho a la asistencia a los menores sujetos a la patria potestad o tutela de la víctima de violencia de género.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_027",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "19.3",
+    "dificultad": "difícil",
+    "pregunta": "En los procesos que se sigan por violencia de género, la defensa y representación gratuitas asumidas por un mismo letrado y procurador:",
+    "opciones": [
+      "Se mantendrán en todas las instancias y ejecuciones de sentencia.",
+      "Finalizarán inmediatamente al dictarse el auto de procesamiento.",
+      "Requerirán renovación de expediente en cada recurso ordinario.",
+      "Se suspenderán si la víctima cambia de residencia provincial."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "La asistencia jurídica gratuita se extiende a todas las instancias, recursos y ejecuciones derivadas del procedimiento de violencia de género.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_028",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "23",
+    "dificultad": "media",
+    "pregunta": "La acreditación de la situación de violencia de género a efectos del reconocimiento de los derechos laborales o estatutarios se realizará mediante:",
+    "opciones": [
+      "La orden de protección, la sentencia condenatoria o el informe del Ministerio Fiscal o servicios sociales acreditados.",
+      "Una declaración jurada manuscrita por la propia víctima.",
+      "Certificado del Registro Civil únicamente.",
+      "Acreditación notarial suscrita por dos testigos."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 23 detalla los títulos habilitantes: orden de protección, sentencia firme, informe del Ministerio Fiscal o informe de servicios sociales públicos.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_029",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.1",
+    "dificultad": "media",
+    "pregunta": "Las faltas de asistencia de las funcionarias públicas motivadas por violencia de género que no sean justificadas por los servicios sociales o de salud:",
+    "opciones": [
+      "Se someterán al régimen general de ausencias de la función pública.",
+      "Darán lugar de forma automática a la separación del servicio.",
+      "Se considerarán siempre exentas de justificación.",
+      "Serán comunicadas directamente al Juzgado de Violencia sobre la Mujer."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Si las ausencias no son respaldadas por los servicios acreditados, se aplica el régimen ordinario de ausencias de la legislación estatutaria.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_030",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.3",
+    "dificultad": "difícil",
+    "pregunta": "El periodo de permanencia en situación de excedencia por violencia de género de una funcionaria pública será computable a efectos de:",
+    "opciones": [
+      "Trienios, consolidación de grado personal y derechos del régimen de clases pasivas o Seguridad Social.",
+      "Cómputo exclusivo de vacaciones anuales devengadas.",
+      "Percepción del complemento de productividad ordinario.",
+      "Exención de realizar cursos de formación continuada."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El tiempo de excedencia computable preserva la antigüedad (trienios), grado y derechos del sistema de previsión/seguridad social.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_031",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "1.1",
+    "dificultad": "fácil",
+    "pregunta": "La protección integral contra la violencia de género regulada en la LO 1/2004 se dirige a las mujeres que sufran violencia por parte de:",
+    "opciones": [
+      "Quienes sean o hayan sido sus cónyuges o mantengan/hayan mantenido relación de afectividad equivalente, aun sin convivencia.",
+      "Cualquier compañero de trabajo o superior jerárquico.",
+      "Descendientes o ascendientes directos únicamente.",
+      "Personas desconocidas en la vía pública."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 1.1 delimita el ámbito subjetivo a la relación de pareja o expareja (cónyuge o relación análoga de afectividad).",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_032",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "2.f",
+    "dificultad": "media",
+    "pregunta": "Promover la colaboración y participación de las entidades, asociaciones y organizaciones que actúan contra la violencia de género es:",
+    "opciones": [
+      "Un principio rector enunciado en el artículo 2.f de la LO 1/2004.",
+      "Una prohibición expresa de la legislación administrativa.",
+      "Una facultad propia exclusivamente de los colegios profesionales.",
+      "Un trámite obligatorio para dictar sentencia judicial."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 2.f alienta la participación ciudadana y del tejido asociativo especializado en la lucha contra la violencia de género.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_033",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "17.2",
+    "dificultad": "fácil",
+    "pregunta": "El servicio telefónico de información y asesoramiento jurídico en materia de violencia de género (016) se caracteriza por prestarse:",
+    "opciones": [
+      "Las 24 horas del día, todos los días del año, de forma gratuita y sin dejar rastro en la factura telefónica.",
+      "En horario comercial de lunes a viernes exclusivamente.",
+      "Con un coste tarifario reducido para la usuaria.",
+      "Previa identificación obligatoria con DNI o certificado digital."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El servicio 016 es gratuito, continuo (24/7), confidencial y no figura detallado en la factura telefónica.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_034",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "18.1",
+    "dificultad": "media",
+    "pregunta": "Los servicios de atención de emergencia a las víctimas de violencia de género deben garantizar:",
+    "opciones": [
+      "Una respuesta rápida, coordinada y especializada en situaciones de crisis las 24 horas.",
+      "Su actuación únicamente cuando exista denuncia interpuesta.",
+      "Su intervención supeditada al pago previo de fianza.",
+      "El acompañamiento exclusivo por parte de personal judicial."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Los servicios de emergencia garantizan cobertura permanente e intervención inmediata y multidisciplinar ante situaciones críticas.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_035",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "19.1",
+    "dificultad": "fácil",
+    "pregunta": "¿Requiere la víctima de violencia de género acreditar previamente su falta de recursos económicos para el nombramiento urgente de abogado de oficio?",
+    "opciones": [
+      "No, se le prestará asistencia inmediata sin perjuicio de la posterior verificación de los requisitos de la Ley de Asistencia Jurídica Gratuita.",
+      "Sí, en todo caso mediante declaración de la Renta.",
+      "Sí, mediante informe del servicio autonómico de empleo.",
+      "Únicamente si reclama indemnización económica civil."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "La asistencia letrada se presta de forma inmediata sin condicionar el inicio de la defensa a la comprobación inicial de ingresos.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_036",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.1",
+    "dificultad": "media",
+    "pregunta": "La reordenación del tiempo de trabajo para las funcionarias víctimas de violencia de género se articulará mediante:",
+    "opciones": [
+      "La adaptación del horario, la aplicación del horario flexible u otras formas de ordenación del tiempo de trabajo aplicables en la Administración.",
+      "La conversión obligatoria del puesto en trabajo a distancia al 100%.",
+      "La permuta de puesto con otro funcionario sin su consentimiento.",
+      "El pase automático a la situación de servicios especiales."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 24.1 permite la flexibilización, adaptación de horarios y ordenación del tiempo de trabajo según la normativa de la Administración.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_037",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.2",
+    "dificultad": "difícil",
+    "pregunta": "Cuando una funcionaria víctima de violencia de género solicita un traslado por movilidad geográfica, la Administración:",
+    "opciones": [
+      "Está obligada a comunicarle las vacantes existentes en la misma localidad o en las localidades que la interesada solicite.",
+      "Le asignará discrecionalmente la localidad sin consulta previa.",
+      "Solo ofrecerá plazas en el órgano central del Ministerio.",
+      "Le exigirá la renuncia al grado personal consolidado."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "La Administración debe informar obligatoriamente sobre las vacantes habilitadas en las localidades de preferencia expresadas por la funcionaria.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_038",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.3",
+    "dificultad": "media",
+    "pregunta": "La prórroga de la reserva del puesto de trabajo en la excedencia por violencia de género (más allá de los seis meses iniciales) se acordará cuando:",
+    "opciones": [
+      "De las actuaciones de tutela judicial resultase que la efectividad del derecho de protección de la víctima lo exigiese, por periodos de tres meses con un máximo de 18 meses.",
+      "Lo decida libremente la funcionaria mediante comunicación fehaciente.",
+      "El agresor entre en prisión preventiva.",
+      "Lo autorice el Pleno del Ayuntamiento."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "La prorroga (en tramos de 3 meses hasta un tope de 18) exige que de la tutela judicial se desprenda la necesidad de mantener la protección.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_039",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "2.g",
+    "dificultad": "fácil",
+    "pregunta": "Garantizar el principio de coordinación de las corporaciones locales con las Administraciones Estatal y Autonómica es:",
+    "opciones": [
+      "Un principio rector de la Ley Orgánica 1/2004.",
+      "Una norma sin relevancia en el ámbito administrativo local.",
+      "Un precepto derogatorio de la Ley de Bases del Régimen Local.",
+      "Un trámite procesal penal."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 2.g encomienda la coordinación interinstitucional, involucrando activamente a las Entidades Locales.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_040",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "18.2",
+    "dificultad": "media",
+    "pregunta": "El apoyo social a las víctimas de violencia de género comprende medidas orientadas a:",
+    "opciones": [
+      "Facilitar el acceso a la vivienda, el apoyo económico y la inserción laboral y social.",
+      "Otorgar licencias de apertura de establecimientos sin tasa.",
+      "Conceder la exención en el pago del impuesto sobre el patrimonio.",
+      "Suprimir las obligaciones familiares respecto a los hijos."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El apoyo social persigue la recuperación integral facilitando vivienda, recursos económicos y empleo.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_041",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "19.2",
+    "dificultad": "media",
+    "pregunta": "La asistencia jurídica gratuita a las víctimas de violencia de género incluye:",
+    "opciones": [
+      "Asesoramiento previo, representación en juicio, exención de tasas y asistencia pericial gratuita.",
+      "Unicamente la redacción del escrito inicial de denuncia.",
+      "La retribución del letrado directamente por la víctima.",
+      "El pago de la fianza penal imponible al agresor."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Comprende asesoramiento previo, defensa y representación en juicio, exención de depósitos e intervención pericial gratuita.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_042",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.1",
+    "dificultad": "fácil",
+    "pregunta": "¿Requiere una funcionaria víctima de violencia de género autorización del órgano superior para adaptar su horario de trabajo?",
+    "opciones": [
+      "No, es un derecho cuyo ejercicio se acomodará a los términos previstos en la normativa de función pública y en su acreditación.",
+      "Sí, previo informe del Ministerio de Igualdad.",
+      "Sí, mediante expediente tramitado por el Pleno corporativo.",
+      "No, pero deducirá el 50% de su retribución."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Constituye un derecho estatutario reconocido cuya concreción se encauza a través de la normativa reglamentaria aplicable.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_043",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.2",
+    "dificultad": "media",
+    "pregunta": "El traslado de la funcionaria pública víctima de violencia de género a otra localidad tiene la consideración de:",
+    "opciones": [
+      "Traslado con carácter preferente.",
+      "Sanción administrativa disciplinaria.",
+      "Permuta forzosa por necesidades del servicio.",
+      "Excedencia por interés particular."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El Estatuto y la LO 1/2004 configuran la movilidad de la funcionaria como un traslado preferente por razones de protección.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_044",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.3",
+    "dificultad": "difícil",
+    "pregunta": "Durante la excedencia por violencia de género, ¿se mantiene la reserva de puesto de trabajo para la funcionaria pública?",
+    "opciones": [
+      "Sí, durante seis meses, ampliables legalmente si las actuaciones judiciales lo exigen hasta 18 meses.",
+      "No, la reserva se pierde a partir del primer día de excedencia.",
+      "Sí, de forma indefinida durante 10 años.",
+      "Sólo durante los primeros 15 días hábiles."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Se preserva la reserva del puesto durante 6 meses prorrogables motivadamente por la situación de tutela judicial hasta 18 meses.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_045",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "1.3",
+    "dificultad": "fácil",
+    "pregunta": "La violencia de género ejercida mediante coacciones o privación arbitraria de libertad se califica por la LO 1/2004 como:",
+    "opciones": [
+      "Una manifestación expresa de la violencia de género.",
+      "Un conflicto privado sin trascendencia legal.",
+      "Una falta leve contra el orden público.",
+      "Un incumplimiento del régimen de visitas."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El art. 1.3 incluye explícitamente las coacciones y las privaciones arbitrarias de libertad como violencia de género.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_046",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "17.1",
+    "dificultad": "media",
+    "pregunta": "Las Administraciones Públicas difundirán información sobre las medidas de protección contra la violencia de género garantizando que llegue a:",
+    "opciones": [
+      "Toda la población, prestando especial atención a las mujeres en ámbito rural o colectivos de mayor vulnerabilidad.",
+      "Únicamente a los residentes en grandes capitales de provincia.",
+      "Exclusivamente al personal al servicio de la Administración de Justicia.",
+      "Las mujeres demandantes de empleo registradas."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Se encomienda la difusión amplia, con atención prioritaria al medio rural e interseccionalidad de vulnerabilidades.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_047",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "18.1",
+    "dificultad": "media",
+    "pregunta": "Los centros de acogida para víctimas de violencia de género garantizan:",
+    "opciones": [
+      "Alojamiento seguro, manutención y atención multidisciplinar a las víctimas y a sus hijos e hijas.",
+      "La privación de comunicación con el exterior sin autorización del juez.",
+      "Únicamente estancia nocturna en horario de 22:00 a 08:00.",
+      "Alojamiento condicionado a la previa aportación de fianza metálica."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Ofrecen refugio seguro, manutención integral y asistencia multidisciplinar para las mujeres y menores a su cargo.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_048",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "19.1",
+    "dificultad": "media",
+    "pregunta": "En los colegios de abogados se dispondrá de un turno de oficio especializado para la atención a víctimas de violencia de género:",
+    "opciones": [
+      "Con carácter obligatorio y permanente las 24 horas del día.",
+      "Unicamente en las sedes de los Tribunales Superiores de Justicia.",
+      "De carácter voluntario prestado por graduados sociales.",
+      "Limitado a tres consultas anuales por usuario."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Los colegios profesionales deben contar con un turno de oficio especializado de guardia permanente en materia de violencia de género.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_049",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.4",
+    "dificultad": "fácil",
+    "pregunta": "Las ausencias al puesto de trabajo de una funcionaria por violencia de género debidamente acreditadas:",
+    "opciones": [
+      "No se computarán como faltas de asistencia a efectos de apercibimiento o sanción.",
+      "Darán lugar a la pérdida inmediata de dos trienios.",
+      "Serán motivadoras de traslado forzoso de unidad.",
+      "Impedirán la participación en convocatorias de promoción interna."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Las ausencias justificadas no pueden ser sancionadas ni considerarse faltas de asistencia punibles estatutariamente.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_050",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.3",
+    "dificultad": "difícil",
+    "pregunta": "A efectos del reingreso al servicio activo de la funcionaria en excedencia por violencia de género:",
+    "opciones": [
+      "Se solicitará su reincorporación, teniendo preferencia sobre otros funcionarios en puestos vacantes de su mismo cuerpo o escala.",
+      "Deberá superar nuevamente la fase de oposición del proceso selectivo.",
+      "Quedará subordinado a la previa conformidad del agresor.",
+      "Solo podrá efectuarse pasados cinco años naturales."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Tienen derecho preferente de reingreso al servicio activo en plazas de su cuerpo, escala o categoría de pertenencia.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_051",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "2.a",
+    "dificultad": "media",
+    "pregunta": "La sensibilización en el ámbito educativo contra la violencia de género busca promover:",
+    "opciones": [
+      "El aprendizaje en la resolución pacífica de conflictos y el valor de la igualdad entre hombres y mujeres.",
+      "La segregación por sexos en las aulas de formación obligatoria.",
+      "La eliminación de la asignatura de educación física.",
+      "La enseñanza de defensa personal obligatoria."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El principio rector en educación impulsa valores de igualdad, respeto mutuo y resolución pacífica de controversias.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_052",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "17.3",
+    "dificultad": "media",
+    "pregunta": "Para garantizar la accesibilidad de la información a mujeres extranjeras víctimas de violencia de género, los servicios dispondrán de:",
+    "opciones": [
+      "Traducción e interpretación en idiomas requeridos.",
+      "Exigencia del dominio previo del idioma castellano.",
+      "Unicamente folletos impresos en español e inglés.",
+      "Acompañamiento del personal consular obligatoriamente."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Se garantizan medios de interpretación y traducción para eliminar barreras idiomáticas en la información prestada.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_053",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "18.2",
+    "dificultad": "media",
+    "pregunta": "La atención psicológica a las víctimas de violencia de género tiene como fin principal:",
+    "opciones": [
+      "Superar las secuelas traumáticas del maltrato y recuperar la autonomía personal.",
+      "Convencer a la víctima para que retire las denuncias presentadas.",
+      "Elaborar informes psiquiátricos para eximir al agresor de responsabilidad.",
+      "Sustituir la intervención letrada en el juicio."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El apoyo psicológico se enfoca en el tratamiento del trauma, el fortalecimiento de la autoestima y el empoderamiento personal.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_054",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "19.2",
+    "dificultad": "fácil",
+    "pregunta": "El nombramiento de abogado de oficio a una víctima de violencia de género es de carácter:",
+    "opciones": [
+      "Especializado y único para todas las actuaciones que se deriven del proceso.",
+      "Rotatorio asignando un letrado distinto en cada sesión de juicio.",
+      "Opcional previa conformidad del tribunal juzgador.",
+      "Provisional por un máximo de 48 horas."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Se consagra el principio de unidad de defensa letrada especializada en las actuaciones judiciales relacionadas.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_055",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.1",
+    "dificultad": "media",
+    "pregunta": "Si la funcionaria víctima de violencia de género reduce su jornada de trabajo en un tercio, su salario se reducirá en:",
+    "opciones": [
+      "La proporción correspondiente a la reducción de jornada acordada.",
+      "Un 50% de las retribuciones básicas.",
+      "Cero euros, manteniendo íntegro su sueldo.",
+      "El importe equivalente a la cuantía fijada para las retribuciones complementarias."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "A la reducción del tiempo trabajado le corresponde la minoración retributiva proporcional.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_056",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.2",
+    "dificultad": "media",
+    "pregunta": "Las Administraciones Públicas facilitarán la efectividad del derecho a la movilidad geográfica de las funcionarias públicas mediante:",
+    "opciones": [
+      "Procedimientos ágiles y preferentes de adscripción a puestos vacantes.",
+      "Exámenes de oposición especiales de nivel regional.",
+      "Convocatorias anuales de permuta obligatoria.",
+      "Concesión de licencias sin sueldo de larga duración."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Las Administraciones articulan cauces administrativos de gestión ágil para garantizar el traslado inmediato por seguridad.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_057",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.3",
+    "dificultad": "difícil",
+    "pregunta": "Los dos primeros meses de la excedencia por violencia de género de las funcionarias públicas se consideran a todos los efectos como de:",
+    "opciones": [
+      "Servicio activo, con devengo de retribuciones e idéntico cómputo de antigüedad.",
+      "Licencia por asuntos propios no retribuida.",
+      "Suspensión provisional de funciones disciplinaria.",
+      "Servicios especiales en el extranjero."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Durante esos dos meses iniciales de la excedencia, la ley otorga la consideración y efectos idénticos al servicio activo.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_058",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "1.1",
+    "dificultad": "fácil",
+    "pregunta": "¿La existencia o no de convivencia previa es un requisito para aplicar la Ley Orgánica 1/2004?",
+    "opciones": [
+      "No, se aplica aunque no haya existido nunca convivencia entre la víctima y el agresor.",
+      "Sí, se exige un mínimo de un año de convivencia acreditada en el Registro de Parejas de Hecho.",
+      "Sí, únicamente se protege la violencia dentro del domicilio común.",
+      "Depende de si existen hijos comunes inscritos."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El texto literal del artículo 1.1 especifica claramente la protección 'aun sin convivencia'.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_059",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "17.1",
+    "dificultad": "media",
+    "pregunta": "El asesoramiento a las víctimas de violencia de género debe caracterizarse por ser:",
+    "opciones": [
+      "Confidencial, personalizado y adaptado a la situación individual de la mujer.",
+      "Público e inscribible en el Registro Civil.",
+      "Tratado en asamblea vecinal obligatoria.",
+      "Sometido a fiscalización previa del cónyuge."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "La confidencialidad y la atención personalizada constituyen pilares irrenunciables en la asistencia a la víctima.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_060",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "18.3",
+    "dificultad": "media",
+    "pregunta": "En las intervenciones de asistencia social con los menores a cargo de la víctima de violencia de género se velará especialmente por:",
+    "opciones": [
+      "Su escolarización, apoyo psicológico y desarrollo integral en un entorno seguro.",
+      "Su separación definitiva del núcleo maternal.",
+      "Su internamiento preventivo en centros de protección.",
+      "El cobro anticipado de las pensiones alimenticias del agresor."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Se salvaguarda el interés superior del menor, priorizando su estabilidad escolar, bienestar y ayuda psicológica.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_061",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "19.3",
+    "dificultad": "media",
+    "pregunta": "Las procuradoras y procuradores designados de oficio a víctimas de violencia de género ejercen la representación en juicio:",
+    "opciones": [
+      "De forma gratuita en las mismas condiciones que los abogados de oficio.",
+      "Mediante cobro directo de aranceles reducidos al 50%.",
+      "Solo en trámites de apelación ante la Audiencia Provincial.",
+      "Unicamente si no se ha interpuesto denuncia penal previa."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "La gratuidad ampara tanto la defensa letrada como la representación procesal en el turno de oficio.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_062",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.1",
+    "dificultad": "fácil",
+    "pregunta": "La adaptación de horarios de las funcionarias víctimas de violencia de género responde al objetivo de:",
+    "opciones": [
+      "Hacer efectiva su protección o su derecho a la asistencia social integral.",
+      "Compensar las horas extraordinarias impagadas.",
+      "Sustituir el régimen de licencias por enfermedad ordinaria.",
+      "Facilitar la conciliación de estudios superiores no reglados."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "La finalidad tutelar orienta la flexibilidad horaria a las necesidades asistenciales, de salud y seguridad de la víctima.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_063",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.2",
+    "dificultad": "media",
+    "pregunta": "Si en la localidad de destino solicitada por movilidad por la funcionaria no existieran vacantes de su cuerpo o escala, la Administración:",
+    "opciones": [
+      "Podrá adscribirla provisionalmente a un puesto de similares características o con funciones análogas.",
+      "Denegará la solicitud por imposibilidad técnica.",
+      "Le concederá la jubilación forzosa inmediata.",
+      "Le exigirá solicitar la excedencia voluntaria por interés particular."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Se articulan adscripciones provisionales o fórmulas de flexibilidad funcional para no paralizar la movilidad preventiva.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_064",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.3",
+    "dificultad": "difícil",
+    "pregunta": "El cómputo de los trienios durante el periodo de excedencia por violencia de género de las funcionarias públicas:",
+    "opciones": [
+      "Se mantiene inalterado, computándose todo el tiempo de excedencia a efectos de antigüedad.",
+      "Se suspende desde el primer día.",
+      "Comienza a contar desde cero al reincorporarse.",
+      "Se reduce a la mitad del tiempo transcurrido."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Todo el periodo de permanencia en esta modalidad de excedencia cuenta íntegramente para el devengo de trienios.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_065",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "2.b",
+    "dificultad": "fácil",
+    "pregunta": "Los derechos garantizados a las mujeres víctimas de violencia de género por la LO 1/2004 corresponden a las víctimas:",
+    "opciones": [
+      "Con independencia de su origen, religión o cualquier otra condición o circunstancia personal o social.",
+      "Únicamente si poseen nacionalidad española de origen.",
+      "Solo si cuentan con permiso de residencia permanente en España.",
+      "Sujeto a la firma de un convenio de reciprocidad con su país de origen."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Se garantiza la universalidad de los derechos sin discriminación por nacionalidad, origen o situación administrativa.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_066",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "18.1",
+    "dificultad": "media",
+    "pregunta": "La asistencia social integrada a favor de las víctimas de violencia de género es competencia de:",
+    "opciones": [
+      "Las Comunidades Autónomas y las Corporaciones Locales en el marco de sus atribuciones.",
+      "Exclusivamente del Gobierno Central.",
+      "La Unión Europea a través de agencias delegadas.",
+      "Las organizaciones no gubernamentales sin financiación pública."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "La prestación efectiva de servicios sociales reside en las administraciones autonómicas y locales dentro de sus competencias.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_067",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "20.2",
+    "dificultad": "media",
+    "pregunta": "Las abogadas y abogados que presten asistencia a víctimas de violencia de género deberán contar con:",
+    "opciones": [
+      "Formación específica y especializada en materia de violencia de género e igualdad.",
+      "Acreditación de diez años de ejercicio profesional penal general.",
+      "Doctorado en Derecho Constitucional.",
+      "Superación de una prueba en el Ministerio de Igualdad."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Se exige legalmente una capacitación continuada y especializada para garantizar una atención cualificada e informada.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_068",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.4",
+    "dificultad": "media",
+    "pregunta": "Para la justificación de las ausencias al trabajo por causa física derivada de la violencia de género, la funcionaria presentará:",
+    "opciones": [
+      "Parte médico expedido por el servicio público de salud o informe de los servicios de atención.",
+      "Certificado del Registro de la Propiedad.",
+      "Copia de las actuaciones policiales únicamente.",
+      "Copia de la declaración del agresor."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Basta con el parte de los servicios sanitarios o el informe emitido por los centros sociales de atención a las víctimas.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_069",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.2",
+    "dificultad": "difícil",
+    "pregunta": "En los casos de movilidad geográfica de una funcionaria víctima de violencia de género, ¿está obligada la Administración a cubrir los gastos de mudanza?",
+    "opciones": [
+      "Se aplicará lo dispuesto en la normativa reguladora de las indemnizaciones por razón del servicio que resulte aplicable.",
+      "No, la funcionaria abonará en todo caso los costes del traslado.",
+      "Sí, con un abono a fondo perdido de 10.000 euros.",
+      "Depende de la aprobación del Pleno corporativo de la localidad de origen."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Se estará a las prescripciones sobre gastos de traslado e indemnizaciones por razón del servicio de la Administración correspondiente.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_070",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "1.3",
+    "dificultad": "fácil",
+    "pregunta": "La violencia psicológica comprendida en la LO 1/2004 se ejerce sobre las mujeres a través de:",
+    "opciones": [
+      "Ataques a su integridad emocional, amenazas, coacciones, humillaciones o aislamiento.",
+      "Únicamente el quebrantamiento de órdenes de embargo de bienes.",
+      "La inasistencia a reuniones comunitarias.",
+      "Interposiciones masivas de recursos administrativos."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El maltrato psicológico comprende todo comportamiento dirigido a menoscabar la autoestima, infundir miedo o aislar a la mujer.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_071",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "17.2",
+    "dificultad": "fácil",
+    "pregunta": "El acceso a la información sobre las medidas de protección y asistencia a las víctimas de violencia de género es un derecho:",
+    "opciones": [
+      "Garantizado de forma permanente y gratuita.",
+      "Sujeto al abono previo de la tasa de actos jurídicos documentados.",
+      "Condicionado a la posterior incoación de sumario penal.",
+      "Limitado a los días hábiles judiciales."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "El derecho a la información sobre recursos es libre, sin coste y accesible en todo momento.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_072",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "18.1",
+    "dificultad": "media",
+    "pregunta": "Los servicios sociales de atención integral a víctimas de violencia de género actuarán en coordinación con:",
+    "opciones": [
+      "Los Cuerpos y Fuerzas de Seguridad, los órganos judiciales y los centros sanitarios.",
+      "Las empresas aseguradoras privadas únicamente.",
+      "Las administraciones tributarias exclusivamente.",
+      "Los consulados diplomáticos del país del agresor."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Requieren una actuación en red integrada por policía, juzgados, ámbito sanitario y servicios sociales.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_073",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "19.1",
+    "dificultad": "media",
+    "pregunta": "En los supuestos de fallecimiento de la víctima a causa de la violencia de género, el derecho a la asistencia jurídica gratuita se transmite a:",
+    "opciones": [
+      "Sus causahabientes, en los términos previstos en la legislación sobre asistencia jurídica gratuita.",
+      "Se extingue con la muerte de la víctima de forma inmediata.",
+      "Al ayuntamiento de la localidad donde ocurrió el hecho.",
+      "A la aseguradora del hogar de la víctima."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Los herederos o causahabientes pueden beneficiarse de las prestaciones letradas para el ejercicio de la acción penal o civil.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_074",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.1",
+    "dificultad": "fácil",
+    "pregunta": "Las medidas de flexibilidad horaria para funcionarias víctimas de violencia de género se aplican:",
+    "opciones": [
+      "Con la finalidad de adecuar la jornada a sus necesidades de protección o rehabilitación integral.",
+      "Únicamente durante los meses de verano.",
+      "Para compensar ausencias injustificadas del año anterior.",
+      "Sujetas al pago de penalizaciones económicas."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "La finalidad tutelar orienta la flexibilidad horaria a las necesidades asistenciales, de salud y seguridad de la víctima.",
+    "ley": "Ley Orgánica 1/2004"
+  },
+  {
+    "id_pregunta": "preg_t17_vg_075",
+    "id_tema": 17,
+    "id_norma": "lo_1_2004",
+    "articulo": "24.3",
+    "dificultad": "difícil",
+    "pregunta": "Al término del periodo de excedencia con reserva de puesto de trabajo de la funcionaria pública víctima de violencia de género:",
+    "opciones": [
+      "Tendrá derecho a reincorporarse al puesto de trabajo que venía desempeñando antes de solicitar la excedencia.",
+      "Perderá definitivamente su plaza en la Administración Pública.",
+      "Deberá esperar a la convocatoria del siguiente concurso ordinario.",
+      "Pasará automáticamente a la situación de jubilación por incapacidad."
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "La reserva garantizada asegura el retorno efectivo al mismo puesto de origen una vez finalizada la excedencia.",
+    "ley": "Ley Orgánica 1/2004"
   }
 ]
 }

@@ -1,0 +1,2123 @@
+{
+  "convocatoria": {
+    "id": "conv_velez_malaga_c2_2025",
+    "titulo": "Auxiliar Administrativo/a - Ayuntamiento de Vélez-Málaga",
+    "oep": [
+      "2023",
+      "2024"
+    ],
+    "grupo": "C2",
+    "subescala": "Auxiliar",
+    "boletin": "BOP Málaga nº 222 (20/11/2025)",
+    "fecha_publicacion": "2025-11-20"
+  },
+  "metadatos": {},
+  "temario": [
+    {
+      "id_tema": 1,
+      "bloque": "Materias comunes",
+      "titulo_tema": "La Constitución Española (I): Estado Social y Democrático de Derecho. Derechos y deberes fundamentales. El Tribunal Constitucional. La reforma constitucional",
+      "epigrafes": [
+        "España como Estado Social y Democrático de Derecho y valores superiores",
+        "Los derechos y deberes fundamentales: Título I de la Constitución Española (excluido el Capítulo III)",
+        "El Tribunal Constitucional: Título IX de la Constitución Española",
+        "La reforma constitucional: Título X de la Constitución Española"
+      ]
+    }
+  ],
+  "preguntas": [
+    {
+      "id_pregunta": "preg_t01_ce_001",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "1",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "¿En qué se constituye España según el artículo 1.1 de la Constitución Española de 1978?",
+      "opciones": [
+        "En un Estado social y democrático de Derecho.",
+        "En una Monarquía parlamentaria y descentralizada.",
+        "En un Estado indivisible de Derecho y Justicia.",
+        "En una República democrática de trabajadores."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 1.1 CE dispone que España se constituye en un Estado social y democrático de Derecho.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_002",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "1",
+      "apartado": "2",
+      "dificultad": "fácil",
+      "pregunta": "¿En quién reside la soberanía nacional según el artículo 1.2 de la CE?",
+      "opciones": [
+        "En el Rey como Jefe del Estado.",
+        "En las Cortes Generales.",
+        "En el pueblo español, del que emanan los poderes del Estado.",
+        "En el Gobierno de la Nación."
+      ],
+      "respuesta_correcta": 2,
+      "explicacion": "El art. 1.2 CE establece que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_003",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "1",
+      "apartado": "3",
+      "dificultad": "fácil",
+      "pregunta": "¿Cuál es la forma política del Estado español según el artículo 1.3 de la CE?",
+      "opciones": [
+        "La Monarquía constitucional.",
+        "La Monarquía parlamentaria.",
+        "La República parlamentaria.",
+        "El Estado autonómico."
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "El art. 1.3 CE establece taxativamente que la forma política del Estado español es la Monarquía parlamentaria.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_004",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "2",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "La Constitución se fundamenta en la indisoluble unidad de la Nación española y reconoce y garantiza:",
+      "opciones": [
+        "La independencia de las provincias y municipios.",
+        "El derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.",
+        "La soberanía compartida entre las Comunidades Autónomas.",
+        "La descentralización total de las competencias fiscales."
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "El art. 2 CE reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones y la solidaridad entre todas ellas.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_005",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "3",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "Según el artículo 3.1 de la CE, ¿cuál es la lengua española oficial del Estado?",
+      "opciones": [
+        "El castellano.",
+        "El español y las demás lenguas cooficiales por igual.",
+        "El castellano únicamente en el territorio peninsular.",
+        "Cualquier lengua romance hablada en el territorio."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 3.1 CE dispone que el castellano es la lengua española oficial del Estado.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_006",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "3",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "Respecto al castellano, el artículo 3.1 de la Constitución establece que:",
+      "opciones": [
+        "Todos los españoles tienen el deber de conocerlo y el derecho a usarlo.",
+        "Todos los ciudadanos tienen la facultad de conocerlo pero no la obligación.",
+        "Es optativo su uso en las Administraciones de Comunidades Autónomas con lengua propia.",
+        "El Estado regulará las sanciones por no utilizarlo."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 3.1 CE aclara que 'todos los españoles tienen el deber de conocerlo y el derecho a usarlo'.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_007",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "6",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "¿Qué cauce e instrumento fundamental para la participación política expresan los partidos políticos según el artículo 6 de la CE?",
+      "opciones": [
+        "Expresan el pluralismo político y concurren a la formación y manifestación de la voluntad popular.",
+        "Representan exclusivamente a los trabajadores de las Administraciones Públicas.",
+        "Son los únicos legitimados para presentar listas electorales en los municipios.",
+        "Sustituyen a las asociaciones vecinales en la representación local."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 6 CE señala que los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_008",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "6",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "La estructura interna y el funcionamiento de los partidos políticos deberán ser:",
+      "opciones": [
+        "Jerárquicos y profesionalizados.",
+        "Democráticos.",
+        "Regulados por Real Decreto-ley.",
+        "Supervisados por el Defensor del Pueblo."
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "El art. 6 CE exige explícitamente que la estructura interna y el funcionamiento de los partidos políticos deberán ser democráticos.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_009",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "8",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "Las Fuerzas Armadas están constituidas por:",
+      "opciones": [
+        "El Ejército de Tierra, la Armada y el Ejército del Aire.",
+        "La Guardia Civil, la Policía Nacional y las Policías Locales.",
+        "El Ejército de Tierra y las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "El Ejército de Tierra, la Armada y la Guardia Real."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 8.1 CE establece que las Fuerzas Armadas están constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_010",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "9",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "Según el artículo 9.1 de la CE, ¿a qué están sujetos los ciudadanos y los poderes públicos?",
+      "opciones": [
+        "A la Constitución y al resto del ordenamiento jurídico.",
+        "Únicamente a las Leyes Orgánicas dictadas por las Cortes.",
+        "A las decisiones del Tribunal Supremo.",
+        "Exclusivamente a la costumbre y los principios generales del Derecho."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 9.1 CE consagra el principio de legalidad al indicar que ciudadanos y poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_011",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "9",
+      "apartado": "3",
+      "dificultad": "media",
+      "pregunta": "¿Cuál de los siguientes principios NO está garantizado expresamente en el artículo 9.3 de la CE?",
+      "opciones": [
+        "El principio de legalidad y la jerarquía normativa.",
+        "La publicidad de las normas y la irretroactividad de las disposiciones sancionadoras no favorables.",
+        "La arbitrariedad de los poderes públicos.",
+        "La responsabilidad y la interdicción de la arbitrariedad de los poderes públicos."
+      ],
+      "respuesta_correcta": 2,
+      "explicacion": "El art. 9.3 CE garantiza la 'interdicción' (prohibición) de la arbitrariedad de los poderes públicos, no la arbitrariedad.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_012",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "10",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "Según el artículo 10.1 de la CE, son fundamento del orden político y de la paz social:",
+      "opciones": [
+        "La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás.",
+        "La unidad de la patria, el trabajo obligatorio y la propiedad privada.",
+        "El orden público, la defensa nacional y el desarrollo económico.",
+        "La pertenencia a la Unión Europea y el acatamiento administrativo."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 10.1 CE determina que la dignidad, los derechos inherentes, el libre desarrollo de la personalidad y el respeto a la ley y a los derechos ajenos son fundamento del orden político y la paz social.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_013",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "10",
+      "apartado": "2",
+      "dificultad": "alta",
+      "pregunta": "Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con:",
+      "opciones": [
+        "La Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.",
+        "La jurisprudencia exclusiva del Tribunal Supremo.",
+        "Las directivas dictadas por la Comisión Europea.",
+        "Los dictámenes emitidos por el Consejo de Estado."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 10.2 CE impone la interpretación de los derechos fundamentales conforme a la Declaración Universal de Derechos Humanos y los tratados internacionales ratificados por España.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_014",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "12",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "Según el artículo 12 de la Constitución Española, los españoles son mayores de edad a los:",
+      "opciones": [
+        "16 años.",
+        "18 años.",
+        "21 años.",
+        "25 años."
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "El art. 12 CE establece que los españoles son mayores de edad a los dieciocho años.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_015",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "14",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "El artículo 14 de la CE proclama que los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de:",
+      "opciones": [
+        "Nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+        "Nivel de renta o grado de titulación académica.",
+        "Lugar de residencia dentro del territorio autonómico.",
+        "Afiliación sindical o desempeño de cargo público."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 14 CE enumera los cauces prohibitivos de discriminación: nacimiento, raza, sexo, religión, opinión o cualquier otra condición personal o social.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_016",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "15",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "El derecho a la vida y a la integridad física y moral se contempla en el artículo 15 de la CE. ¿Queda abolida la pena de muerte?",
+      "opciones": [
+        "Sí, absolutamente y sin excepciones.",
+        "Queda abolida, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.",
+        "Solo se aplica a delitos de alta traición.",
+        "No está abolida en el ámbito civil salvo desarrollo reglamentario."
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "El art. 15 CE abolió la pena de muerte 'salvo lo que puedan disponer las leyes penales militares para tiempos de guerra'.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_017",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "17",
+      "apartado": "2",
+      "dificultad": "media",
+      "pregunta": "¿Cuál es el plazo máximo de la detención preventiva según el artículo 17.2 de la CE?",
+      "opciones": [
+        "24 horas.",
+        "48 horas.",
+        "72 horas.",
+        "7 días."
+      ],
+      "respuesta_correcta": 2,
+      "explicacion": "El art. 17.2 CE establece que la detención preventiva no podrá durar más del tiempo estrictamente necesario y, en todo caso, en el plazo máximo de setenta y dos horas el detenido deberá ser puesto en libertad o a disposición judicial.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_018",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "18",
+      "apartado": "2",
+      "dificultad": "fácil",
+      "pregunta": "El domicilio es inviolable según el artículo 18.2 de la CE. ¿En qué supuestos se permite la entrada o registro?",
+      "opciones": [
+        "Consentimiento del titular, resolución judicial o flagrante delito.",
+        "Sola petición fundada de la Policía Local.",
+        "Inspección administrativa ordinaria de tributos.",
+        "Acreditación de empadronamiento previo."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 18.2 CE garantiza que ninguna entrada o registro podrá hacerse sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_019",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "159",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "¿Por cuántos miembros está integrado el Tribunal Constitucional según el artículo 159.1 de la CE?",
+      "opciones": [
+        "10 miembros.",
+        "12 miembros.",
+        "15 miembros.",
+        "20 miembros."
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "El art. 159.1 CE establece que el Tribunal Constitucional se compone de 12 miembros nombrados por el Rey.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_020",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "159",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "¿A quién corresponde la propuesta de nombramiento de los 12 Magistrados del Tribunal Constitucional?",
+      "opciones": [
+        "4 por el Congreso, 4 por el Senado, 2 por el Gobierno y 2 por el Consejo General del Poder Judicial.",
+        "6 por el Congreso y 6 por el Senado.",
+        "3 por el Congreso, 3 por el Senado, 3 por el Gobierno y 3 por el CGPJ.",
+        "8 por las Cortes Generales y 4 por el Tribunal Supremo."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 159.1 CE determina que los 12 miembros son nombrados a propuesta: 4 del Congreso (3/5), 4 del Senado (3/5), 2 del Gobierno y 2 del CGPJ.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_021",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "160",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "¿Quién nombra al Presidente del Tribunal Constitucional y por qué periodo?",
+      "opciones": [
+        "Es nombrado por el Rey, a propuesta del mismo Tribunal en pleno, por un periodo de tres años.",
+        "Es elegido directamente por el Congreso por un periodo de cuatro años.",
+        "Es nombrado por el Presidente del Gobierno por un periodo de seis años.",
+        "Es el Magistrado de mayor antigüedad de forma rotatoria cada dos años."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 160 CE especifica que el Presidente del TC será nombrado entre sus miembros por el Rey, a propuesta del mismo Tribunal en pleno, por tres años.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_022",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "166",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "La iniciativa de reforma constitucional según el artículo 166 de la CE se ejerce en los términos de los apartados 1 y 2 del artículo:",
+      "opciones": [
+        "87 de la Constitución (Gobierno, Congreso, Senado y Asambleas de CCAA).",
+        "92 de la Constitución (Referéndum facultativo).",
+        "115 de la Constitución (Disolución de las Cortes).",
+        "150 de la Constitución (Leyes marco y de transferencia)."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 166 remite expresamente al art. 87.1 y 87.2 CE para fijar la iniciativa de reforma constitucional (excluyendo la iniciativa popular).",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_023",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "167",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "En el procedimiento ordinario de reforma constitucional (art. 167), los proyectos deberán ser aprobados por una mayoría de:",
+      "opciones": [
+        "Tres quintos de cada una de las Cámaras (Congreso y Senado).",
+        "Mayoría absoluta del Congreso y simple del Senado.",
+        "Dos tercios de las Cortes Generales en sesión conjunta.",
+        "Unanimidad de la Mesa del Congreso."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 167.1 CE prescribe que los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_024",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "168",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "El procedimiento agravado de reforma constitucional (art. 168.1 CE) se requiere cuando se propusiere la revisión total de la Constitución o una parcial que afecte a:",
+      "opciones": [
+        "Al Título Preliminar, a la Sección primera del Capítulo segundo del Título I, o al Título II.",
+        "A cualquier artículo del Título VIII (Organización Territorial).",
+        "Únicamente al Título IX sobre el Tribunal Constitucional.",
+        "Al Título IV sobre el Gobierno y la Administración."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 168.1 CE exige el procedimiento agravado para la revisión total o para la reforma del Título Preliminar, Título I Capítulo II Sección 1ª (artículos 15 al 29) o Título II (La Corona).",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_025",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "169",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "Según el artículo 169 de la CE, ¿cuándo NO podrá iniciarse la reforma constitucional?",
+      "opciones": [
+        "En tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116 (alarma, excepción o sitio).",
+        "Durante los seis meses posteriores a la celebración de elecciones municipales.",
+        "Cuando haya un procedimiento judicial abierto contra el Presidente del Gobierno.",
+        "En el último año de mandato de la legislatura."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 169 CE prohíbe taxativamente iniciar la reforma constitucional en tiempo de guerra o bajo la vigencia de los estados de alarma, excepción o sitio.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_026",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "16",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "Según el artículo 16.1 de la Constitución Española, se garantiza la libertad ideológica, religiosa y de culto de los individuos y las comunidades sin más limitación, en sus manifestaciones, que la necesaria para el mantenimiento del:",
+      "opciones": [
+        "Orden público protegido por la ley.",
+        "Interés general del Estado.",
+        "Bienestar social colectivo.",
+        "Régimen democrático parlamentario."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 16.1 CE limita las manifestaciones de la libertad ideológica, religiosa y de culto únicamente por la necesidad de mantener el orden público protegido por la ley.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_027",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "16",
+      "apartado": "2",
+      "dificultad": "media",
+      "pregunta": "Conforme al artículo 16.2 de la CE, ¿puede alguien ser obligado a declarar sobre su ideología, religión o creencias?",
+      "opciones": [
+        "Nadie podrá ser obligado a declarar sobre su ideología, religión o creencias.",
+        "Solo cuando sea requerido por un juez instructor en causa penal.",
+        "Únicamente los empleados públicos en el expediente de toma de posesión.",
+        "Sí, cuando afecte a la seguridad nacional."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 16.2 CE prohíbe de forma categórica obligar a cualquier persona a declarar sobre su ideología, religión o creencias.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_028",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "16",
+      "apartado": "3",
+      "dificultad": "fácil",
+      "pregunta": "¿Tiene España alguna confesión religiosa estatal según el artículo 16.3 de la CE?",
+      "opciones": [
+        "Ninguna confesión tendrá carácter estatal.",
+        "La religión católica es la confesión oficial del Estado.",
+        "Es un Estado confesional aconfesional con preferencia por las religiones monoteístas.",
+        "La confesión mayoritaria fijada en el censo municipal de cada provincia."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 16.3 CE consagra el principio de aconfesionalidad del Estado: 'Ninguna confesión tendrá carácter estatal'.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_029",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "17",
+      "apartado": "3",
+      "dificultad": "media",
+      "pregunta": "Toda persona detenida debe ser informada de forma inmediata y que le sea comprensible de sus derechos y de las razones de su detención, garantizándose la asistencia de un abogado en las diligencias policiales y judiciales en los términos que establezca la ley. ¿A qué procedimiento constitucional se garantiza el acceso rápido?",
+      "opciones": [
+        "Al procedimiento de 'habeas corpus'.",
+        "Al recurso de amparo directo ante el Pleno del Tribunal Supremo.",
+        "A la revisión de oficio del expediente policial.",
+        "Al indulto exprés en vía administrativa."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 17.4 CE regula que la ley producirá un procedimiento de 'habeas corpus' para producir la inmediata puesta a disposición judicial de toda persona detenida ilegalmente.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_030",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "18",
+      "apartado": "4",
+      "dificultad": "alta",
+      "pregunta": "El artículo 18.4 de la Constitución encomienda a la ley la limitación del uso de la informática para garantizar:",
+      "opciones": [
+        "El honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos.",
+        "El monopolio de las telecomunicaciones públicas.",
+        "El control estricto de las redes sociales por parte del Ministerio del Interior.",
+        "El pago de tributos por medios exclusivamente informáticos."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 18.4 CE busca proteger el honor, la intimidad personal y familiar y el pleno ejercicio de los derechos frente al uso abusivo de la informática.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_031",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "19",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "Según el artículo 19 de la CE, los españoles tienen derecho a elegir libremente su residencia y a circular por el territorio nacional. ¿Por qué motivos pueden ser restringidos de entrar o salir libremente de España?",
+      "opciones": [
+        "No podrá ser limitado por motivos políticos o ideológicos.",
+        "Por decisión discrecional del Delegado del Gobierno.",
+        "Por impago de deudas tributarias municipales.",
+        "Por carecer de contrato laboral en vigor."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 19 CE especifica que este derecho de entrada y salida de España 'no podrá ser limitado por motivos políticos o ideológicos'.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_032",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "20",
+      "apartado": "2",
+      "dificultad": "media",
+      "pregunta": "¿Somete la Constitución el ejercicio de la libertad de expresión, prensa o imprenta a censura previa?",
+      "opciones": [
+        "El ejercicio de estos derechos no puede restringirse mediante ningún tipo de censura previa.",
+        "Sí, en caso de contenidos que atenten contra autoridades locales.",
+        "Únicamente durante los periodos electorales.",
+        "Sí, mediante autorización administrativa otorgada por la Subdelegación del Gobierno."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 20.2 CE prohíbe expresamente la censura previa de cualquier medio o publicación.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_033",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "20",
+      "apartado": "5",
+      "dificultad": "alta",
+      "pregunta": "Según el artículo 20.5 de la CE, solo se podrá acordar el secuestro de publicaciones, grabaciones y otros medios de información en virtud de:",
+      "opciones": [
+        "Resolución judicial.",
+        "Orden motivada del Alcalde.",
+        "Acuerdo tomado por mayoría absoluta en el Pleno del Ayuntamiento.",
+        "Decreto del Ministerio de Cultura."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 20.5 CE impone la reserva judicial exclusiva al disponer que 'sólo podrá acordarse el secuestro de publicaciones, grabaciones y otros medios de información en virtud de resolución judicial'.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_034",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "21",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "El derecho de reunión pacífica y sin armas reconocido en el artículo 21.1 de la CE:",
+      "opciones": [
+        "No necesitará autorización previa.",
+        "Requiere siempre permiso previo expedido por el Ayuntamiento.",
+        "Debe tramitarse mediante solicitud en el Registro General de Entrada con 30 días de antelación.",
+        "Está reservado exclusivamente a partidos políticos legalizados."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 21.1 CE declara formalmente que 'se reconoce el derecho de reunión pacífica y sin armas. El ejercicio de este derecho no necesitará autorización previa'.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_035",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "21",
+      "apartado": "2",
+      "dificultad": "media",
+      "pregunta": "En los casos de reuniones en lugares de tránsito público y manifestaciones, ¿qué requisito se exige a los organizadores?",
+      "opciones": [
+        "Comunicación previa a la autoridad, que solo podrá prohibirlas cuando existan razones fundadas de alteración del orden público, con peligro para personas o bienes.",
+        "Obtención de licencia motivada concedida por la Junta de Gobierno Local.",
+        "Pago de la tasa municipal por ocupación de la vía pública.",
+        "Contratación de un seguro obligatorio de responsabilidad civil."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 21.2 CE no exige autorización sino 'comunicación previa a la autoridad', que sólo podrá prohibirlas cuando existan razones fundadas de alteración del orden público.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_036",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "22",
+      "apartado": "2",
+      "dificultad": "media",
+      "pregunta": "Según el artículo 22.2 de la CE, ¿qué asociaciones son ilegales?",
+      "opciones": [
+        "Las que persigan fines o utilicen medios tipificados como delito.",
+        "Las que no hayan inscrito sus estatutos en el registro municipal.",
+        "Las que tengan fines de lucro comercial o financiero.",
+        "Las formadas por menos de diez personas físicas."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 22.2 CE señala tajantemente que 'las asociaciones que persigan fines o utilicen medios tipificados como delito son ilegales'.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_037",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "22",
+      "apartado": "5",
+      "dificultad": "fácil",
+      "pregunta": "Conforme al artículo 22.5 de la Constitución Española, están prohibidas:",
+      "opciones": [
+        "Las asociaciones secretas y las de carácter paramilitar.",
+        "Las asociaciones juveniles autofinanciadas.",
+        "Las asociaciones de empleados públicos en activo.",
+        "Las organizaciones no gubernamentales con sede fuera de España."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 22.5 CE dispone expresamente: 'Se prohíben las asociaciones secretas y las de carácter paramilitar'.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_038",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "23",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "El artículo 23.1 de la CE reconoce el derecho a participar en los asuntos públicos, directamente o por medio de representantes, libremente elegidos en elecciones periódicas por sufragio:",
+      "opciones": [
+        "Universal.",
+        "Censitario y restringido a propietarios de inmuebles.",
+        "Indirecto asignado por los órganos plenarios autonómicos.",
+        "Capitular."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 23.1 CE garantiza el derecho de participación mediante representantes en elecciones periódicas por sufragio universal.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_039",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "23",
+      "apartado": "2",
+      "dificultad": "media",
+      "pregunta": "El acceso a las funciones y cargos públicos en condiciones de igualdad es un derecho fundamental (art. 23.2 CE) que debe ejercerse con los requisitos que señalen las leyes. ¿Qué principios deben regir la selección de personal en la Administración según el ordenamiento legal derivado?",
+      "opciones": [
+        "Mérito y capacidad.",
+        "Libre designación y confianza corporativa.",
+        "Antigüedad y vecindad administrativa prioritaria.",
+        "Turno rotatorio obligacional."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El acceso en condiciones de igualdad a las funciones públicas consagrado en el art. 23.2 CE se vincula con los principios de mérito y capacidad recogidos en el art. 103.3 CE.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_040",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "24",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "Todas las personas tienen derecho a obtener la tutela efectiva de los jueces y tribunales en el ejercicio de sus derechos e intereses legítimos. ¿Qué situación no puede producirse en ningún caso según el artículo 24.1?",
+      "opciones": [
+        "Indefensión.",
+        "Caducidad de la instancia por inactividad procesal.",
+        "Inmisión del Ministerio Fiscal.",
+        "Cómputo de plazos procesales en días hábiles."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 24.1 CE prohíbe taxativamente que pueda producirse indefensión en el ejercicio de la tutela judicial efectiva.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_041",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "25",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "El principio de legalidad penal y sancionadora (art. 25.1 CE) establece que nadie puede ser condenado o sancionado por acciones u omisiones que en el momento de producirse no constituyan delito, falta o infracción administrativa según:",
+      "opciones": [
+        "La legislación vigente en aquel momento.",
+        "El reglamento municipal aprobado con posterioridad.",
+        "El criterio de la Junta de Gobierno Local aplicable en el juicio oral.",
+        "La costumbre local no escrita."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 25.1 CE consagra el principio de irretroactividad de las normas sancionadoras no favorables o restrictivas de derechos individuales, requiriendo norma previa.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_042",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "25",
+      "apartado": "3",
+      "dificultad": "fácil",
+      "pregunta": "Según el artículo 25.3 de la CE, la Administración civil NO podrá imponer sanciones que, directa o subsidiariamente, impliquen:",
+      "opciones": [
+        "Privación de libertad.",
+        "Multas pecuniarias superiores a 600 euros.",
+        "Amonestación escrita al expediente.",
+        "Inhabilitación temporal para contratar."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 25.3 CE reserva las penas privativas de libertad al ámbito penal e indica que la Administración civil no podrá imponer sanciones que impliquen privación de libertad.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_043",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "27",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "El artículo 27.1 de la CE reconoce el derecho a la educación y la libertad de:",
+      "opciones": [
+        "Enseñanza.",
+        "Cátedra exclusiva en universidades privadas.",
+        "Elección de horario laboral educativo.",
+        "Exención absoluta de impuestos educativos."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 27.1 CE establece conjuntamente el derecho a la educación y la libertad de enseñanza.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_044",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "27",
+      "apartado": "4",
+      "dificultad": "media",
+      "pregunta": "Según el artículo 27.4 de la CE, la enseñanza básica es:",
+      "opciones": [
+        "Obligatoria y gratuita.",
+        "Optativa y subvencionada según la renta familiar.",
+        "Obligatoria previa tasa administrativa de matriculación.",
+        "Gratuita únicamente en los centros docentes de titularidad municipal."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 27.4 CE señala taxativamente: 'La enseñanza básica es obligatoria y gratuita'.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_045",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "28",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "Todos tienen derecho a sindicarse libremente. La ley podrá limitar o exceptuar el ejercicio de este derecho a:",
+      "opciones": [
+        "Las Fuerzas o Cuerpos armados o a los demás Cuerpos sometidos a disciplina militar.",
+        "El personal de limpieza y mantenimiento de entidades locales.",
+        "Los trabajadores en periodo de prueba.",
+        "Los mayores de 65 años que continúen en servicio activo."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 28.1 CE permite regular o exceptuar la sindicación para las Fuerzas o Cuerpos armados o institutos disciplinados militarmente.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_046",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "28",
+      "apartado": "2",
+      "dificultad": "alta",
+      "pregunta": "Se reconoce el derecho a la huelga de los trabajadores para la defensa de sus intereses (art. 28.2 CE). ¿Qué debe asegurar la ley que regule su ejercicio?",
+      "opciones": [
+        "Las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la comunidad.",
+        "El pago integro del salario por parte de las entidades locales durante los días de paro.",
+        "La sustitución automática de los huelguistas por personal eventual.",
+        "La previa aprobación en la Comisión Informativa municipal de Personal."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 28.2 CE indica que la ley que regule el ejercicio del derecho a la huelga establecerá las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la comunidad.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_047",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "29",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "El derecho de petición individual y colectiva reconocido en el artículo 29.1 de la CE debe realizarse por escrito. ¿En qué forma NO pueden ejercerlo los miembros de las Fuerzas Armadas?",
+      "opciones": [
+        "Solo podrán ejercer este derecho individualmente y con arreglo a lo dispuesto en su legislación específica.",
+        "No pueden ejercerlo bajo ningún concepto ni en ninguna forma.",
+        "Exclusivamente mediante petición colectiva firmada por la unidad.",
+        "Tratándose por vía de urgencia en el Pleno de su Ayuntamiento de residencia."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 29.2 CE prohíbe la petición colectiva a miembros de las Fuerzas Armadas o Cuerpos sometidos a disciplina militar, permitiendo solo la petición individual.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_048",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "27",
+      "apartado": "5",
+      "dificultad": "media",
+      "pregunta": "Según el artículo 27.5 de la Constitución Española, los poderes públicos garantizan el derecho de todos a la educación mediante una programación general de la enseñanza, con la participación efectiva de:",
+      "opciones": [
+        "Todos los sectores afectados y la creación de centros docentes.",
+        "Exclusivamente las asociaciones de padres de alumnos legalmente constituidas.",
+        "Los sindicatos de enseñanza con representación en la Mesa General.",
+        "Las Corporaciones Locales dentro de su término municipal."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 27.5 CE establece que la garantía del derecho a la educación se realiza mediante una programación general con participación de todos los sectores afectados.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_049",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "27",
+      "apartado": "7",
+      "dificultad": "media",
+      "pregunta": "Conforme al artículo 27.7 de la CE, los profesores, los padres y, en su caso, los alumnos intervendrán en el control y gestión de todos los centros sostenidos por la Administración con fondos públicos en los términos que:",
+      "opciones": [
+        "La ley establezca.",
+        "Determine el Consejo Escolar Municipal.",
+        "Disponga la Consejería de Educación autonómica por Orden.",
+        "Fije el Reglamento de Régimen Interior de cada centro."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 27.7 CE impone la reserva de ley para regular la participación en el control y gestión de centros sostenidos con fondos públicos.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_050",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "27",
+      "apartado": "10",
+      "dificultad": "fácil",
+      "pregunta": "¿Qué principio se reconoce a las Universidades en el artículo 27.10 de la Constitución Española?",
+      "opciones": [
+        "Su autonomía, en los términos que la ley establezca.",
+        "La exención absoluta de fiscalización presupuestaria.",
+        "La potestad legislativa en materia de títulos propios.",
+        "La inamovilidad indefinida de todo su personal docente."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 27.10 CE reconoce expresamente la autonomía de las Universidades en los términos que establezca la ley.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_051",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "28",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "El derecho a la libertad sindical (art. 28.1 CE) comprende el derecho a fundar sindicatos y a afiliarse al de su elección. ¿Puede alguien ser obligado a afiliarse a un sindicato?",
+      "opciones": [
+        "Nadie podrá ser obligado a afiliarse a un sindicato.",
+        "Solo los empleados públicos temporales cuando lo exija el convenio colectivo.",
+        "Sí, cuando se trate de profesiones con colegiación obligatoria.",
+        "Únicamente mediante resolución dictada por la Autoridad Laboral."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 28.1 CE proclama la libertad sindical negativa determinando que nadie podrá ser obligado a afiliarse a un sindicato.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_052",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "30",
+      "apartado": "3",
+      "dificultad": "alta",
+      "pregunta": "Según el artículo 30.3 de la CE, podrá establecerse un servicio civil para el cumplimiento de fines de:",
+      "opciones": [
+        "Interés general.",
+        "Defensa autonómica exclusiva.",
+        "Desarrollo económico local.",
+        "Mantenimiento del orden público municipal."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 30.3 CE faculta al legislador para establecer un servicio civil para el cumplimiento de fines de interés general.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_053",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "30",
+      "apartado": "4",
+      "dificultad": "media",
+      "pregunta": "Mediante ley podrán regularse los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública. ¿A qué ámbito organizativo se vincula esta previsión en la Administración Local?",
+      "opciones": [
+        "A la Protección Civil.",
+        "A la Policía Administrativa de Mercado.",
+        "A la inspección urbanística municipal.",
+        "Al Servicio de Recaudación Tributaria."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 30.4 CE constituye el fundamento constitucional de la Protección Civil y de los deberes ciudadanos ante catástrofes públicas.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_054",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "31",
+      "apartado": "2",
+      "dificultad": "media",
+      "pregunta": "El gasto público realizará una asignación equitativa de los recursos públicos, y su programación y ejecución responderán a los criterios de:",
+      "opciones": [
+        "Eficiencia y economía.",
+        "Progresividad y descentralización.",
+        "Jerarquía y oportunidad política.",
+        "Caja única y fiscalización previa opcional."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 31.2 CE prescribe que la programación y ejecución del gasto público responderán a los principios de eficiencia y economía.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_055",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "32",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "El hombre y la mujer tienen derecho a contraer matrimonio con plena igualdad jurídica según el artículo 32.1 de la CE. ¿A partir de qué condición?",
+      "opciones": [
+        "Con plena igualdad jurídica.",
+        "Previo informe favorable del Registro Civil.",
+        "Supeditado a la previa acreditación de medios económicos mínimos.",
+        "Exclusivamente mediante ceremonia civil previa."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 32.1 CE proclama explícitamente el derecho a contraer matrimonio 'con plena igualdad jurídica'.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_056",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "32",
+      "apartado": "2",
+      "dificultad": "media",
+      "pregunta": "La ley regulará las formas de matrimonio, la edad y capacidad para contraerlo, los derechos y deberes de los cónyuges, las causas de separación y disolución y sus efectos. ¿Qué rango tiene esta norma?",
+      "opciones": [
+        "Ley ordinaria estatal.",
+        "Ley orgánica de desarrollo de derechos fundamentales.",
+        "Decreto legislativo aprobado por las Comunidades Autónomas.",
+        "Reglamento de Registro Civil."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "Al estar ubicado en la Sección 2ª del Capítulo II (y no en la Sección 1ª), el derecho al matrimonio se regula mediante Ley ordinaria estatal.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_057",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "33",
+      "apartado": "2",
+      "dificultad": "media",
+      "pregunta": "La función social de la propiedad privada y de la herencia delimitará su contenido de acuerdo con:",
+      "opciones": [
+        "Las leyes.",
+        "Los Planes Generales de Ordenación Urbana municipales exclusivamente.",
+        "Las decisiones tomadas por los colectivos colindantes.",
+        "El valor catastral fijado por el Ministerio de Hacienda."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 33.2 CE determina que la función social de estos derechos delimitará su contenido con arreglo a las leyes.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_058",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "34",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "Se reconoce el derecho de fundación para fines de interés general, con arreglo a la ley (art. 34.1 CE). ¿Qué fundaciones son ilegales o están prohibidas?",
+      "opciones": [
+        "Se aplican a las fundaciones las causas de ilegalidad y prohibición de las asociaciones (arts. 22.2 y 22.5 CE).",
+        "Las fundaciones constituidas por una sola persona jurídica pública.",
+        "Las fundaciones cuyos fines no abarquen todo el territorio nacional.",
+        "Las fundaciones que no dispongan de patronato compuesto por funcionarios."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 34.2 CE remite expresamente a los apartados 2 y 4 del artículo 22 para determinar la ilegalidad o disolución judicial de fundaciones.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_059",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "35",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "Todos los españoles tienen el deber de trabajar y el derecho al trabajo, a la libre elección de profesión u oficio, a la promoción a través del trabajo y a una remuneración suficiente para satisfacer sus necesidades y las de su familia, sin que en ningún caso pueda hacerse discriminación por razón de:",
+      "opciones": [
+        "Sexo.",
+        "Nivel de estudios previos.",
+        "Lugar de nacimiento dentro de la provincia.",
+        "Antigüedad en la empresa o Administración."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 35.1 CE prohíbe taxativamente la discriminación laboral por razón de sexo.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_060",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "35",
+      "apartado": "2",
+      "dificultad": "media",
+      "pregunta": "Según el artículo 35.2 de la Constitución Española, la ley regulará un estatuto de:",
+      "opciones": [
+        "Los trabajadores.",
+        "Los empleadores y empresarios del sector público.",
+        "Los profesionales titulados colegiados.",
+        "Los trabajadores autónomos sin empleados a cargo."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 35.2 CE encomienda formalmente a la ley la regulación del Estatuto de los Trabajadores.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_061",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "36",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "La ley regulará las peculiaridades del régimen jurídico de los Colegios Profesionales y el ejercicio de las profesiones tituladas. La estructura interna y el funcionamiento de los Colegios deberán ser:",
+      "opciones": [
+        "Democráticos.",
+        "Jerárquicos bajo supervisión del Ministerio competente.",
+        "Aprobados anualmente por la Diputación Provincial.",
+        "Libremente determinados por sus miembros fundadores."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 36 CE exige que la estructura interna y el funcionamiento de los Colegios Profesionales sean democráticos.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_062",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "37",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "La ley garantizará el derecho a la negociación colectiva laboral entre los representantes de los trabajadores y empresarios, así como la fuerza vinculante de:",
+      "opciones": [
+        "Los convenios.",
+        "Las recomendaciones dictadas por la Inspección de Trabajo.",
+        "Las resoluciones unilaterales del empresario.",
+        "Los pactos individuales no registrados."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 37.1 CE reconoce el derecho a la negociación colectiva y garantiza la fuerza vinculante de los convenios colectivos.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_063",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "37",
+      "apartado": "2",
+      "dificultad": "media",
+      "pregunta": "Se reconoce el derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo. La ley que regule su ejercicio incluirá las garantías precisas para asegurar el funcionamiento de:",
+      "opciones": [
+        "Los servicios esenciales de la comunidad.",
+        "Las empresas con más de cincuenta trabajadores.",
+        "Los registros de la propiedad y mercantiles.",
+        "Las líneas de transporte interurbano en exclusiva."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 37.2 CE exige salvaguardar el funcionamiento de los servicios esenciales de la comunidad al regular las medidas de conflicto colectivo.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_064",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "38",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "El artículo 38 de la Constitución Española reconoce la libertad de empresa en el marco de:",
+      "opciones": [
+        "La economía de mercado.",
+        "La planificación estatal obligatoria.",
+        "El monopolio público del sector servicios.",
+        "La intervención ilimitada de las Corporaciones Locales."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 38 CE reconoce la libertad de empresa en el marco de la economía de mercado y encomienda a los poderes públicos su defensa y la de la productividad.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_065",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "54",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "¿Ante quién da cuenta el Defensor del Pueblo del desempeño de sus funciones según el artículo 54 de la CE?",
+      "opciones": [
+        "Ante las Cortes Generales.",
+        "Ante el Gobierno de la Nación.",
+        "Ante el Tribunal Constitucional.",
+        "Ante el Consejo General del Poder Judicial."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 54 CE indica que el Defensor del Pueblo es comisionado de las Cortes Generales y da cuenta a las mismas de sus actuaciones mediante un informe anual.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_066",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "55",
+      "apartado": "2",
+      "dificultad": "alta",
+      "pregunta": "Una ley orgánica podrá determinar la forma y los casos en que, de forma individual y con la necesaria intervención judicial y el adecuado control parlamentario, pueden ser suspendidos ciertos derechos para personas determinadas, en relación con las investigaciones correspondientes a la actuación de:",
+      "opciones": [
+        "Bandas armadas o elementos terroristas.",
+        "Infracciones tributarias graves contra la Hacienda Local.",
+        "Delitos contra la ordenación del territorio y el urbanismo.",
+        "Cualquier tipo de delincuencia organizada común."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 55.2 CE contempla la suspensión individualizada de derechos (como duración de detención o secreto de comunicaciones) exclusivamente para investigaciones sobre bandas armadas o elementos terroristas.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_067",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "159",
+      "apartado": "3",
+      "dificultad": "media",
+      "pregunta": "Los miembros del Tribunal Constitucional serán designados por un periodo de nueve años y se renovarán por terceras partes cada:",
+      "opciones": [
+        "Tres años.",
+        "Dos años.",
+        "Cuatro años.",
+        "Cinco años."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 159.3 CE establece la renovación parcial del Tribunal Constitucional por terceras partes (4 miembros) cada tres años.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_068",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "159",
+      "apartado": "4",
+      "dificultad": "alta",
+      "pregunta": "La condición de miembro del Tribunal Constitucional es incompatible con todo mandato representativo, con cargos políticos o administrativos, con el desempeño de funciones directivas en un partido político o sindicato, y con:",
+      "opciones": [
+        "El ejercicio de las carreras judicial y fiscal, y con cualquier actividad profesional o mercantil.",
+        "La publicación de trabajos doctrinales de carácter académico.",
+        "La docencia universitaria a tiempo parcial exclusivamente.",
+        "La condición de funcionario de carrera en situación de excedencia."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 159.4 CE fija un régimen estricto de incompatibilidades para garantizar la independencia de los Magistrados del TC.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_069",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "159",
+      "apartado": "5",
+      "dificultad": "media",
+      "pregunta": "Los miembros del Tribunal Constitucional serán independientes e inamovibles en el ejercicio de su mandato. ¿Qué significa la inamovilidad?",
+      "opciones": [
+        "Que no pueden ser cesados ni suspendidos sino por las causas previstas en la ley orgánica reguladora.",
+        "Que permanecerán en el cargo con carácter vitalicio hasta su jubilación.",
+        "Que no pueden ser objeto de recusación por las partes en ningún procedimiento.",
+        "Que conservan el puesto sin posibilidad de traslado de sede judicial."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 159.5 CE garantiza que los Magistrados del TC son independientes e inamovibles durante sus 9 años de mandato.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_070",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "161",
+      "apartado": "2",
+      "dificultad": "alta",
+      "pregunta": "El Gobierno podrá impugnar ante el Tribunal Constitucional las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas. La impugnación producirá la suspensión de la disposición o resolución recurrida, pero el Tribunal, en su caso, deberá ratificarla o levantarla en un plazo no superior a:",
+      "opciones": [
+        "Cinco meses.",
+        "Tres meses.",
+        "Un mes.",
+        "Seis meses."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 161.2 CE establece la suspensión automática por impugnación del Gobierno central, debiendo el TC resolver sobre su levantamiento o mantenimiento en un plazo máximo de 5 meses.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_071",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "167",
+      "apartado": "2",
+      "dificultad": "alta",
+      "pregunta": "En el procedimiento ordinario de reforma constitucional (art. 167.2 CE), si no hubiere acuerdo entre Congreso y Senado mediante la aprobación por 3/5 de cada Cámara, se intentará obtenerlo mediante las formas siguientes:",
+      "opciones": [
+        "Creación de una Comisión de Composición Paritaria de Diputados y Senadores que presentará un texto a votar por ambas Cámaras.",
+        "Votación directa y conjunta de ambas Cámaras en el Pleno del Congreso.",
+        "Sometimiento directo del texto aprobado por el Congreso a referéndum nacional.",
+        "Arbitraje obligatorio ejercido por el Presidente del Tribunal Constitucional."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 167.2 CE prevé la constitución de una Comisión Paritaria de Diputados y Senadores para intentar consensuar un texto común cuando no coincida la votación de ambas Cámaras.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_072",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "168",
+      "apartado": "2",
+      "dificultad": "alta",
+      "pregunta": "Aprobada el principio de revisión constitucional por mayoría de dos tercios de cada Cámara conforme al procedimiento agravado del artículo 168.1 CE, ¿qué paso automático debe producirse inmediatamente?",
+      "opciones": [
+        "La disolución inmediata de las Cortes Generales.",
+        "La convocatoria automática de un referéndum consultivo.",
+        "La remisión del texto al Rey para su sanción en el plazo de 15 días.",
+        "El trámite de dictamen previo ante el Consejo de Estado."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 168.1 CE exige que, tras aprobarse la decisión de revisar la Constitución por 2/3 de cada Cámara, se procederá a la disolución inmediata de las Cortes.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_097",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "167",
+      "apartado": "3",
+      "dificultad": "alta",
+      "pregunta": "Aprobada la reforma de la Constitución por las Cortes Generales mediante el procedimiento ordinario (art. 167 CE), ¿en qué plazo y por qué porcentaje de miembros de cualquiera de las Cámaras se podrá solicitar que sea sometida a referéndum para su ratificación?",
+      "opciones": [
+        "Dentro de los quince días siguientes a su aprobación, por la décima parte de los miembros de cualquiera de las Cámaras.",
+        "Dentro de los treinta días siguientes, por la quinta parte de los miembros del Congreso.",
+        "Dentro de los diez días siguientes, por un tercio de los miembros del Senado.",
+        "Dentro del mes siguiente, por la mitad más uno de los diputados."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 167.3 CE fija que el referéndum facultativo en la reforma ordinaria debe solicitarse dentro de los 15 días siguientes a su aprobación por la décima parte de los miembros de cualquiera de las Cámaras.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_098",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "168",
+      "apartado": "3",
+      "dificultad": "alta",
+      "pregunta": "En el procedimiento agravado de reforma constitucional (art. 168 CE), una vez ratificado el texto por las nuevas Cortes elegidas y aprobado por la mayoría de dos tercios de cada Cámara:",
+      "opciones": [
+        "La reforma será sometida obligatoriamente a referéndum para su ratificación.",
+        "El referéndum solo se celebrará si lo solicita la décima parte de los Diputados.",
+        "Quedará sancionada directamente por el Rey sin necesidad de referéndum.",
+        "Se someterá a consulta exclusiva de las Asambleas Legislativas de las Comunidades Autónomas."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 168.3 CE establece que en el procedimiento agravado la celebración del referéndum es preceptiva y obligatoria ('será sometida a referéndum para su ratificación').",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_099",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "161",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "El Tribunal Constitucional tiene jurisdicción en todo el territorio español y es competente para conocer, entre otros procesos, de:",
+      "opciones": [
+        "El recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley.",
+        "Los recursos contencioso-administrativos contra actos de los Alcaldes.",
+        "Los pleitos laborales entre empleados públicos y corporaciones locales.",
+        "Las faltas y delitos cometidos por autoridades municipales."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 161.1.a CE otorga al TC la competencia para conocer del recurso de inconstitucionalidad contra leyes y disposiciones con fuerza de ley.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_100",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "162",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "Según el artículo 162.1.a de la CE, ¿quiénes están legitimados para interponer el recurso de inconstitucionalidad?",
+      "opciones": [
+        "El Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores, los órganos colegiados ejecutivos de las CCAA y sus Asambleas.",
+        "Cualquier ciudadano mediante la acción popular directa.",
+        "Exclusivamente el Pleno del Consejo General del Poder Judicial.",
+        "Los Alcaldes de municipios de más de 50.000 habitantes y las Diputaciones Provinciales."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 162.1.a CE detalla la legitimación para el recurso de inconstitucionalidad: Presidente del Gobierno, Defensor del Pueblo, 50 Diputados, 50 Senadores y órganos ejecutivos/asambleas de las CCAA.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_101",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "1",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "Según el artículo 1.1 de la Constitución Española, ¿cuáles son los valores superiores de su ordenamiento jurídico?",
+      "opciones": [
+        "La libertad, la justicia, la igualdad y el pluralismo político.",
+        "La unidad, la solidaridad, el mérito y la capacidad.",
+        "La paz, la seguridad legal, la jerarquía y el bien común.",
+        "La democracia, la descentralización, la autonomía y la eficacia."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 1.1 CE propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_102",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "4",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "¿Cómo está formada la bandera de España según el artículo 4.1 de la Constitución?",
+      "opciones": [
+        "Por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.",
+        "Por tres franjas verticales de igual tamaño en color rojo, amarillo y rojo.",
+        "Por cuatro franjas horizontales alternas rojas y amarillas de igual anchura.",
+        "Por dos franjas horizontales de igual anchura en color amarillo superior y rojo inferior."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 4.1 CE indica que la bandera de España está formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_103",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "11",
+      "apartado": "2",
+      "dificultad": "media",
+      "pregunta": "Conforme al artículo 11.2 de la CE, ¿puede un español de origen ser privado de su nacionalidad?",
+      "opciones": [
+        "Ningún español de origen podrá ser privado de su nacionalidad.",
+        "Sí, por condena firme en caso de delito de traición o contra la seguridad del Estado.",
+        "Sí, mediante resolución motivada del Consejo de Ministros tras residencia continuada en el extranjero.",
+        "Solo si adquiere voluntariamente la nacionalidad de un país sin tratado de doble nacionalidad."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 11.2 CE establece categóricamente que 'ningún español de origen podrá ser privado de su nacionalidad'.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_104",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "13",
+      "apartado": "3",
+      "dificultad": "alta",
+      "pregunta": "Según el artículo 13.3 de la CE, la extradición solo se concederá en cumplimiento de un tratado o de la ley, atendiendo al principio de reciprocidad. ¿Qué delitos quedan excluidos de la extradición?",
+      "opciones": [
+        "Los delitos políticos, no considerándose como tales los actos de terrorismo.",
+        "Los delitos contra la Hacienda Pública y la Seguridad Social.",
+        "Los delitos cometidos por imprudencia grave.",
+        "Los delitos medioambientales y urbanísticos."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 13.3 CE excluye de la extradición los delitos políticos, aclarando explícitamente que no se consideran tales los actos de terrorismo.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_105",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "20",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "El artículo 20.1.d) de la CE reconoce el derecho a comunicar o recibir libremente información veraz por cualquier medio de difusión. ¿Qué dos garantias encomienda la ley regular en este ámbito?",
+      "opciones": [
+        "La cláusula de conciencia y el secreto profesional.",
+        "La libre colegiación y el arancel periodístico.",
+        "El carné profesional y la colegiación obligatoria.",
+        "El depósito legal y la autorización previa de publicación."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 20.1.d CE indica que la ley regulará el derecho a la cláusula de conciencia y al secreto profesional en el ejercicio de la libertad de información.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_106",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "20",
+      "apartado": "4",
+      "dificultad": "media",
+      "pregunta": "Las libertades del artículo 20 de la CE tienen su límite en el respeto a los derechos reconocidos en el Título I, en los preceptos de las leyes que lo desarrollen y, especialmente, en el derecho al honor, a la intimidad, a la propia imagen y a:",
+      "opciones": [
+        "La protección de la juventud y de la infancia.",
+        "El derecho de propiedad y el secreto comercial.",
+        "El secreto de las actuaciones administrativas municipales.",
+        "El principio de autoridad de los funcionarios públicos."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 20.4 CE fija de forma expresa el límite de la libertad de expresión en el derecho al honor, intimidad, propia imagen y en la protección de la juventud y de la infancia.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_107",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "39",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "Ubicado en el Capítulo III del Título I (Principios rectores de la política social y económica), el artículo 39.1 de la CE establece que los poderes públicos aseguran la protección social, económica y jurídica de:",
+      "opciones": [
+        "La familia.",
+        "Las pequeñas y medianas empresas exclusivamente.",
+        "Las Corporaciones Locales de menor población.",
+        "Los colegios profesionales de la función pública."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 39.1 CE dispone que 'los poderes públicos aseguran la protección social, económica y jurídica de la familia'.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_108",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "41",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "Según el artículo 41 de la CE, los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de:",
+      "opciones": [
+        "Desempleo.",
+        "Expropiación forzosa municipal.",
+        "Inspección tributaria desfavorable.",
+        "Sanción disciplinaria administrativa."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 41 CE destaca de forma específica la cobertura de prestaciones sociales suficientes ante situaciones de necesidad, 'especialmente en caso de desempleo'.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_109",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "47",
+      "apartado": "1",
+      "dificultad": "fácil",
+      "pregunta": "Todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada según el artículo 47 de la CE. ¿Qué mandato se impone a la comunidad respecto a las plusvalías que genere la acción urbanística de los entes públicos?",
+      "opciones": [
+        "La comunidad participará en las plusvalías que genere la acción urbanística de los entes públicos.",
+        "Pertenecerán íntegramente a los propietarios originarios del suelo.",
+        "Se destinarán de forma exclusiva al Tesoro Público Estatal.",
+        "Quedan exentas de cualquier tipo de gravamen local."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 47 CE consagra que 'la comunidad participará en las plusvalías que genere la acción urbanística de los entes públicos', precepto clave en materia urbanística municipal.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_110",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "53",
+      "apartado": "2",
+      "dificultad": "alta",
+      "pregunta": "Cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el artículo 14 y la Sección 1ª del Capítulo II del Título I ante los Tribunales ordinarios por un procedimiento basado en los principios de:",
+      "opciones": [
+        "Preferencia y sumariedad, y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional.",
+        "Audiencia previa ordinaria y fiscalización plenaria.",
+        "Gratuidad absoluta y doble instancia contenciosa obligatoria.",
+        "Arbitraje administrativo y conciliación previa en sede municipal."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 53.2 CE consagra la vía judicial preferente y sumaria y el recurso de amparo ante el TC para los derechos comprendidos entre los artículos 14 y 29 (más la objeción de conciencia del art. 30).",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_111",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "53",
+      "apartado": "3",
+      "dificultad": "alta",
+      "pregunta": "¿Cómo pueden ser alegados ante la Jurisdicción ordinaria los principios reconocidos en el Capítulo III (Principios rectores de la política social y económica)?",
+      "opciones": [
+        "Solo podrán ser alegados de acuerdo con lo que dispongan las leyes que los desarrollen.",
+        "Mediante recurso de amparo directo ante el Tribunal Constitucional.",
+        "Directamente sin necesidad de desarrollo legislativo previo.",
+        "Únicamente en vía de petición ante el Defensor del Pueblo."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 53.3 CE aclara que la alegación de los principios rectores ante la jurisdicción ordinaria se hará de acuerdo con lo que dispongan las leyes que los desarrollen.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_112",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "163",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "Cuando un órgano judicial considere, en algún proceso, que una norma con rango de ley aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución, planteará la cuestión ante el Tribunal Constitucional. ¿Qué nombre recibe este cauce?",
+      "opciones": [
+        "Cuestión de inconstitucionalidad.",
+        "Recurso directo de amparo judicial.",
+        "Conflicto en defensa de la autonomía local.",
+        "Recurso de casación por infracción constitucional."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 163 CE regula la cuestión de inconstitucionalidad promovida por jueces o tribunales ante el TC cuando una ley de la que depende el fallo pueda ser inconstitucional.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_113",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "164",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "Las sentencias del Tribunal Constitucional se publicarán en el Boletín Oficial del Estado con los votos particulares, si los hubiere. Tienen el valor de cosa juzgada a partir de:",
+      "opciones": [
+        "El día siguiente al de su publicación.",
+        "El mismo día de su firma por el Presidente del Tribunal.",
+        "Los quince días posteriores a su notificación a las partes.",
+        "Su lectura pública en sesión plenaria."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 164.1 CE indica expresamente que las sentencias del TC tienen el valor de cosa juzgada a partir del día siguiente al de su publicación en el BOE.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_114",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "164",
+      "apartado": "1",
+      "dificultad": "alta",
+      "pregunta": "Salvo que en la sentencia se disponga otra cosa, la declaración de inconstitucionalidad de una ley o norma con fuerza de ley afectará a la vigencia de la misma, pero no revisará los procesos fenecidos mediante sentencia con fuerza de cosa juzgada en los que se haya aplicado la ley inconstitucional, salvo en el caso de:",
+      "opciones": [
+        "Los procesos penales o contencioso-administrativos referentes a un procedimiento sancionador en que, como consecuencia de la nulidad de la norma aplicada, resulte una reducción de la pena o de la sanción o una exclusión o exención de la responsabilidad.",
+        "Las reclamaciones de responsabilidad patrimonial tramitadas ante corporaciones locales.",
+        "Los expedientes de expropiación forzosa firme.",
+        "Cualquier juicio civil de cuantía superior a 100.000 euros."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 164.1 CE recoge la excepción a la intangibilidad de la cosa juzgada: los procesos penales o contenciosos sancionadores donde la nulidad beneficie al reo/sancionado.",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    },
+    {
+      "id_pregunta": "preg_t01_ce_115",
+      "id_tema": 1,
+      "id_norma": "ce_1978",
+      "articulo": "165",
+      "apartado": "1",
+      "dificultad": "media",
+      "pregunta": "¿Mediante qué tipo de norma se regulará el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones?",
+      "opciones": [
+        "Una Ley Orgánica.",
+        "Un Real Decreto del Consejo de Ministros.",
+        "Una Ley Ordinaria aprobada por mayoría simple de ambas Cámaras.",
+        "Un Reglamento interno aprobado por el Congreso de los Diputados."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 165 CE exige expresamente que el Tribunal Constitucional y su estatuto se regulen mediante Ley Orgánica (LOTC 2/1979).",
+      "control_normativo": {
+        "estado": "activa",
+        "fecha_creacion": "2026-10-15",
+        "fecha_ultima_revision": "2026-10-15",
+        "motivo_estado": "Vigente conforme a la CE de 1978"
+      }
+    }
+  ]
+}

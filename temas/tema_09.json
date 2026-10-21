@@ -1,0 +1,30 @@
+{
+  "convocatoria": {
+    "id": "conv_velez_malaga_c2_2025",
+    "titulo": "Auxiliar Administrativo/a - Ayuntamiento de Vélez-Málaga",
+    "oep": [
+      "2023",
+      "2024"
+    ],
+    "grupo": "C2",
+    "subescala": "Auxiliar",
+    "boletin": "BOP Málaga nº 222 (20/11/2025)",
+    "fecha_publicacion": "2025-11-20"
+  },
+  "metadatos": {},
+  "temario": [
+    {
+      "id_tema": 9,
+      "bloque": "Materias específicas",
+      "titulo_tema": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (III)",
+      "epigrafes": [
+        "La revisión de oficio",
+        "Los recursos administrativos: principios generales",
+        "Recurso de alzada: objeto y plazos",
+        "Recurso potestativo de reposición: objeto, naturaleza y plazos",
+        "Recurso extraordinario de revisión: objeto, plazos y resolución"
+      ]
+    }
+  ],
+  "preguntas": []
+}

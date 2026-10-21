@@ -1,0 +1,29 @@
+{
+  "convocatoria": {
+    "id": "conv_velez_malaga_c2_2025",
+    "titulo": "Auxiliar Administrativo/a - Ayuntamiento de Vélez-Málaga",
+    "oep": [
+      "2023",
+      "2024"
+    ],
+    "grupo": "C2",
+    "subescala": "Auxiliar",
+    "boletin": "BOP Málaga nº 222 (20/11/2025)",
+    "fecha_publicacion": "2025-11-20"
+  },
+  "metadatos": {},
+  "temario": [
+    {
+      "id_tema": 14,
+      "bloque": "Materias específicas",
+      "titulo_tema": "El personal al servicio de las entidades locales (I)",
+      "epigrafes": [
+        "Normativa aplicable a los funcionarios locales",
+        "Concepto y clases de empleados públicos",
+        "Derechos y deberes de los empleados públicos",
+        "Selección de los empleados públicos locales"
+      ]
+    }
+  ],
+  "preguntas": []
+}

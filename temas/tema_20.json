@@ -1,0 +1,28 @@
+{
+  "convocatoria": {
+    "id": "conv_velez_malaga_c2_2025",
+    "titulo": "Auxiliar Administrativo/a - Ayuntamiento de Vélez-Málaga",
+    "oep": [
+      "2023",
+      "2024"
+    ],
+    "grupo": "C2",
+    "subescala": "Auxiliar",
+    "boletin": "BOP Málaga nº 222 (20/11/2025)",
+    "fecha_publicacion": "2025-11-20"
+  },
+  "metadatos": {},
+  "temario": [
+    {
+      "id_tema": 20,
+      "bloque": "Materias específicas",
+      "titulo_tema": "Prevención de Riesgos Laborales y Autoprotección en el Ayuntamiento de Vélez-Málaga",
+      "epigrafes": [
+        "Ley 31/1995: ámbito de aplicación, definiciones, derechos y obligaciones de los trabajadores",
+        "Organización del Servicio de Prevención de Riesgos Laborales del Excmo. Ayuntamiento de Vélez-Málaga",
+        "Real Decreto 393/2007: Norma Básica de Autoprotección y Planes de Autoprotección"
+      ]
+    }
+  ],
+  "preguntas": []
+}

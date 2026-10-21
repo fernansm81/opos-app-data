@@ -1,0 +1,30 @@
+{
+  "convocatoria": {
+    "id": "conv_velez_malaga_c2_2025",
+    "titulo": "Auxiliar Administrativo/a - Ayuntamiento de Vélez-Málaga",
+    "oep": [
+      "2023",
+      "2024"
+    ],
+    "grupo": "C2",
+    "subescala": "Auxiliar",
+    "boletin": "BOP Málaga nº 222 (20/11/2025)",
+    "fecha_publicacion": "2025-11-20"
+  },
+  "metadatos": {},
+  "temario": [
+    {
+      "id_tema": 19,
+      "bloque": "Materias específicas",
+      "titulo_tema": "Las Haciendas Locales y Tributos Municipales",
+      "epigrafes": [
+        "Los recursos municipales: clases",
+        "Los tributos propios: clases",
+        "Impuesto sobre Bienes Inmuebles (IBI): hecho imponible, sujetos pasivos y base imponible",
+        "Impuesto sobre Vehículos de Tracción Mecánica (IVTM): hecho imponible, sujetos pasivos y base imponible",
+        "Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana (IIVTNU): hecho imponible, sujetos pasivos y base imponible"
+      ]
+    }
+  ],
+  "preguntas": []
+}

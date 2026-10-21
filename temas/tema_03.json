@@ -1,0 +1,844 @@
+{
+  "convocatoria": {
+    "id": "conv_velez_malaga_c2_2025",
+    "titulo": "Auxiliar Administrativo/a - Ayuntamiento de Vélez-Málaga",
+    "oep": [
+      "2023",
+      "2024"
+    ],
+    "grupo": "C2",
+    "subescala": "Auxiliar",
+    "boletin": "BOP Málaga nº 222 (20/11/2025)",
+    "fecha_publicacion": "2025-11-20"
+  },
+  "metadatos": {},
+  "temario": [
+    {
+      "id_tema": 3,
+      "bloque": "Materias comunes",
+      "titulo_tema": "La Constitución Española (III): La Organización Territorial del Estado",
+      "epigrafes": [
+        "El Estado español como Estado compuesto",
+        "La organización territorial del Estado: Título VIII de la Constitución Española"
+      ]
+    }
+  ],
+  "preguntas": [
+    {
+      "id_pregunta": "preg_t03_ce_001",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "137",
+      "dificultad": "fácil",
+      "pregunta": "Según el artículo 137 de la CE, el Estado se organiza territorialmente en:",
+      "opciones": [
+        "Municipios, provincias y en las Comunidades Autónomas que se constituyan.",
+        "Comarcas, municipios y regiones.",
+        "Provincias, cantones y Comunidades Autónomas.",
+        "Distritos, municipios y provincias."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 137 CE establece que el Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_002",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "137",
+      "dificultad": "media",
+      "pregunta": "Todas las entidades territoriales mencionadas en el artículo 137 de la CE gozan de:",
+      "opciones": [
+        "Autonomía para la gestión de sus respectivos intereses.",
+        "Soberanía propia e inderogable.",
+        "Potestad legislativa plena e ilimitada.",
+        "Capacidad de autogobierno judicial."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 137 CE garantiza que todas las entidades territoriales gozan de autonomía para la gestión de sus respectivos intereses.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_003",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "138.1",
+      "dificultad": "fácil",
+      "pregunta": "El Estado garantiza la realización efectiva del principio de solidaridad, velando por el establecimiento de un equilibrio económico, adecuado y justo, atendiendo en particular a las circunstancias del:",
+      "opciones": [
+        "Hecho insular.",
+        "Área metropolitana.",
+        "Suelo industrial.",
+        "Sector primario."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 138.1 CE señala expresamente que se atenderá en particular a las circunstancias del hecho insular.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_004",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "138.2",
+      "dificultad": "media",
+      "pregunta": "Las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar, en ningún caso:",
+      "opciones": [
+        "Privilegios económicos o sociales.",
+        "Diferencias en las competencias asumidas.",
+        "Distintos símbolos o banderas oficiales.",
+        "Diversidad en el número de parlamentarios."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 138.2 CE prohíbe taxativamente que las diferencias entre Estatutos impliquen privilegios económicos o sociales.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_005",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "139.1",
+      "dificultad": "fácil",
+      "pregunta": "Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado. ¿En qué artículo de la CE se consagra esta igualdad?",
+      "opciones": [
+        "Artículo 137.",
+        "Artículo 138.",
+        "Artículo 139.1.",
+        "Artículo 140."
+      ],
+      "respuesta_correcta": 2,
+      "explicacion": "El art. 139.1 CE consagra la igualdad de derechos y obligaciones de todos los españoles en cualquier parte del territorio.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_006",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "139.2",
+      "dificultad": "media",
+      "pregunta": "Ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y establecimiento de personas y la libre circulación de bienes en todo el territorio español. Este principio se refiere a:",
+      "opciones": [
+        "La unidad de mercado e intangibilidad territorial.",
+        "La soberanía provincial.",
+        "La reserva de ley de presupuestos.",
+        "La potestad sancionadora municipal."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 139.2 CE prohíbe obstáculos a la libre circulación de personas y bienes en todo el territorio español.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_007",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "140",
+      "dificultad": "fácil",
+      "pregunta": "La Constitución garantiza la autonomía de los municipios. Estos gozarán de:",
+      "opciones": [
+        "Personalidad jurídica plena.",
+        "Soberanía originaria.",
+        "Potestad legislativa autonómica.",
+        "Personalidad judicial propia."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 140 CE establece expresamente que los municipios gozarán de personalidad jurídica plena.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_008",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "140",
+      "dificultad": "fácil",
+      "pregunta": "El gobierno y la administración de los municipios corresponde a sus respectivos Ayuntamientos, integrados por:",
+      "opciones": [
+        "Los Alcaldes y los Concejales.",
+        "Los Alcaldes y el Subdelegado del Gobierno.",
+        "Los Concejales y los Diputados Provinciales.",
+        "El Alcalde y el Pleno de la Diputación."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 140 CE determina que los Ayuntamientos están integrados por los Alcaldes y los Concejales.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_009",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "140",
+      "dificultad": "media",
+      "pregunta": "Los Concejales serán elegidos por los vecinos del municipio mediante sufragio:",
+      "opciones": [
+        "Universal, igual, libre, directo y secreto.",
+        "Indirecto a través de compromisarios.",
+        "Censitario y restringido a propietarios.",
+        "Directo únicamente por los cabezas de familia."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 140 CE especifica que los Concejales son elegidos mediante sufragio universal, igual, libre, directo y secreto.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_010",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "140",
+      "dificultad": "media",
+      "pregunta": "Según el artículo 140 de la CE, los Alcaldes serán elegidos por:",
+      "opciones": [
+        "Los Concejales o por los vecinos.",
+        "El Subdelegado del Gobierno en la provincia.",
+        "Los vecinos mediante votación en lista abierta exclusivamente.",
+        "El Pleno de la Diputación Provincial."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 140 CE señala que los Alcaldes serán elegidos por los Concejales o por los vecinos (en régimen de concejo abierto).",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_011",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "140",
+      "dificultad": "media",
+      "pregunta": "La ley regulará las condiciones en que proceda el régimen del Concejo Abierto. ¿A qué entidad se aplica de forma tradicional?",
+      "opciones": [
+        "A pequeños municipios.",
+        "A las grandes ciudades.",
+        "A las provincias insulares.",
+        "A las capitales de provincia."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 140 CE prevé el régimen del Concejo Abierto para los municipios que tradicionalmente funcionen así o en los que convenga por sus características.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_012",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "141.1",
+      "dificultad": "fácil",
+      "pregunta": "La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado. Cualquier alteración de los límites provinciales habrá de ser aprobada por:",
+      "opciones": [
+        "Las Cortes Generales mediante ley orgánica.",
+        "Las Asambleas de las Comunidades Autónomas.",
+        "Decreto del Consejo de Ministros.",
+        "Acuerdo de los Plenos municipales afectados."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 141.1 CE exige expresamente Ley Orgánica aprobada por las Cortes Generales para alterar los límites provinciales.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_013",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "141.2",
+      "dificultad": "fácil",
+      "pregunta": "El gobierno y la administración autónoma de las provincias estarán encomendados a:",
+      "opciones": [
+        "Diputaciones u otras Corporaciones de carácter representativo.",
+        "Delegaciones del Gobierno en todo caso.",
+        "Los Ayuntamientos de las capitales de provincia.",
+        "Mancomunidades regionales."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 141.2 CE atribuye el gobierno provincial a las Diputaciones u otras Corporaciones de carácter representativo.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_014",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "141.3",
+      "dificultad": "media",
+      "pregunta": "Se podrán crear agrupaciones de municipios diferentes de la provincia. ¿Qué artículo de la Constitución lo prevé?",
+      "opciones": [
+        "Artículo 141.3.",
+        "Artículo 140.2.",
+        "Artículo 143.1.",
+        "Artículo 145.2."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 141.3 CE habilita la creación de comarcas u otras agrupaciones de municipios distintas de la provincia.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_015",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "141.4",
+      "dificultad": "media",
+      "pregunta": "En los archipiélagos, las islas tendrán además su administración propia en forma de:",
+      "opciones": [
+        "Cabildos o Consejos.",
+        "Diputaciones Provinciales únicamente.",
+        "Veguerías o comarcas.",
+        "Delegaciones insulares del Ministerio."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 141.4 CE establece que en los archipiélagos las islas tendrán su administración propia en forma de Cabildos (Canarias) o Consejos (Baleares).",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_016",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "142",
+      "dificultad": "fácil",
+      "pregunta": "Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de:",
+      "opciones": [
+        "Tributos propios y de participación en los del Estado y de las Comunidades Autónomas.",
+        "Transferencias del Banco de España exclusivamente.",
+        "Subvenciones internacionales de la Unión Europea.",
+        "Tasas judiciales y multas gubernativas."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 142 CE prescribe que las Haciendas locales se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y CCAA.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_017",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "143.1",
+      "dificultad": "media",
+      "pregunta": "En el ejercicio del derecho a la autonomía reconocido en el artículo 2 de la CE, podrán acceder a su autogobierno y constituirse en Comunidades Autónomas:",
+      "opciones": [
+        "Las provincias limítrofes con características históricas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional histórica.",
+        "Cualquier comarca con más de 100.000 habitantes.",
+        "Exclusivamente las tres regiones históricas del país.",
+        "Las agrupaciones de municipios pertenecientes a distintas provincias no limítrofes."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 143.1 CE enumera los tres sujetos con derecho a acceder a la autonomía política.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_018",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "143.2",
+      "dificultad": "difícil",
+      "pregunta": "En la vía ordinaria de acceso a la autonomía (artículo 143.2), la iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al órgano interinsular correspondiente y a:",
+      "opciones": [
+        "Las dos terceras partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla.",
+        "La mitad más uno de todos los municipios del Estado.",
+        "Las tres cuartas partes de los municipios independientemente de su población.",
+        "La mayoría absoluta de los Plenos de las capitales de provincia."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 143.2 CE exige el acuerdo de 2/3 de los municipios cuya población represente al menos la mayoría del censo de cada provincia/isla.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_019",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "143.2",
+      "dificultad": "media",
+      "pregunta": "En la vía ordinaria del artículo 143.2, los requisitos de la iniciativa autonómica deberán ser cumplidos en el plazo de:",
+      "opciones": [
+        "3 meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas.",
+        "6 meses desde el primer acuerdo adoptado.",
+        "1 año natural.",
+        "2 años improrrogables."
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "El art. 143.2 fijó un plazo de seis meses desde el primer acuerdo para completar la iniciativa autonómica.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_020",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "143.3",
+      "dificultad": "media",
+      "pregunta": "La iniciativa autonómica vía ordinaria, en caso de no prosperar, solamente podrá reiterarse pasados:",
+      "opciones": [
+        "2 años.",
+        "3 años.",
+        "5 años.",
+        "10 años."
+      ],
+      "respuesta_correcta": 2,
+      "explicacion": "El art. 143.3 CE prevé que, de no prosperar la iniciativa, solo podrá reiterarse transcurridos cinco años.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_021",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "144",
+      "dificultad": "difícil",
+      "pregunta": "Las Cortes Generales, mediante ley orgánica, podrán, por motivos de interés nacional:",
+      "opciones": [
+        "Autorizar la constitución de una comunidad autónoma cuando su territorio no supere el de una provincia y no esté integrada en la organización provincial.",
+        "Suprimir las Haciendas Locales.",
+        "Modificar unilateralmente los límites del mar territorial.",
+        "Derogar los Estatutos aprobados sin consulta previa."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 144.a CE faculta a las Cortes para autorizar mediante LO la constitución de CCAA uniprovinciales sin entidad regional previa (ej. Madrid).",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_022",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "144.b",
+      "dificultad": "difícil",
+      "pregunta": "¿Qué mecanismo constitucional utilizó el Estado para otorgar los Estatutos de Autonomía a Ceuta y Melilla?",
+      "opciones": [
+        "El artículo 144.b de la CE (autorizar o acordar un Estatuto de Autonomía para territorios no integrados en la organización provincial).",
+        "La vía de excepción del artículo 151 de la CE.",
+        "La disposición transitoria quinta previa consulta.",
+        "El artículo 143 mediante convenio internacional."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 144.b CE permite a las Cortes autorizar o acordar Estatutos de Autonomía para territorios que no estén integrados en la organización provincial.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_023",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "145.1",
+      "dificultad": "fácil",
+      "pregunta": "En ningún caso se admitirá la federación de:",
+      "opciones": [
+        "Comunidades Autónomas.",
+        "Provincias de la misma región.",
+        "Municipios colindantes.",
+        "Cabildos e Consejos insulares."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 145.1 CE prohíbe de manera tajante la federación de Comunidades Autónomas.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_025",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "147.1",
+      "dificultad": "fácil",
+      "pregunta": "Dentro de los términos de la Constitución, los Estatutos de Autonomía serán la norma institucional básica de cada Comunidad Autónoma y el Estado los reconocerá y amparará como:",
+      "opciones": [
+        "Parte integrante de su ordenamiento jurídico.",
+        "Leyes secundarias de rango reglamentario.",
+        "Tratados de derecho interno.",
+        "Reglamentos ejecutivos delegados."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 147.1 CE establece que los Estatutos son la norma institucional básica y forman parte del ordenamiento jurídico del Estado.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_026",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "147.2",
+      "dificultad": "media",
+      "pregunta": "¿Cuál de los siguientes contenidos NO es de inclusión obligatoria en los Estatutos de Autonomía según el artículo 147.2 de la CE?",
+      "opciones": [
+        "La denominación de las provincias que integren la Comunidad.",
+        "La denominación de la Comunidad que mejor corresponda a su identidad histórica.",
+        "La delimitación de su territorio.",
+        "El régimen fiscal especial de exención de impuestos estatales."
+      ],
+      "respuesta_correcta": 3,
+      "explicacion": "El art. 147.2 enumera el contenido mínimo obligatorio: denominación, territorio, instituciones y competencias, sin incluir regímenes de exención fiscal.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_027",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "147.3",
+      "dificultad": "media",
+      "pregunta": "La reforma de los Estatutos de Autonomía requerirá en todo caso:",
+      "opciones": [
+        "Aprobación por las Cortes Generales mediante ley orgánica.",
+        "Informe previo favorable del Tribunal Supremo.",
+        "Aprobación por Decreto del Presidente del Gobierno.",
+        "Ratificación por el Parlamento Europeo."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 147.3 exige el procedimiento establecido en los propios Estatutos y aprobación por las Cortes mediante Ley Orgánica.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_028",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "148.1",
+      "dificultad": "media",
+      "pregunta": "Las Comunidades Autónomas podrán asumir competencias en materias como la ordenación del territorio, urbanismo y vivienda. ¿En qué artículo de la CE se recoge el catálogo de competencias asumibles inicialmente por la vía ordinaria?",
+      "opciones": [
+        "Artículo 148.1.",
+        "Artículo 149.1.",
+        "Artículo 150.2.",
+        "Artículo 152.1."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 148.1 CE enumera la lista de materias que podían ser asumidas por las CCAA en el momento de su constitución.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_029",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "148.2",
+      "dificultad": "media",
+      "pregunta": "Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas constituidas por la vía del artículo 143 podrán ampliar sucesivamente sus competencias dentro del marco del artículo:",
+      "opciones": [
+        "149.",
+        "148.",
+        "150.",
+        "151."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El artículo 148.2 CE fija el plazo de 5 años para que las CCAA de la vía ordinaria amplíen competencias dentro del marco del art. 149.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_031",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "149.1.1ª",
+      "dificultad": "media",
+      "pregunta": "El Estado tiene competencia exclusiva sobre la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales. Esta competencia se recoge en el artículo:",
+      "opciones": [
+        "149.1.1ª",
+        "148.1.1ª",
+        "139.1",
+        "150.2"
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "Artículo 149.1.1ª CE: título competencial exclusivo del Estado para garantizar la igualdad básica nacional.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_032",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "149.1.2ª",
+      "dificultad": "fácil",
+      "pregunta": "¿A quién corresponde la competencia exclusiva sobre nacionalidad, inmigración, emigración, extranjería y derecho de asilo?",
+      "opciones": [
+        "Al Estado.",
+        "A las Comunidades Autónomas.",
+        "A las Provincias de frontera.",
+        "Compartida al 50% con la Unión Europea."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "Materia atribuida en exclusiva al Estado por el artículo 149.1.2ª de la Constitución.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_033",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "149.1.3ª",
+      "dificultad": "fácil",
+      "pregunta": "Las relaciones internacionales son competencia exclusiva de:",
+      "opciones": [
+        "El Estado.",
+        "Las Comunidades Autónomas con costa exterior.",
+        "El Ministerio de Asuntos Exteriores y los Presidentes autonómicos.",
+        "Las Cortes Generales en sesión conjunta."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "Artículo 149.1.3ª CE: atribución exclusiva al Estado de las relaciones internacionales.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_034",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "149.1.4ª",
+      "dificultad": "fácil",
+      "pregunta": "La Defensa y Fuerzas Armadas son competencia exclusiva de:",
+      "opciones": [
+        "El Estado.",
+        "El Estado y las CCAA con fronteras militares.",
+        "Las Juntas de Seguridad Autonómicas.",
+        "El Consejo de Estado."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El artículo 149.1.4ª reserva la Defensa y las Fuerzas Armadas en exclusiva al Estado.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_035",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "149.1.18ª",
+      "dificultad": "media",
+      "pregunta": "El Estado tiene competencia exclusiva sobre las bases del régimen jurídico de las Administraciones Públicas y el régimen estatutario de sus funcionarios. Esto garantiza:",
+      "opciones": [
+        "Un núcleo común mínimo a todas las Administraciones Públicas españolas.",
+        "Que las CCAA no puedan tener funcionarios propios.",
+        "Que los sueldos locales los fije directamente el Ministerio.",
+        "La sustitución de la LRJSP por normas locales."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El art. 149.1.18ª asegura la legislación básica estatal en materia de empleo público y régimen jurídico administrativo.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_036",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "149.3",
+      "dificultad": "media",
+      "pregunta": "Las materias no atribuidas expresamente al Estado por la Constitución podrán ser asumidas por las Comunidades Autónomas en virtud de sus respectivos Estatutos. La competencia sobre las materias que no se hayan asumido por los Estatutos corresponderá a:",
+      "opciones": [
+        "El Estado.",
+        "Las Diputaciones Provinciales.",
+        "Los Municipios afectados.",
+        "El Tribunal Constitucional mediante arbitraje."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "Principio de supletoriedad y cláusula residual del artículo 149.3 CE a favor del Estado.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_037",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "149.3",
+      "dificultad": "media",
+      "pregunta": "En caso de conflicto, las normas del Estado prevalecerán sobre las de las Comunidades Autónomas en todo lo que no esté atribuido a la exclusiva competencia de estas. El derecho estatal será, en todo caso:",
+      "opciones": [
+        "Supletorio del derecho de las Comunidades Autónomas.",
+        "Nulo de pleno derecho.",
+        "Derogado por la ley autonómica posterior.",
+        "Sometido a veto del Presidente autonómico."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "Regla constitucional del artículo 149.3 sobre la prevalencia y la supletoriedad del derecho estatal.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_038",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "150.1",
+      "dificultad": "media",
+      "pregunta": "Las Cortes Generales, en materias de competencia estatal, podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar para sí mismas normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal. Estas leyes se denominan:",
+      "opciones": [
+        "Leyes marco.",
+        "Leyes de transferencia.",
+        "Leyes de armonización.",
+        "Leyes orgánicas delegadas."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "Definición exacta de Ley Marco contemplada en el artículo 150.1 CE.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_039",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "150.2",
+      "dificultad": "media",
+      "pregunta": "El Estado podrá transferir o delegar en las Comunidades Autónomas, mediante ley orgánica, facultades correspondientes a materia de titularidad estatal susceptibles de transferencia o delegación. Nos referimos a las:",
+      "opciones": [
+        "Leyes orgánicas de transferencia o delegación.",
+        "Leyes de bases estatales.",
+        "Leyes marco ordinarias.",
+        "Estatutos de Autonomía derivados."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El artículo 150.2 CE regula la transferencia de facultades mediante Ley Orgánica.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_040",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "150.3",
+      "dificultad": "difícil",
+      "pregunta": "El Estado podrá dictar leyes que establezcan los principios necesarios para armonizar las disposiciones normativas de las CCAA, aun en el caso de materias atribuidas a la competencia de estas, cuando así lo exija el interés general. La apreciación de este interés general corresponde a:",
+      "opciones": [
+        "Las Cortes Generales, por mayoría absoluta de cada Cámara.",
+        "El Gobierno mediante Real Decreto Ley.",
+        "El Tribunal Constitucional en Pleno.",
+        "El Consejo de Estado."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El artículo 150.3 otorga a las Cortes Generales la apreciación del interés general por mayoría absoluta de cada Cámara para aprobar Leyes de Armonización.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_041",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "151.1",
+      "dificultad": "difícil",
+      "pregunta": "En la vía especial o rápida de acceso a la autonomía (art. 151.1), se requirió la iniciativa de las Diputaciones e invocar el acuerdo de las tres cuartas partes de los municipios de cada provincia afectada que representen, al menos, la mayoría del censo electoral, siendo además necesaria la ratificación mediante:",
+      "opciones": [
+        "Referéndum con el voto afirmativo de la mayoría absoluta de los electores de cada provincia.",
+        "Ley Orgánica de las Cortes aprobada por dos tercios.",
+        "Acuerdo unánime de las Asambleas autonómicas.",
+        "Aprobación del Tribunal Supremo."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "Exigencia reforzada de ratificación por referéndum con mayoría absoluta de electores en cada provincia (caso de Andalucía por art. 151).",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_042",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "152.1",
+      "dificultad": "media",
+      "pregunta": "En las Comunidades Autónomas que accedieron por la vía del artículo 151, la organización institucional autonómica se basará en:",
+      "opciones": [
+        "Una Asamblea Legislativa, un Consejo de Gobierno y un Presidente elegido por la Asamblea de entre sus miembros.",
+        "Un Gobernador Civil y un Consejo Consultivo.",
+        "Un Presidente designado directamente por el Rey.",
+        "Una Cámara Alta y una Cámara Baja autonómica."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "Estructura institucional obligatoria regulada en el artículo 152.1 para CCAA de vía rápida.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_043",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "152.1",
+      "dificultad": "media",
+      "pregunta": "El Presidente de la Comunidad Autónoma es nombrado por:",
+      "opciones": [
+        "El Rey.",
+        "El Presidente del Congreso de los Diputados.",
+        "El Presidente del Gobierno.",
+        "El Tribunal Superior de Justicia."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El artículo 152.1 establece formalmente que el Presidente de la Comunidad Autónoma es nombrado por el Rey.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_044",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "152.1",
+      "dificultad": "media",
+      "pregunta": "Un Tribunal Superior de Justicia culminará la organización judicial en el ámbito territorial de la Comunidad Autónoma, sin perjuicio de la jurisdicción que corresponde al:",
+      "opciones": [
+        "Tribunal Supremo.",
+        "Tribunal Constitucional.",
+        "Juzgado de lo Contencioso Provincial.",
+        "Consejo General del Poder Judicial."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El artículo 152.1 atribuye al TSJ la cúspide judicial autonómica, salvo las competencias del Tribunal Supremo.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_045",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "153",
+      "dificultad": "media",
+      "pregunta": "El control de la constitucionalidad de las disposiciones normativas con fuerza de ley de las Comunidades Autónomas se ejerce por:",
+      "opciones": [
+        "El Tribunal Constitucional.",
+        "El Gobierno central.",
+        "La Jurisdicción Contencioso-Administrativa.",
+        "El Tribunal de Cuentas."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El artículo 153.a atribuye expresamente al Tribunal Constitucional el control de las leyes autonómicas.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_046",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "153",
+      "dificultad": "media",
+      "pregunta": "El control relativo a la administración autónoma y sus normas reglamentarias se ejerce por:",
+      "opciones": [
+        "La jurisdicción contencioso-administrativa.",
+        "El Tribunal Constitucional.",
+        "Las Cortes Generales.",
+        "El Consejo de Estado."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El artículo 153.c asigna a los tribunales contencioso-administrativos el control reglamentario autonómico.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_047",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "154",
+      "dificultad": "fácil",
+      "pregunta": "Un Delegado nombrado por el Gobierno dirigirá la Administración del Estado en el territorio de la Comunidad Autónoma y la coordinará, cuando proceda, con la administración propia de la Comunidad. Este órgano es el:",
+      "opciones": [
+        "Delegado del Gobierno.",
+        "Subdelegado de la Provincia.",
+        "Presidente de la Junta de Andalucía.",
+        "Consejero de Presidencia."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El artículo 154 CE configura la figura e instituye el papel del Delegado del Gobierno en cada Comunidad Autónoma.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_048",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "155.1",
+      "dificultad": "difícil",
+      "pregunta": "Si una Comunidad Autónoma no cumpliere las obligaciones que la Constitución u otras leyes le impongan, o actuare de forma que atente gravemente al interés general de España, el Gobierno podrá adoptar las medidas necesarias con la aprobación por mayoría absoluta del:",
+      "opciones": [
+        "Senado.",
+        "Congreso de los Diputados.",
+        "Tribunal Constitucional.",
+        "Consejo de Estado."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El artículo 155.1 CE exige la aprobación formal por mayoría absoluta del Senado previo requerimiento al Presidente autonómico.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_049",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "156.1",
+      "dificultad": "fácil",
+      "pregunta": "Las Comunidades Autónomas gozarán de autonomía financiera para el desarrollo y ejecución de sus competencias con arreglo a los principios de coordinación con la Hacienda estatal y de:",
+      "opciones": [
+        "Solidaridad entre todos los españoles.",
+        "Soberanía tributaria ilimitada.",
+        "Autarquía presupuestaria local.",
+        "Prevalencia de los impuestos autonómicos."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El artículo 156.1 consagra los principios de coordinación con el Estado y solidaridad interterritorial.",
+      "ley": "Constitución Española de 1978"
+    },
+    {
+      "id_pregunta": "preg_t03_ce_050",
+      "id_tema": 3,
+      "id_norma": "ce_1978",
+      "articulo": "158.2",
+      "dificultad": "media",
+      "pregunta": "Con el fin de corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad, se constituirá un Fondo de Compensación con destino a gastos de inversión, cuyos recursos serán distribuidos por:",
+      "opciones": [
+        "Las Cortes Generales entre las Comunidades Autónomas y provincias.",
+        "El Banco de España.",
+        "El Consejo de Gobierno de cada CCAA.",
+        "La Unión Europea."
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "El artículo 158.2 CE encomienda a las Cortes Generales la distribución de los recursos del Fondo de Compensación Interterritorial.",
+      "ley": "Constitución Española de 1978"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "convocatoria": {
+    "id": "conv_velez_malaga_c2_2025",
+    "titulo": "Auxiliar Administrativo/a - Ayuntamiento de Vélez-Málaga",
+    "oep": [
+      "2023",
+      "2024"
+    ],
+    "grupo": "C2",
+    "subescala": "Auxiliar",
+    "boletin": "BOP Málaga nº 222 (20/11/2025)",
+    "fecha_publicacion": "2025-11-20"
+  },
+  "metadatos": {},
+  "temario": [
+    {
+      "id_tema": 7,
+      "bloque": "Materias específicas",
+      "titulo_tema": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (I)",
+      "epigrafes": [
+        "Disposiciones generales. Objeto y ámbito de aplicación",
+        "Interesado en el procedimiento administrativo y representación",
+        "Derechos de las personas en sus relaciones con las Administraciones Públicas",
+        "Derecho y obligación de relacionarse electrónicamente con las Administraciones Públicas",
+        "Registros. Archivo de documentos. Validez y eficacia de copias. Documentos aportados",
+        "Términos y plazos"
+      ]
+    }
+  ],
+  "preguntas": []
+}

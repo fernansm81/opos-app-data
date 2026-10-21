@@ -4942,7 +4942,7 @@
     "id_pregunta": "preg_t17_vg_008",
     "id_tema": 17,
     "id_norma": "lo_1_2004",
-    "articulo": "17.3",
+    "articulo": "18.3",
     "dificultad": "media",
     "pregunta": "Se garantizará que la información a las víctimas con discapacidad o de colectivos vulnerables sea accesible mediante:",
     "opciones": [
@@ -4952,7 +4952,7 @@
       "La asistencia exclusiva de familiares de primer grado."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El art. 17.3 dispone que la información debe ofrecerse en formato accesible y comprensible para personas con discapacidad o situaciones especiales.",
+    "explicacion": "El art. 18.3 dispone que la información debe ofrecerse en formato accesible y comprensible para personas con discapacidad o situaciones especiales.",
     "ley": "Ley Orgánica 1/2004"
   },
   {
@@ -5350,17 +5350,17 @@
     "id_pregunta": "preg_t17_vg_032",
     "id_tema": 17,
     "id_norma": "lo_1_2004",
-    "articulo": "2.f",
+    "articulo": "2.i",
     "dificultad": "media",
     "pregunta": "Promover la colaboración y participación de las entidades, asociaciones y organizaciones que actúan contra la violencia de género es:",
     "opciones": [
-      "Un principio rector enunciado en el artículo 2.f de la LO 1/2004.",
+      "Un principio rector enunciado en el artículo 2.i de la LO 1/2004.",
       "Una prohibición expresa de la legislación administrativa.",
       "Una facultad propia exclusivamente de los colegios profesionales.",
       "Un trámite obligatorio para dictar sentencia judicial."
     ],
     "respuesta_correcta": 0,
-    "explicacion": "El art. 2.f alienta la participación ciudadana y del tejido asociativo especializado en la lucha contra la violencia de género.",
+    "explicacion": "El art. 2.i alienta la participación ciudadana y del tejido asociativo especializado en la lucha contra la violencia de género.",
     "ley": "Ley Orgánica 1/2004"
   },
   {
@@ -5602,27 +5602,10 @@
     "ley": "Ley Orgánica 1/2004"
   },
   {
-    "id_pregunta": "preg_t17_vg_047",
-    "id_tema": 17,
-    "id_norma": "lo_1_2004",
-    "articulo": "18.1",
-    "dificultad": "media",
-    "pregunta": "Los centros de acogida para víctimas de violencia de género garantizan:",
-    "opciones": [
-      "Alojamiento seguro, manutención y atención multidisciplinar a las víctimas y a sus hijos e hijas.",
-      "La privación de comunicación con el exterior sin autorización del juez.",
-      "Únicamente estancia nocturna en horario de 22:00 a 08:00.",
-      "Alojamiento condicionado a la previa aportación de fianza metálica."
-    ],
-    "respuesta_correcta": 0,
-    "explicacion": "Ofrecen refugio seguro, manutención integral y asistencia multidisciplinar para las mujeres y menores a su cargo.",
-    "ley": "Ley Orgánica 1/2004"
-  },
-  {
     "id_pregunta": "preg_t17_vg_048",
     "id_tema": 17,
     "id_norma": "lo_1_2004",
-    "articulo": "19.1",
+    "articulo": "20",
     "dificultad": "media",
     "pregunta": "En los colegios de abogados se dispondrá de un turno de oficio especializado para la atención a víctimas de violencia de género:",
     "opciones": [
@@ -5905,23 +5888,6 @@
     ],
     "respuesta_correcta": 0,
     "explicacion": "Todo el periodo de permanencia en esta modalidad de excedencia cuenta íntegramente para el devengo de trienios.",
-    "ley": "Ley Orgánica 1/2004"
-  },
-  {
-    "id_pregunta": "preg_t17_vg_065",
-    "id_tema": 17,
-    "id_norma": "lo_1_2004",
-    "articulo": "2.b",
-    "dificultad": "fácil",
-    "pregunta": "Los derechos garantizados a las mujeres víctimas de violencia de género por la LO 1/2004 corresponden a las víctimas:",
-    "opciones": [
-      "Con independencia de su origen, religión o cualquier otra condición o circunstancia personal o social.",
-      "Únicamente si poseen nacionalidad española de origen.",
-      "Solo si cuentan con permiso de residencia permanente en España.",
-      "Sujeto a la firma de un convenio de reciprocidad con su país de origen."
-    ],
-    "respuesta_correcta": 0,
-    "explicacion": "Se garantiza la universalidad de los derechos sin discriminación por nacionalidad, origen o situación administrativa.",
     "ley": "Ley Orgánica 1/2004"
   },
   {
